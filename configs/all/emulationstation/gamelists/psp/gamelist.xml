@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./LittleBigPlanet.iso</path>
+		<name>LittleBigPlanet</name>
+		<playcount>6</playcount>
+		<lastplayed>20201106T192056</lastplayed>
+	</game>
+	<game>
+		<path>./Final_Fantasy_VII.PBP</path>
+		<name>Final_Fantasy_VII</name>
+		<playcount>1</playcount>
+		<lastplayed>20201229T203523</lastplayed>
+	</game>
+	<game>
+		<path>./Avatar - The Last Airbender.iso</path>
+		<name>Avatar: The Last Airbender</name>
+		<desc>Bring to life an adventure of intrigue, deceit and revelation in Avatar: The Last Airbender, based on the popular Nickelodeon show. Play as Aang, Katara, Haru and Sokka as you grow your team into an unstoppable force and make discoveries in this thrilling blend of magic and martial arts. Use your fully customisable bending powers to master the four elements of Earth, Air, Water and Fire and explore the beautifully detailed environments of the Avatar nations.</desc>
+		<image>~/.emulationstation/downloaded_images/psp/Avatar - The Last Airbender-image.jpg</image>
+		<releasedate>20061010T000000</releasedate>
+		<developer>THQ</developer>
+		<publisher>THQ</publisher>
+		<genre>Action, Adventure, Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Kingdom Hearts - Birth by Sleep.iso</path>
+		<name>Kingdom Hearts: Birth by Sleep</name>
+		<desc>Birth by Sleep is an action roleplaying game that introduces a gameplay aspect called the Command System, which allows players to customize a Command Deck with techniques and abilities that they can perform at will, called Deck Commands. Performing ordinary attacks and Commands fills a gauge displayed above the command deck that, when certain requirements are fulfilled, activates a Command Style that changes the player's basic attack command with the "Surge" command, which racks up powerful combos depending on what Command Style is activated. Filling the gauge with certain requirements a second time causes the character to change into an even higher level Command Style, which replaces the "Surge" command with the more powerful "Storm" command.</desc>
+		<image>~/.emulationstation/downloaded_images/psp/Kingdom Hearts - Birth by Sleep-image.jpg</image>
+		<releasedate>20100907T000000</releasedate>
+		<developer>Square Enix</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Action, Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Sims 2.iso</path>
+		<name>The Sims 2: Castaway</name>
+		<desc>Help your Sims build a life from scratch after washing ashore on a deserted tropical island. Overcome the forces of nature to help them become the ultimate survivors and thrive in this undiscovered paradise while unearthing clues that will lead them back to civilization. Build shelters, craft unique items, and discover many useful treasures and ancient mysteries hidden deep within a diverse jungle environment filled with plants, fruits, and even wildlife.
+
+Your Sims change as they take on the challenges of island life and learn to survive in style. Create a new life for your Sims on an uncharted island in The Sims 2 Castaway. Choose from a wide range of Sims - Auto Mechanic, Chef, Doctor, Musician, Teacher, Executive, or Park Ranger. Each one brings a unique Sim humor and quirkiness to your crew. Reunite members of your crew and build a thriving community.</desc>
+		<image>~/.emulationstation/downloaded_images/psp/Sims 2-image.jpg</image>
+		<releasedate>20071022T000000</releasedate>
+		<developer>Electronic Arts</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Adventure, Life Simulation</genre>
+	</game>
+	<game>
+		<path>./Street Fighter Alpha 3 Max.iso</path>
+		<name>Street Fighter Alpha 3 MAX</name>
+		<desc>Fight fiercely as all your favorite classic characters like Ken, Ryu and Chun Li, plus get your hands on 4 new, cool brawlers with all-new moves. Show off your superior skill by battling your friends via Wi-Fi.</desc>
+		<image>~/.emulationstation/downloaded_images/psp/Street Fighter Alpha 3 Max-image.jpg</image>
+		<releasedate>20060207T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fighting</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./Little Big Planet.iso</path>
+		<name>LittleBigPlanet</name>
+		<desc>LittleBigPlanet's critically acclaimed - PLAY, CREATE, SHARE - experience, makes its way to the PSP system with a completely new Sackboy adventure. PLAY through 35+ levels and collect prize bubbles, costumes, and - CREATE - materials. CREATE your own levels and challenges with the easy to use POP-IT tool. Once complete, SHARE your creations in ad-hoc mode or post them to the community pool in infrastructure mode.</desc>
+		<image>~/.emulationstation/downloaded_images/psp/Little Big Planet-image.jpg</image>
+		<releasedate>20091117T000000</releasedate>
+		<developer>Sony Cambridge Studio</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Puzzle, Sandbox, Platform</genre>
+		<playcount>3</playcount>
+		<lastplayed>20210422T121554</lastplayed>
+	</game>
+</gameList>

@@ -1,0 +1,1074 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Final Fantasy V.smc</path>
+		<name>Final Fantasy V</name>
+		<playcount>1</playcount>
+		<lastplayed>20201103T003309</lastplayed>
+	</game>
+	<game>
+		<path>./SimEarth - The Living Planet.sfc</path>
+		<name>SimEarth - The Living Planet</name>
+		<playcount>1</playcount>
+		<lastplayed>20201103T231201</lastplayed>
+	</game>
+	<game>
+		<path>./EarthBound- Quest of Hat.sfc</path>
+		<name>EarthBound- Quest of Hat</name>
+		<rating>0</rating>
+		<releasedate>19700101T000000</releasedate>
+		<hidden>true</hidden>
+	</game>
+	<game>
+		<path>./Bahamut Lagoon.sfc</path>
+		<name>Bahamut Lagoon</name>
+		<desc>Bahamut Lagoon combines RPG mechanics with squad-based combat. Characters have HP, MP (SP for fighter characters), EXP, equipment, stats and class-specific, SP-draining special elemental abilities very much like traditional console RPGs. The player can explore his surroundings, talk to people and visit shops when not in battle, though to a limited degree as there is no world map and no way to leave the current area.
+
+The game's core is its turn-based battles fought on a 2d grid. Characters are assembled into parties of four and the player allowed a maximum of six parties, which are usually well outnumbered. The two opposing sides act in alternating turns so that each party can move once and/or attack once a turn. Attacks are divided into distant and close-up combat. In the former, a party uses a special ability (e.g. casting fireballs, throwing lightning, healing allies) of one of its members at a distance. The range and possible area of effect damage vary per ability. If the attacking party has two or more characters with the same ability, they join in the action to multiply its effectiveness. Distant combat results in less money and generally less damage, but the target cannot retaliate. Distant attacks can also affect the field; fire and ice ignite or extinguish forests and melt or freeze ice, etc. Close-up, each unit in two adjacent opposing parties can act once. Very much like Final Fantasy SNES combat, they can attack an enemy, use an item or a special ability (though these can't be combined and most only affect one target instead of all) or defend.
+
+Dragons are the player's ace in the hole. They have their own stats and gain experience like normal characters do. In battle, each party has a dragon attached to it and draws a large portion of its strength from that of its dragon: if a party's dragon is slain, the party will lose the ability to use special attacks and class-specific abilities for the remainder of the map. The beast acts as a very powerful autonomous unit that moves after its party does and it cannot be controlled beyond very simple commands, e.g. "Come!" Out of battle, dragons will eat anything and raising them by feeding them items is an important part of the game. Feeding can improve their stats as well as affect their behavior on the field, and the dragons develop into new forms as they grow.
+
+The player can change the characters in each of the parties, their formation as well as what dragon represents them at will.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Bahamut Lagoon-image.jpg</image>
+		<releasedate>19960209T000000</releasedate>
+		<developer>Squaresoft</developer>
+		<publisher>Squaresoft</publisher>
+		<genre>Role-Playing, Strategy</genre>
+	</game>
+	<game>
+		<path>./Beavis and Butt-Head.sfc</path>
+		<name>Beavis and Butt-head</name>
+		<desc>Based on the successful cartoon 'Beavis and Butt-head', the game is very faithful to the series.
+
+It game stars at the home of Beavis and Butt-head - and from there you can choose to go to different locations like: Turbo mall 2000, the street, burger world, hospital, GWAR concert and more... your main goal is to find money to the GWAR concert.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Beavis and Butt-Head-image.jpg</image>
+		<releasedate>19940701T000000</releasedate>
+		<developer>Realtime Associates, Inc.</developer>
+		<publisher>Viacom New Media</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Castlevania - Dracula X.sfc</path>
+		<name>Castlevania: Dracula X</name>
+		<desc>In Transylvania, people lived in fear of the evil Count Dracula. The ultimate embodiment of evil, Dracula swept his dark hand over the land, making the people mere sheep for his thirst for blood. But when a young woman named Sonia Belmont came forth to confront him, he made a horrible mistake: he underestimated her. Thus, the battle between Dracula and the Belmont family began.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Castlevania - Dracula X-image.jpg</image>
+		<releasedate>19950905T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action, Platform</genre>
+	</game>
+	<game>
+		<path>./Donkey Kong Country 2.sfc</path>
+		<name>Donkey Kong Country 2: Diddy's Kong Quest</name>
+		<desc>O.K. KID, WIPE THAT DROOL OFF YOUR CHIN AND LISTEN UP IF YOU REALLY WANT TO LEARN SOMETHING ABOUT THIS GAME. Sure, it's got NEWFANGLED COMPUTER GRAPHICS and what Diddy calls stereo sound that rocks heavily and with little resistance! BUT, the game play Well, they FINALLY added some proper challenge to the game - a snap for me of course. AND THE STORY You sure ask a lot of questions, kid! Kaptain K. Rool and his cruelest cut-throat Kremlings have kidnapped that flea-bitten ape Donkey Kong. I figured I'd rescue him when the little pip-squeak DIDDY pops up along with his girlfriend, and they head off fixin' to prove themselves heroes or something. Come to think of it, I haven't laid eyes on those two for quite a while. I just may have to help them out after all!
+
+*PLAY AS DIDDY OR DIXIE KONG, EACH WITH UNIQUE ABILITIES!
+*EIGHT EXCITING WORLDS WITH ALL-NEW LEVELS AND KREMLINGS!
+*BRAND NEW KONG FAMILY MEMBERS AND FRIENDS!
+*TONS OF NEW MOVES AND SPECIAL ABILITIES!
+*MORE SECRETS AND CHALLENGES THAN DONKEY KONG COUNTRY!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Donkey Kong Country 2-image.jpg</image>
+		<releasedate>19951120T000000</releasedate>
+		<developer>Rare, Ltd.</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action, Adventure, Platform</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Donkey Kong Country 3.sfc</path>
+		<name>Donkey Kong Country 3: Dixie Kong's Double Trouble!</name>
+		<desc>Monkey Mayhem Lives On!
+
+Kiddy Kong is a portly primate toddler with incredible power and agility! He teams up with Dixie Kong to stop the ever-present army of Kremlings. The game play and ACM graphics just keep getting better in this visually stunning installment in one of the most popular video game series of all time!
+
+Combining their unique abilities as they throw each other into action, Dixie Kong and Kiddy Kong set off to rescue Diddy Kong and Donkey Kong. Collect tons of treasure, grab billions of bananas and find more secret stuff than you've ever seen (or not seen) as you set off on the greatest DKC adventure yet! The final showdown with KAOS takes place in a cliff-top laboratory at the End of the World. It could get seriously ugly. Monkey mayhem lives on in this exotic island adventure!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Donkey Kong Country 3-image.jpg</image>
+		<releasedate>19961122T000000</releasedate>
+		<developer>Rare, Ltd.</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action, Adventure, Platform</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Double Dragon V - The Shadow Falls.sfc</path>
+		<name>Double Dragon V: The Shadow Falls</name>
+		<desc>Double Dragon V: The Shadow Falls! Featuring 12 big lightning-fast characters! Four to six special moves for each fighter! Set your own strength, defense and more. Three different fighting modes. Secret moves and codes! Customizable controls. Unique final moves. Hot rock music tracks and 130+ sound effects!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Double Dragon V - The Shadow Falls-image.jpg</image>
+		<releasedate>19950805T000000</releasedate>
+		<developer>Leland Interactive Media</developer>
+		<publisher>Tradewest, Inc.</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Dragon Quest V.sfc</path>
+		<name>Dragon Quest V - Tenkuu no Hanayome</name>
+		<desc>You are the son of the brave warrior, Lord Papas. It appears that your mother died just after giving birth to you, and your father took you on a long journey when you were a little baby, and all you know is that he was searching for something. Now you are six years old, and Lord Papas brings you to your home village. After some time, you learn that His Highness Prince Henry was kidnapped by bandits. Your father attempts to rescue him, and during this action you discover that perhaps your mother is still alive... The game follows the story of Papas' son, and this story is stretched over years, as the hero grows and becomes a man of courage and virtue. During the game, the hero will discover the truth about his mother, and will have to make some crucial decisions, such as which girl to marry (the decisions affect the course of the game and its ending).
+
+"Dragon Quest V" is a party RPG with turn-based combat, and battles viewed from 1st person perspective, just like all its predecessors. Your party roams about the world, fighting random enemies, performing quests, and defeating bosses. The novelty is in the game's unusual story, which spans almost a lifetime of the hero. 
+
+"Dragon Quest V" was not available outside of Japan until 2009, when the DS version was released in the United States.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Dragon Quest V-image.jpg</image>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Chunsoft</developer>
+		<publisher>Enix Corporation</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Dragon Quest VI.sfc</path>
+		<name>Dragon Quest VI - Maboroshi no Daichi</name>
+		<desc>You and two of your friends decide to attack the Archenemy - the evil Mudo - in his castle. But as you reach his throne, he attacks you and send the three friends into three different places...
+
+Was this just a dream? You have just fallen out of your bed dreaming! It's time to go to the village elder, to get a seemingly simple assignment - to sell some goods at a bazaar in the nearest town. But soon the hero will discover his dream was not so far away from reality...
+
+"Dragon Quest VI" is the last SNES game of the Dragon Quest series (called "Dragon Warrior" in US). It is a party RPG with turn-based combat and battles viewed from 1st person perspective. Not much has changed since the NES days of Dragon Quest - gameplay style, setting, and even menu layout seem almost identical to those of the early classics. Like its immediate predecessor  Dragon Quest V, this game was never released outside Japan.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Dragon Quest VI-image.jpg</image>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Enix</developer>
+		<publisher>Enix Corporation</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Dragon's Lair.smc</path>
+		<name>Dragon's Lair</name>
+		<desc>From deep within Mordroc's Castle, a foul stench rose up to mix with the cold, damp mitnight air; the telltale sign of the evil wizard's pet fire-breathing dragon, Singe; the beast that guarded the Princess Daphne in the deadly caves far below the surface.
+
+Dirk the Daring walked steadily toward the castle gate. He felt no fear; but then fear was for cowards. No other would dare to enter this perilous castle where Mordroc had imprisoned the helpless princess. But for Dirk there was no other possible course to take. Now was the time for heroes. Now was the time for action. Now was the time to enter the Dragon's Lair...</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Dragon's Lair-image.jpg</image>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Elite</developer>
+		<publisher>Cinematronics</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Earthworm Jim.sfc</path>
+		<name>Earthworm Jim</name>
+		<desc>A crow is chasing a worm named Jim while in outer space Psy-Crow is chasing a renegade ship. The ship's captain has stolen an ultra-high-tech-indestructible-super-space-cyber-suit and Queen Slug-for-a-Butt has ordered Psy-Crow to get it, since it can make her more beautiful than Princess-What's-Her-Name. Psy-Crow blasts the captain and the suit falls to Planet Earth.
+
+Back on earth Jim wonders if he is finally safe when an ultra-high-tech-indestructible-super-space-cyber-suit lands on him. Luckily Jim rests in the neck ring of the suit. Then the space particles begin interacting with Jim, causing a light-speed evolution. Jim soon realizes he is in control of the suit.
+
+Jim overhears the Queen's plans for the suit and decides to meet this Princess...</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Earthworm Jim-image.jpg</image>
+		<releasedate>19940802T000000</releasedate>
+		<developer>Shiny Entertainment, Inc.</developer>
+		<publisher>Playmates Interactive Entertainment, Inc.</publisher>
+		<genre>Action, Adventure, Platform</genre>
+	</game>
+	<game>
+		<path>./Earthworm Jim 2.sfc</path>
+		<name>Earthworm Jim 2</name>
+		<desc>Two times two is four! Too much to list, but keep reading:
+
+From Evil the Cat's Circus of the Scars' to the planet of Meat, join Jim on a madcap chase across the galaxy. Saving cows, thwarting lawyers and outsmarting Psy-Crow are all in a day's work for Jim. Are you up to the challenge? Can you handle the awesome new weapon? Excellent! Then stop reading this. Take it up to the front counter and try it at home! Trust no one play it yourself... or EAT DIRT!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Earthworm Jim 2-image.jpg</image>
+		<releasedate>19960125T000000</releasedate>
+		<developer>Shiny Entertainment, Inc.</developer>
+		<publisher>Playmates Interactive Entertainment, Inc.</publisher>
+		<genre>Action, Adventure, Platform</genre>
+	</game>
+	<game>
+		<path>./Final Fantasy - Mystic Quest.sfc</path>
+		<name>Final Fantasy: Mystic Quest</name>
+		<desc>THINK YOU CAN SAVE THE WORLD?
+Here's your chance to play the world's first role-playing game for the entry-level player.
+
+The planet is dying. Cold winds blow. Fires rage. Trees are withering. In other words, it's brutal out there.
+Only you can stop the Dark King from consuming the light from the Crystals of Earth. But don’t think it'll be a walk in the park. You're up against the sleaziest of slimebags, the evilest of ecto-scum - we're talking serious monsters here.
+This isn't your basic shoot-em-to-smithereens kiddy game, either. You'll have to think your way out of some tough spots. Think you can handle that?
+
+Free strategy guide available for a limited time with mail-in coupon. See inside for details.
+
+*Entry-Level Role-Playing Adventure
+*World's Best-Selling RPG Series
+*Free Strategy Guide Offer
+*Battery Back-Up Saves Up To 3 Games</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Final Fantasy - Mystic Quest-image.jpg</image>
+		<releasedate>19921005T000000</releasedate>
+		<developer>Squaresoft</developer>
+		<publisher>Squaresoft</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Final Fantasy II.sfc</path>
+		<name>Final Fantasy II</name>
+		<desc>THE CRUSADE FOR THE CRYSTALS.
+In the Kingdom of Baron, powerful airships rule the skies. At the head of this elite fighting force is Cecil, Captain of the Red Wings.
+As our adventure begins, Cecil and his squadron are ordered to steal a powerful crystal from a rival kingdom. Upon their return, Cecil questions the King’s orders and is stripped of his command To prove his loyalty, he must slay a dreadful monster and deliver a mysterious package to a neighboring town. But when the package explodes, destroying everyone, Cecil and his friend Kain vow to fight the King ’s dark forces. Will you be able to save the world from their evil plan to control the crystals?
+Get ready for the most challenging role-playing adventure ever.
+
+*16 BIT ROLE-PLAYING GAME
+*8 MEG MEMORY
+*BATTERY BACKUP SAVES UP TO FOUR GAMES
+*76 PAGE PLAYER'S STRATEGY MANUAL
+*STEREO SOUND</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Final Fantasy II-image.jpg</image>
+		<releasedate>19911101T000000</releasedate>
+		<developer>Squaresoft</developer>
+		<publisher>Squaresoft</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Final Fantasy III.sfc</path>
+		<name>Final Fantasy III</name>
+		<desc>MagiTek has been reborn. And the end of the world is near.
+Ages ago, evil beings created powerful creatures called Espers, and unleashed them against each other. The resulting battles left their world a smoldering rubble. Legend has it, the Espers destroyed themselves and most of humanity. Magic disappeared forever.
+
+Centuries have passed and a rational world now exists with Espers living only in myths, until one frozen solid since the ancient wars is unearthed. Suddenly, there are reports of magical attacks on civilians. Imperial Commandos launch raids using magic-powered MagiTek weapons. Magic is obviously alive and the world is in danger again.
+
+Who or what is behind the rediscovery and redeployment of this legendary power? What chaotic plans exists that will wreak havoc on this orderly world?</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Final Fantasy III-image.jpg</image>
+		<releasedate>19941011T000000</releasedate>
+		<developer>Squaresoft</developer>
+		<publisher>Squaresoft</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Final Fantasy IV.sfc</path>
+		<name>Final Fantasy II</name>
+		<desc>THE CRUSADE FOR THE CRYSTALS.
+In the Kingdom of Baron, powerful airships rule the skies. At the head of this elite fighting force is Cecil, Captain of the Red Wings.
+As our adventure begins, Cecil and his squadron are ordered to steal a powerful crystal from a rival kingdom. Upon their return, Cecil questions the King’s orders and is stripped of his command To prove his loyalty, he must slay a dreadful monster and deliver a mysterious package to a neighboring town. But when the package explodes, destroying everyone, Cecil and his friend Kain vow to fight the King ’s dark forces. Will you be able to save the world from their evil plan to control the crystals?
+Get ready for the most challenging role-playing adventure ever.
+
+*16 BIT ROLE-PLAYING GAME
+*8 MEG MEMORY
+*BATTERY BACKUP SAVES UP TO FOUR GAMES
+*76 PAGE PLAYER'S STRATEGY MANUAL
+*STEREO SOUND</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Final Fantasy IV-image.jpg</image>
+		<releasedate>19911101T000000</releasedate>
+		<developer>Squaresoft</developer>
+		<publisher>Squaresoft</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Final Fantasy V.sfc</path>
+		<name>Final Fantasy V</name>
+		<desc>The Elemental Crystals...the life source of the planet. With them, gentle winds blow, the seas are active, fire burns bright, and the earth is full of life. All seems well in the world, until the wind suddenly stops, the sea begin to grow stagnant, the heat of fire becomes scarce, and the earth begins to wither. King Tycoon, sensing a premonition of evil, hurries off to check on the Wind Crystal, only to witness it destroy itself.
+
+Meanwhile, a young traveler named Butz is camping in a field when a giant meteor strikes the planet. When he heads out to examine the meteor, he is shocked to find a young girl named Lenna, who is the princess of Tycoon, and a old man named Galuf, who is on a critical mission. Later, joined by Faris, a pirate captain, the foursome must travel the land in search of the destructor of the Crystals, and save the planet at any cost!
+
+Final Fantasy V featured many new gameplay options and tactics, including an improved Job/Ability system (like in Final Fantasy Tactics), the return of the ATB (Active Time Battle) turn system, and all of the classic FF gameplay you've come to know and love!
+
+Final Fantasy V was released as a stand-alone game in Japan, and again in Final Fantasy Collection. Its U.S. debut was as part of Final Fantasy Anthology. It was also later ported to the Gameboy Advance, adding 4 new Jobs, a new 30-floor dungeon, a bestiary, a music player, the ability to quick save anywhere, a few extra pieces of equipment, and a newly update translation.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Final Fantasy V-image.jpg</image>
+		<releasedate>19921206T000000</releasedate>
+		<developer>Squaresoft</developer>
+		<publisher>Squaresoft</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Final Fight.sfc</path>
+		<name>Final Fight</name>
+		<desc>Mayor Mike Haggar vows to snatch the streets of Metro City back from the crooks with his bare knuckles! But the Mad Gear Gang snatches his daughter Jessica. Now there's gonna be some bone-crunching dues to pay!
+
+Jessica's boyfriend Cody hits the streets hard with Haggar, denting heads downtown and slugging it out in the slums. He's a one man army! His weapons are anything he can find -- swords, knives, or pipes.
+
+Now you're Haggar or Cody, each with his own fighting style. Demolish gangland henchmen, samurai swordsmen and musclebound crime bosses in a fist-to-nose frenzy!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Final Fight-image.jpg</image>
+		<releasedate>19910901T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action, Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Final Fight 2.sfc</path>
+		<name>Final Fight 2</name>
+		<desc>It's Mad Gear Madness! They're back stronger than ever and they want revenge. With a new mysterious leader they plan to dominate the entire world. This time they've kidnapped Genryusai and his daughter Rena.
+
+Now Haggar must travel around the world to search for Genryusai and Rena. But he's not going alone. Carlos and Rena's sister, Maki, are joining the slam-fest to put the gang away for good. Search for numerous weapons such as knives, nightsticks and 2x4's or find food to recover your strength.
+
+Choose from Haggar, Carlos or Maki, each with their own style of fighting. Or have a friend join in for double the power and crush any punk that stands in your way.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Final Fight 2-image.png</image>
+		<releasedate>19930522T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action, Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./First Samurai.smc</path>
+		<name>First Samurai</name>
+		<desc>The First Samurai is a platform action game very much similar to other platform games, but with a medieval oriental touch to it in addition to various unique features.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/First Samurai-image.jpg</image>
+		<releasedate>19930702T000000</releasedate>
+		<developer>Vivid Image</developer>
+		<publisher>Image Works</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Frogger.sfc</path>
+		<name>Frogger</name>
+		<desc>Your task in this arcade conversion is to guide a frog across a treacherous road and river, and to safety at the top of the screen. Both these sections are fraught with a variety of hazards, each of which will kill the frog and cost you a life if contact is made.
+
+The road is full of cars and trucks, at variable speeds. The river water itself is fatal, as are the snakes which hover within on later levels. Frogger must use the arrangement of logs, turtles (which are only there for a short time) and alligators (but stay away form their faces), and then jump into one of the open home-cells, ideally one containing a fly for extra points. Once all holes have been filled, you move onto the next, harder, level.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Frogger-image.jpg</image>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Morning Star Multimedia</developer>
+		<publisher>Majesco Entertainment</publisher>
+		<genre>Action, Strategy</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Jetsons, The - Invasion of the Planet Pirates.sfc</path>
+		<name>The Jetsons : Invasion of the Planet Pirates</name>
+		<desc>George Jetson was about to run out to work when his pal Captain Zoom appears out of thin air. Zoom tells him that Zora, the leader of SPREE ("Space Pirates Revelling in Evil Enterprises"), is planning on looting this solar system of all its resource! Unfortunately, in his last encounter with Zora, Zoom has used up all his strength and now he is powerless so he asks George to take over. He gives George his Pneumo Osmatic Precipitator (or P.O.P.) and bids him good luck.  Can George save his family and this galaxy?
+
+Guide George through 9 stages of intergalactic action armed with only his wits and the P.O.P....which is like a super vacuum. The P.O.P. can be used as a traveling tool by sucking onto walls and ceilings, it will enable George to climb up and across platforms.  As a weapon, the P.O.P. can be used to suck up blocks or enemies and spit out at other enemies. George can also use the P.O.P. to breathe under water! Talk about multi-functional!
+
+George's conditions are indicated by the number of hearts he has at the top of the screen.  By collecting more hearts, it will refill George's health. Food items will increase your score and by getting a high enough score in each stage, you may get to play a bonus game.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Jetsons, The - Invasion of the Planet Pirates-image.png</image>
+		<rating>0.5</rating>
+		<releasedate>19940601T000000</releasedate>
+		<developer>Sting, Inc.</developer>
+		<publisher>Taito</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Kirby Super Star.sfc</path>
+		<name>Kirby Super Star</name>
+		<desc>Power up for EIGHT action-packed battles and adventures!
+Dream Land is under siege again! Our hero, Kirby, returns to instigate a rescue. King Dedede is snatching up Dream Land's food supply, but he's not the only one! Dyna Blade, Meta Knight and a slew of other evil baddies are on the loose and wreaking havoc throughout the land.
+
+Use any of Kirby's amazing powers to create a "helper" to assist you in battle. Or have a friend join you for some two-player action by taking control of Kirby's helper. Help Kirby work through EIGHT challenging games filled with action and adventure. Enter the fray in Spring Breeze, enter a foot race against King Dedede in Gourmet Race and tackle a winged warrior in Dyna Blade. Hone your reaction skills in Megaton Punch and Samurai Kirby, then battle your way through the Great Cave Offensive, Revenge of Meta Knight and Milky Way Wishes. Each game is different AND some extra-special surprises are in store for you!
+
+*Includes EIGHT action-packed games and special surprises!
+*Two-player action is possible when you activate Kirby's "helper" feature!
+*Huge 32-meg game provides excellent entertainment value for Kirby fans of all ages!
+*Battery back-up saves your progress and best scores!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Kirby Super Star-image.jpg</image>
+		<releasedate>19960920T000000</releasedate>
+		<developer>HAL Laboratory</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Kirby's Avalanche.sfc</path>
+		<name>Kirby's Avalanche</name>
+		<desc>King Dedede has challenged Kirby and other members of Dream Land to an Avalanche Competition in the Dream Fountain. Kirby, taking on the challenge, has decided to battle his way through the forest and into the Dream Fountain to win the Avalanche Cup from King Dedede. It is the Western release of Japanese Super Puyo Puyo. There was not a Japanese release, and the game remains the only Kirby title not released there.
+
+In the game, groups of two colored blobs fall from the top of the screen. The player must rotate and move the groups before they touch the bottom of the screen or the pile, so that matching-colored blobs touch from above, below, the left or the right. Once four or more same-colored blobs touch, they will disappear, and any blobs above them will fall down to fill in space. If a player manages to set off a chain reaction with these blobs, rocks will fall on the other player's screen, filling it up and giving them less room to drop additional blobs. The number of rocks that falls depends on both the number of blobs popped and the number of consecutive chain reactions. These rocks will only disappear if a player manages to pop a group of blobs that are in direct contact with the rocks. A player will lose if either of the middle columns in the top row is filled with a blob or rock.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Kirby's Avalanche-image.jpg</image>
+		<releasedate>19950201T000000</releasedate>
+		<developer>Compile</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Kirby's Dream Course.sfc</path>
+		<name>Kirby's Dream Course</name>
+		<desc>Kirby's Dream Course is a miniature golf video game developed jointly by HAL Laboratory and Nintendo EAD and published by Nintendo for the Super Nintendo Entertainment System in 1994.
+
+Scan the course and check out the obstacles ahead. Get ready for the most surprising game play imaginable in Kirby's battle against King Dedede!
+
+This checkboard challenge brings outrageous hazards and bizarre surfaces. Warp panels instantly transport you to new and exciting challenges. Conveyer belts provide higher levels of adventure. Turntables take the action in a whole new direction.
+
+Gordo, Kracko, Whispy Woods and a cast of zany characters await you. Gain special powers including Fireball, Freeze, Spark and Parasol. Transform your enemies into stars revealing eight hidden cups of each wildly different course. Control the force and angle of your shot and sink Kirby for a hole-in-one!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Kirby's Dream Course-image.jpg</image>
+		<releasedate>19950201T000000</releasedate>
+		<developer>HAL Laboratory</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action, Puzzle, Sports</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Kirby's Dream Land 3.sfc</path>
+		<name>Kirby's Dream Land 3</name>
+		<desc>Kirby's Dream Land 3 is a platformer video game starring Kirby, fifth in the Kirby series and the third game under the Kirby's Dream Land name. Although the first two games were largely unrelated, Dream Land 3 features many similar characters to Dream Land 2. Dream Land 3 was followed by Kirby 64: The Crystal Shards.
+
+Dream Land’s in trouble...AGAIN! Kirby’s back for more action in the latest chapter of the Dream Land saga. This time, though, Kirby has more help than he knows what to do with. In addition to his old pals Rick the hamster, Coo the owl and Kine the fish, there are three new friends to assist Kirby (not to mention Gooey, his blobby little sidekick). With all those friends, two-player simultaneous play and many other helpful surprises, Kirby should have no trouble saving Dream Land again, right? Not if King Dedede has anything to say about it!
+
+*Two-player simultaneous play!
+*Six different animal friends!
+*48 different abilities!
+*Mini-games galore!
+*Battery-backed memory saves three different game files</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Kirby's Dream Land 3-image.jpg</image>
+		<releasedate>19971101T000000</releasedate>
+		<developer>HAL Laboratory</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Mega Man 7.sfc</path>
+		<name>Mega Man 7</name>
+		<desc>Dr. Wily's crusade to rule the world ends abruptly at the hands of Mega Man, so what's a villain to do? Create a diversion and break out of prison! Mega Man has his hands full as 4 gigantic machines exit Dr. Wily's lab to ravage the city, but... who is behind this new plot as Wily sits behind bars?
+
+Dr. Wily knew his diabolical deeds would end an failure one day. So as hiss robots attack by remote control, the sinister doctor breaks out of prison and flies off in his spaceship. The Titanium Titan is tricked!
+
+With the help of Rush, Roll and Dr. Light, can Mega Man put the slippery Dr. Wily back in prison where he belongs? The future of the world hangs on Mega Man's every move.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Mega Man 7-image.jpg</image>
+		<releasedate>19950324T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Mega Man X2.sfc</path>
+		<name>Mega Man X2</name>
+		<desc>Just when Mega Man X thought he had brought down all the X-Hunters, several months later an uprising moves from within an abandoned factory. While 8 all-new X-Hunters occupy Mega Man X, a triple threat plots to resurrect a secret weapon that is all too familiar!
+
+The good Dr. Light supplies Mega man X with incredible new abilities hidden in capsules buried deep below the surface. And with new vehicles like the mobile attack cycle plus powers he gains from the X-Hunters, Mega Man X will be ready to face his destiny as a Maverick Hunter. Now it's all or Zero for Mega Man X!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Mega Man X2-image.jpg</image>
+		<releasedate>19950127T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Mega Man X3.sfc</path>
+		<name>Rockman X3</name>
+		<desc>Japanese Version of Mega Man X3 </desc>
+		<image>~/.emulationstation/downloaded_images/snes/Mega Man X3-image.jpg</image>
+		<releasedate>19951201T000000</releasedate>
+		<developer>Capcom, Minakuchi Engineering</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action, Shooter, Platform</genre>
+	</game>
+	<game>
+		<path>./Mighty Max.sfc</path>
+		<name>The Adventures of Mighty Max</name>
+		<desc>The Adventures of Mighty Max is based on the TV cartoon Mighty Max which in turn is based on a series of toys. Max is a kid who possesses a magic cap that allows you to travel across different world and to save people who get in trouble in other dimensions. But his archenemy, the demonic Skull Master, has recently locked all the portals Max was using for inter-dimensional travel. However, the Skull Master has kept some of the portals for himself, keeping there some of his destructive weapons. It's time to destroy those weapons and to stop Skull Master!
+
+This is a platform game in which you control Max himself or one of his two side-kicks (that doesn't influence the gameplay). You travel through several different worlds. Your goal is to find Skull Master's weapons, which are scattered around the level, and to destroy them. The levels are timed, and there are also plenty of enemies who will disturb you on your way to the goal.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Mighty Max-image.jpg</image>
+		<releasedate>19950201T000000</releasedate>
+		<developer>WJS Design</developer>
+		<publisher>Ocean Software Ltd.</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Mortal Kombat.sfc</path>
+		<name>Mortal Kombat</name>
+		<desc>PREPARE YOURSELF...
+
+The #1 arcade hit is here: from Sub-Zero, Rayden and the rest of the Kombat Warriors to the grueling endurance and intense mirror matches! Execute bone-shattering combos and ferocious finishing moves! Defeat the half human dragon Goro, and destroy the shape-changing Shang Tsung to become the Supreme Mortal Kombat Warrior!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Mortal Kombat-image.jpg</image>
+		<releasedate>19930913T000000</releasedate>
+		<developer>Sculptured Software</developer>
+		<publisher>Acclaim Entertainment, Inc.</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Mortal Kombat 2.sfc</path>
+		<name>Mortal Kombat II</name>
+		<desc>Following his failure to defeat Liu Kang in the first Mortal Kombat game, the evil sorcerer Shang Tsung begs his master, Shao Kahn, to spare his life. He tells Shao Kahn that the invitation for Mortal Kombat cannot be turned down, and if they hold it in Outworld, the Earthrealm warriors must attend. Kahn agrees to this plan, and even restores Tsung's youth. He then extends the invitation to Raiden, who gathers his warriors and takes them into Outworld. The new tournament is much more dangerous, as Shao Kahn has the home field advantage, and an Outworld victory will allow him to subdue Earthrealm.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Mortal Kombat 2-image.jpg</image>
+		<releasedate>19940901T000000</releasedate>
+		<developer>Sculptured Software</developer>
+		<publisher>Acclaim Entertainment, Inc.</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Mortal Kombat 3.sfc</path>
+		<name>Mortal Kombat 3</name>
+		<desc>Fed up with continuous losses in tournament battle, Shao Kahn, who had lost to Liu Kang in the Outworld tournament, enacts a 10,000 year-old plan. He would have his Shadow Priests, led by Shang Tsung, revive his former Queen Sindel, who unexpectedly died at a young age. However, she wouldn't be revived in the Outworld. She would be resurrected in the Earthrealm. This would allow Shao Kahn to cross the boundary lines and reclaim his queen.
+When Sindel is reincarnated in Earthrealm, Shao Kahn reaches across the dimensions to reclaim her. As a consequence of his action, the Earthrealm becomes a part of the Outworld, instantly stripping billions of their souls. Only a few are spared, as Raiden protects their souls. He tells them that Shao Kahn must be stopped, but he cannot interfere; due to his status, he has no power in Outworld, and Earthrealm is partially merged with Outworld.
+Shao Kahn has unleashed extermination squads to roam throughout the Earthrealm and kill any survivors. Also, Raiden's protection only extends to the soul, not to the body, so his chosen warriors have to fight the extermination squads and repel Shao Kahn. Eventually with his final defeat, every human on Earthrealm comes back.
+Mortal Kombat 3 follows Mortal Kombat II and shares continuity with both Ultimate Mortal Kombat 3 and Mortal Kombat Trilogy which were both updates of this game. The next new game in the series was Mortal Kombat 4.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Mortal Kombat 3-image.jpg</image>
+		<releasedate>19951001T000000</releasedate>
+		<developer>Sculptured Software</developer>
+		<publisher>Williams Electronic Games, Inc.</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Mr. Do!.sfc</path>
+		<name>Mr. Do!</name>
+		<desc>You control Mr. Do has he tries to harvest all of the cherries on the screen. However, there are numerous bad guys out to get him! Mr. Do can defend himself from the badguys in two ways: first he can push the apples located throughout the playfield on top of the enemies and crush them. Secondly, Mr. Do is armed with a power ball. This can be thrown to destroy an enemy. Mr. Do has only one power ball, though, so he will need to wait for it to return to him before it can be used again. From time to time an alpha monster will appear on the screen bearing one of the letters in EXTRA. If you use the power ball to destroy an alpha monster you earn that letter; when you've earned the complete word EXTRA you receive an extra life. When you successfully collect all of the cherries, you will move on to the next, more difficult level.
+
+The mobile version of the game includes the original arcade version, as well as an enhanced mode with new levels, power-ups and graphics.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Mr. Do!-image.jpg</image>
+		<releasedate>19961201T000000</releasedate>
+		<developer>Universal Co., Ltd.</developer>
+		<publisher>Imagineer Co., Ltd.</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Ms. Pac-Man.sfc</path>
+		<name>Ms. Pac-Man</name>
+		<desc>In 1982, a sequel to the  incredibly popular Pac-Man was introduced in the form of his girlfriend, Ms. Pac-Man.  This sequel continued on the "eat the dots/avoid the ghosts" gameplay of the original game, but added new features to keep the title fresh.
+
+Like her boyfriend, Ms. Pac-Man attempts to clear four various and challenging mazes filled with dots and ever-moving bouncing fruit  while avoiding Inky, Blinky, Pinky and Sue, each with their own personalities and tactics.  One touch from any of these ghosts means a loss of life for Ms. Pac-Man.
+
+Ms. Pac-Man can turn the tables on her pursuers by eating one of the four Energizers located within the maze. During this time, the ghosts turn blue, and Ms. Pac-Man can eat them for bonus points. The Energizer power only lasts for a limited amount of time, as the ghost's eyes float back to their center box, and regenerate to chase after Ms. Pac-Man again.
+
+Survive a few rounds of gameplay, and the player will be treated to humorous intermissions showing the growing romantic relationship between Pac-Man and Ms. Pac-Man, leading all the way up to the arrival of "Junior".</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Ms. Pac-Man-image.jpg</image>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Secret of Evermore.smc</path>
+		<name>Secret of Evermore</name>
+		<desc>Secret of Evermore is another famous RPG developed and released by Square in 1995. A day at the movies for a young boy &amp; his dog turns into an adventure that spans across several different time periods and locations, on their journey they discover the Secret of Evermore and find their way home. Produced by the North American branch of Square, Evermore's soundtrack would be the first major work by Jeremy Soule, the famed Elder Scrolls composer.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Secret of Evermore-image.jpg</image>
+		<releasedate>19951001T000000</releasedate>
+		<developer>Squaresoft</developer>
+		<publisher>Squaresoft</publisher>
+		<genre>Action, Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Secret of Mana.sfc</path>
+		<name>Secret of Mana</name>
+		<desc>GOOD AND EVIL BATTLE FOR A YOUNG WARRIOR’S HEART.
+There is one force in the universe that keeps good and evil in perfect balance. It is called the tree of Mana. But a magic sword has tricked a young warrior into upsetting this balance, spreading evil throughout the land.
+
+Thus, the warrior must undertake a dangerous journey to find the seeds of the Mana tree which have been hidden for centuries. Only then can perfect harmony be restored.
+
+In this incredible adventure, things are not as they seem. Magic swords release evil as well as fight it. Treasure chests hold booby traps. Monsters are friends and friends are enemies. Potions give power, black magic takes it away. Dragons fly, weapons change.
+
+It’s a world turned upside down that you must help the warrior make right. And the only way to succeed is to solve the Secret of Mana.
+
+Brought to you from the makers of the Final Fantasy series.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Secret of Mana-image.jpg</image>
+		<releasedate>19930806T000000</releasedate>
+		<developer>Squaresoft</developer>
+		<publisher>Squaresoft</publisher>
+		<genre>Action, Role-Playing</genre>
+		<players>3</players>
+	</game>
+	<game>
+		<path>./SimCity.sfc</path>
+		<name>SimCity</name>
+		<desc>SimCity sets you as the mayor of a new municipality, with the responsibility of building and maintaining a place where citizens can move to and work and be happy. The first task is to place essentials such as housing, transport links, schools, factories and shops. There are 50 types of these, allowing for homes of all standards and different types of businesses. Make sure to consider which sites are effective for which tasks. Some power sources pollute, others don't but are more expensive. Taxes must be raised to ensure an income, and then portions allocated to public services such as policing and roads. Earthquakes, floods and fires are all emergency situations that must be dealt to contain any damage.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/SimCity-image.jpg</image>
+		<releasedate>19910813T000000</releasedate>
+		<developer>Intelligent Systems Co., Ltd.</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Construction and Management Simulation</genre>
+	</game>
+	<game>
+		<path>./SimCity 2000 - The Ultimate City Simulator.sfc</path>
+		<name>SimCity 2000 : The Ultimate City Simulator</name>
+		<desc>SimCity 2000 is the successor to the ground breaking city simulation game Sim City. You are once again the mayor, but this time you can fully customize the terrain before building your city. The graphics are isometric, whereas the original had graphics displayed in a top-down fashion.
+
+This title adds numerous features over the original such as the ability of building "light" zones, subways, hospitals, colleges, zoos, and arcos which are actually cities in cities. You can now give names to places, and your city is surrounded by neighboring towns with which you can make trade. Finally, instead of the poll in the first game you now have the option of reading several newspapers to get an idea of your progress.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/SimCity 2000 - The Ultimate City Simulator-image.png</image>
+		<rating>0.65</rating>
+		<releasedate>19961101T000000</releasedate>
+		<developer>Maxis Software</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Strategy</genre>
+	</game>
+	<game>
+		<path>./SimEarth.sfc</path>
+		<name>SimEarth: The Living Planet</name>
+		<desc>The most ambitious and far-reaching of Maxis’ Sim lineage, SimEarth puts you in charge of an entire planet throughout its 10 billion year lifespan. Your ultimate task is to guide the planet’s inhabitants into the stars, from its humble single-celled roots.
+
+The main threats you face include pollution, disease, famine, war and global warming. The controls available to you include the chance to move mountains and continents, creating different levels of species, and unleash tidal waves and earthquakes so as to reshape your planet. All of these things take from your limited energy, which must be replenished.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/SimEarth-image.jpg</image>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Tomcat System</developer>
+		<publisher>FCI</publisher>
+		<genre>Life Simulation</genre>
+	</game>
+	<game>
+		<path>./Star Fox.sfc</path>
+		<name>Star Fox</name>
+		<desc>Lead the Star Fox Team to Victory!
+
+In the distant Lylat star system, imagine yourself at the controls of a futuristic, heavily armed, space fighter - Arwing.
+
+Lead the counter-attack on an invasion force of hundreds of alien tanks, fighter ships, laser gun emplacements and super battleships.  Maneuver at warp speed through fog-enshrouded canyons, dense asteroid belts and waves of the enemy's best defense.  You must use skill and cunning to bring the fight to the enemy's home planet Venom and smash the Core Brain for victory!
+
+* The Super FX micro chip is on-board for fluid game control and special effects previously unavailable in home video games!  The action explodes from all directions in realistic, real-time, three dimensions.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Star Fox-image.jpg</image>
+		<releasedate>19930221T000000</releasedate>
+		<developer>Argonaut Games</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./Star Fox 2.sfc</path>
+		<name>Star Fox 2</name>
+		<desc>Star Fox 2 continued the battle against Emperor Andross who seeks to conquer the Lylat system, with the Star Fox team assembled once again to defeat him. The game introduces a new semi-real time game play system, featuring new ship types and two new Star Fox team members. It also features a more advanced 3D game engine thanks to a new improved version of the Super FX chip. Cancelled. 
+
+The game received its first official release as part of the Super NES Classic Edition on September 29, 2017.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Star Fox 2-image.jpg</image>
+		<releasedate>20170929T000000</releasedate>
+		<developer>Argonaut Games</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./Star Ocean.sfc</path>
+		<name>Star Ocean</name>
+		<desc>Star Ocean is an action role-playing video game developed by tri-Ace and published by Enix for the Super Famicom. The first game in the Star Ocean series, it was released only in Japan in July 1996, and was the first game developed by tri-Ace, consisting of staff that had previously left Wolf Team due to being unhappy with the development process for Tales of Phantasia with Namco in 1995. The game used a special compression chip in its cartridge to compress and store all of the game's data due to possessing graphics that pushed the limits of the Super Famicom. Additionally, the game had voice acting for the game's intro and voice clips that played during the game's battle gameplay, a rarity for games on the system.
+
+A young boy named Ratix lives in the town Clatos on a planet with medieval culture, together with his best friends Dorn and Milly. They belong to respectable families of warriors and healers, and excel in battles kills. One day, a letter from a neighbor town arrives. A strange disease has plagued the town and its inhabitants plead the healers of Clatos to help them. Milly's father decides to go, but he himself catches the disease. The young adventurers must save Milly's father and other people at all costs. But in the beginning of their journey, they discover a crashed space ship with people who belong to a much more advanced civilization. People from two different worlds must work together to solve the grand mystery...</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Star Ocean-image.jpg</image>
+		<releasedate>19960719T000000</releasedate>
+		<developer>tri-Ace</developer>
+		<publisher>Enix Corporation</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Street Fighter Alpha 2.sfc</path>
+		<name>Street Fighter Alpha 2</name>
+		<desc>DO YOU HAVE WHAT IT TAKES?
+
+The bad boys from the Street Fighter series are back for more fisticuffs of fury! Eighteen different combatants, some old and some new, are here to lay claim to the title "World's Best". Screamin' moves like Ken's Dragon Punch, Adon's Jaguar Tooth and M. Bison's Somersault Skull Driver will blow you away! Play alone or pummel a friend in two-player simultaneous action. This ain't no cakewalk. This ain't no cakewalk. This is Street Fighter Alpha 2 and it's blazing on your Super NES!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Street Fighter Alpha 2-image.jpg</image>
+		<releasedate>19961220T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Street Fighter II.sfc</path>
+		<name>Street Fighter II</name>
+		<desc>GET READY TO RUMBLE!
+
+From across the globe comes eight of the wildest fighters the world has ever known. Choose your champion, gather your courage and prepare to battle your opponents in a bare knuckle brawl. Face Ken and his devastating "Dragon Punch"! Watch the temperature rise as Dhalsim incinerates you with his mystical Yoga Flame! Hear your spine crack as Zangief smashes you to the pavement with his spinning pile driver! Cover your ears as Guile breaks the sound barrier with the awesome power of the Sonic Boom!
+
+Annihilate your competition and claim the right to test your skills against the bone-crushing power of the Grand Masters! Can you survive? Can Anyone?</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Street Fighter II-image.jpg</image>
+		<releasedate>19920610T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Street Fighter II Turbo.sfc</path>
+		<name>Street Fighter II Turbo</name>
+		<desc>Feel the Need for Speed!
+
+They're back and they're badder than ever! Faster, stronger and with all new moves, twelve of the greatest fighters from across the globe are ready to do battle! Choose your champion and get ready for the big brawl as they try to earn the right to battle M. Bison for the title. And just when you think you've mastered it all, crank it up a notch and go TURBO!
+
+Cover your head as Blanka dives at you from above and hear your neck crack as Zangief hits you with the Turbo Spinning Clothesline. Stare in disbelief as Dhalsim disappears before your eyes and Chun Li unleashes her blazing fireball! Watch in awe as Sagat fights Sagat and Ryu does a Hurricane Kick in mid-air! Survive all this and you may live long enough to become the greatest Street Fighter ever!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Street Fighter II Turbo-image.jpg</image>
+		<releasedate>19930710T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Super Bomberman.sfc</path>
+		<name>Super Bomberman</name>
+		<desc>Super Bomberman is an updated version of the overhead strategy-fighter game "Bomberman" on the Nintendo Entertainment System.  It the first video game in the Bomberman series to appear on the Super Nintendo Entertainment System. It is also the first four-player game to be released on the Super NES. Early versions of Super Bomberman came bundled with the Super Multitap accessory, allowing four controllers to be used on the system.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Super Bomberman-image.jpg</image>
+		<releasedate>19930901T000000</releasedate>
+		<developer>Hudson Entertainment, Inc.</developer>
+		<publisher>Hudson Entertainment, Inc.</publisher>
+		<genre>Action, Puzzle, Strategy</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./Super Bomberman 2.sfc</path>
+		<name>Super Bomberman 2</name>
+		<desc>Five evil cyborgs, called the "Five Dastardly Bombers" are bent on taking over the universe. At the planet Earth, they capture the original Bomberman, and he is placed in a prison cell in their base. He awakens in the dungeon of Magnet Bomber and must fight his way to a final showdown with the Magnet Bomber himself. In the following four levels, Bomberman will challenge Golem Bomber, Pretty Bomber, Brain Bomber, and their leader, Plasma Bomber in an effort to free the Earth of these alien invaders as well as save himself.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Super Bomberman 2-image.jpg</image>
+		<releasedate>19941212T000000</releasedate>
+		<developer>Produce</developer>
+		<publisher>Hudson Entertainment, Inc.</publisher>
+		<genre>Action, Strategy</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./Super Castlevania IV.sfc</path>
+		<name>Super Castlevania IV</name>
+		<desc>THE GRAVEST CASTLEVANIA ADVENTURE BREAKS NEW GROUND...AND BURIES YOU IN IT.
+A century of Transylvanian tranquility is about to come to a shocking end. Once again the mortifying screams of helpless villagers shake the ground as they huddle against new nightmarish horrors unleashed by the Duke of Darkness, Count Dracula. And this time he has a tombstone with your name on it, Simon Belmont.
+You must descend into Castle of the Undead and its gruesome ground, accompanied by the most chilling sound effects to ever tingle your spine. Inside, a freshly dug 11 levels maze features the treacherous Terrace of Terror, the dangerous Rotating Dungeon, the Sunken Ruins of Lost Spirits, torture chambers and creature filled caves. Use your whip like a grappling hook and swing past hundreds of traps and a host of ghost freaks, living corpses and hidden goblins. All while dodging or destroying the unpredictable spitting lizards, carnivorous coffins, and more.
+Find the concealed weapons needed to defeat everything from eerie phantoms to haunted furniture. Then prepare to find yourself face-to-thing with hideous torments like the Tongue Lasher, the Darkest Knight, the Bone-Afide Horseman and the Granite Crusher. When your nerves get shot, use your password and take a breather. But forge on, Simon Belmont, because if you though Dracula was down for the count, he's only just begun to fright!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Super Castlevania IV-image.jpg</image>
+		<releasedate>19911201T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action, Platform</genre>
+	</game>
+	<game>
+		<path>./Super Double Dragon.sfc</path>
+		<name>Super Double Dragon</name>
+		<desc>The two greatest martial arts heroes of all time are back -- in SUPER DOUBLE DRAGON, an all-new adventure with awesome new moves, impossible new missions, and a hair-raising new cast of enemies!
+Marian, a beautiful policewoman, is a student of Kung Fu and part-time assistant instructor at the martial arts training school run by Billy and Jimmy Lee. A narcotics investigator, she has disappeared while attempting to infiltrate the rughtless criminal mob known as the Black Shadow Warriors.
+It will take all your incomparable fighting skill and knowledge to find and rescure Marian. Alone, or with the help of your brother, you must face the fearsome onslaught of the Shadow Warriors with the fabled power and ferocity of the DOUBLE DRAGON!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Super Double Dragon-image.jpg</image>
+		<releasedate>19921001T000000</releasedate>
+		<developer>Technos</developer>
+		<publisher>Tradewest, Inc.</publisher>
+		<genre>Action, Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Super Ghouls 'N Ghosts.sfc</path>
+		<name>Super Ghouls 'n Ghosts</name>
+		<desc>As dauntless knight Arthur you are caught up in the most dangerous of quests! A spell has been cast upon the kingdom. Your fair maiden, Princess Prin Prin has been snatched up by the evil emperor. Only as Arthur can you get her back from the creatures of the undead that haunt the land. Test your courage and skill to the limit. You must keep up the quest. On your journey, your mightiest weapon of all awaits you... MAGIC!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Super Ghouls 'N Ghosts-image.jpg</image>
+		<releasedate>19911101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Super Mario All-Stars.sfc</path>
+		<name>Super Mario All-Stars</name>
+		<desc>Revisit the magic and fun of the classic Super Mario Bros. series on your Super NES!  All the great Super Mario Bros. games for the NES have been powered up with 16-bit graphics and sound and collected on one super game pak.  As an added bonus, the previously unreleased “Lost Levels” are included.  These super challenging courses have never been available in this country until now!
+
+* Four great games in one game pak!
+* Battery backed memory saves up to 4 players’ progress through every game!
+* Play alone or 2 players can alternate play!
+* New 16-bit graphics, sound, and other surprises!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Super Mario All-Stars-image.jpg</image>
+		<releasedate>19930801T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Super Mario All-Stars + Super Mario World.sfc</path>
+		<name>Super Mario All-Stars + Super Mario World</name>
+		<desc>Revisit the magic and fun of the classic Super Mario Bros. series on your Super NES!  Play through Super Mario World, plus all the great Super Mario Bros. games for the NES have been powered up with 16-bit graphics and sound and collected on one super game pak.  As an added bonus, the previously unreleased “Lost Levels” are included.  These super challenging courses have never been available in this country until now!
+
+* Five great games in one game pak!  Play through Super Mario Bros., Super Mario Bros. Lost Levels, Super Mario Bros. 2, Super Mario Bros. 3 &amp; Super Mario World!
+* Battery backed memory saves up to 4 players’ progress through every game!
+* Play alone or 2 players can alternate play!
+* New 16-bit graphics, sound, and other surprises!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Super Mario All-Stars + Super Mario World-image.jpg</image>
+		<releasedate>19931216T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure, Platform</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Super Mario Kart.sfc</path>
+		<name>Super Mario Kart</name>
+		<desc>The Super Mario GoKart Park is open for tons of racing fun!  Hit the track with Mario, Luigi, Yoshi and the Princess.  Get tough and lock fenders with Donkey Kong, Jr. and Bowser.  Even Toad and Koopa Troopa will mix it up in an all-out quest for the Gold Cup!  Race head-to-head with a friend or challenge the computer in great, split-screen, Mode 7 graphics.
+
+Feel like a bit less speed and a lot more strategy?  Take a crack at the Battle Mode!  In four different maze-like courses you’ll use Koopa Shells, Banana Peels, Super Stars and other wacky weapons to burst your opponent's target balloons and triumph!
+
+* 2 games in 1 - Mario Grand Prix and Battle Mode
+* 8  Familiar Characters
+* 20 Different Tracks
+* 3 Different Skill Levels
+* Battery-backed memory saves your best times!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Super Mario Kart-image.jpg</image>
+		<releasedate>19920901T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Racing</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Super Mario RPG.smc</path>
+		<name>Super Mario RPG: Legend of the Seven Stars</name>
+		<desc>Mario returns in this incredible new role-playing adventure! His latest rival is Smithy, a menacing creature who causes fear and treachery in the Mushroom Kingdom. Mario must recover seven stars and repair the Star Road before he can make his way to Bowser's castle for a final confrontation with Smithy. Powerful weapons, sinister spells and other useful items help Mario to complete his harrowing journey. New friends and old allies support him along the way. Even Bowser lends a hand!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Super Mario RPG-image.jpg</image>
+		<releasedate>19960513T000000</releasedate>
+		<developer>Squaresoft</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Super Mario World 2 - Yoshi's Island.sfc</path>
+		<name>Super Mario: Yossy Island</name>
+		<desc>Yoshi Returns to Save Baby Mario in this Sequel to Super Mario World! The Evil Magikoopa, Kamek, is out to kidnap Baby Mario! In this sequel to Super Mario World, you play as Yoshi. Your goal is to successfully carry Baby Mario back to his parents in the Mushroom Kingdom while avoiding all of Kamek’s clever traps and evil minions. Enjoy the various backgrounds of the rich and vibrant locales of Yoshi’s Island as you race to complete your quest. Is Yoshi up to the momentous task at hand? Help him toss his eggs, manipulate unique objects and solve puzzling situations! When in doubt, don’t be afraid to try EVERYTHING!! * 16 megs of memory provide 6 worlds - each with 8 stages! * Morphmation delivers powerful special effects - scaling, rotating, and 360 degree scrolling. * Huge characters and even bigger bosses require quick thinking! * Battery back-up to save your progress.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Super Mario World 2 - Yoshi's Island-image.jpg</image>
+		<releasedate>19950801T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Super Star Wars.sfc</path>
+		<name>Super Star Wars</name>
+		<desc>Join Luke, Han and Chewbacca in their fierce war against the evil Empire. Battle treacherous aliens. Pilot two vehicles in high-speed, first-person, 3-D sequences. Fight your way through the wastelands of Tatooine to the hostile streets of Mos Eisley and beyond. So grab your blaster, strap on your lightsaber, and take on the fight for galactic freedom.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Super Star Wars-image.jpg</image>
+		<releasedate>19921101T000000</releasedate>
+		<developer>Sculptured Software</developer>
+		<publisher>JVC Musical Industries, Inc.</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Super Star Wars - Return of the Jedi.sfc</path>
+		<name>Super Star Wars: Return of the Jedi</name>
+		<desc>Join the Rebellion and crush the Death Star in a giant 16-meg universe filled with all the action and adventure of the Star Wars finale. The command of five different characters-- from Wicket the Ewok to Princess Leia--and go up against the Empire's worst, from Jabba the Hutt to the Emperor himself! This is it! You're going to need every ounce of Force you're got in you.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Super Star Wars - Return of the Jedi-image.jpg</image>
+		<releasedate>19941001T000000</releasedate>
+		<developer>Sculptured Software</developer>
+		<publisher>JVC Musical Industries, Inc.</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Super Star Wars - The Empire Strikes Back.sfc</path>
+		<name>Super Star Wars: The Empire Strikes Back</name>
+		<desc>Pursued across the galaxy, and your Rebel Forces now marshall new strength on the remote ice world of Hoth. Although tracked by probe droids, attacked by ice monster, and confronted by an army of gigantic Imperial Walkers, you must not give in. You are the Alliance's only hope. Learn the ways of the Force, then test your skills in this fast-paced, action-packed sequel to the high game, Super Star Wars.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Super Star Wars - The Empire Strikes Back-image.jpg</image>
+		<releasedate>19931001T000000</releasedate>
+		<developer>Sculptured Software</developer>
+		<publisher>JVC Musical Industries, Inc.</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Super Street Fighter II.sfc</path>
+		<name>Super Street Fighter II</name>
+		<desc>A New Challenge Awaits
+
+For two years, they have reigned supreme. Twelve of the most gifted fighters from across the world have battled each other in the World Warrior tournament. But the time has come for them to step aside - Now is the time of the New Challengers!
+
+Cammy, Dee Jay, T. Hawk and Fei Long have earned the right to enter the World Warrior Tournament. Each of them possess a lethal combination of martial arts skills that they believe can destroy M. Bison. But can they survive the original Street Fighters and their new abilities? Only the true Street Fighters among you will find out!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Super Street Fighter II-image.jpg</image>
+		<releasedate>19940601T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Tales of Phantasia.sfc</path>
+		<name>Tales of Phantasia</name>
+		<desc>Tales of Phantasia is a Japanese role-playing video game originally developed by Wolf Team. It is the first title in Namco's Tales series. Initially released for the Super Famicom in December 1995.
+
+In "Tales of Phantasia", you play a young boy named Cless, who lives together with his parents in a quiet village. It was a day like all the others when Cless decided to go hunting with his best friend Chester. Chasing a wild boar, Cless discovered a strange talking tree in the forest who was pleading him for help. But as soon as it stopped speaking, the two friends heard the sound of an alarm. They returned to the village and found it burnt down, and all its inhabitants murdered. Before Cless' mother died in his arms, she told him this terrible massacre had something to do with the pendant she and her husband gave Cless for his birthday... what connection could there be? Cless decides to visit his uncle who lives in another town, but he doesn't realize his journey will take him to much more remote places than that!
+
+The game's main claim to fame is its intro theme, which incorporates a vocal track. Normally, such a track cannot be done on the SNES, as all assets for a single song must fit into the 64kB audio buffer before the song can be played. This technical limit was overcome by slicing the vocal track into small samples and swapping them in and out of the audio buffer. The rest of the intro theme is standard MIDI.
+
+"Tales of Phantasia" presents a unique combat system. The battles have a lot in common with fighting games: you fight on a platform that slowly scrolls forward and have to attack your enemy in real time. Other party members are controlled by AI. You can pause the game at any time and use magic, items, or choose an overall strategy for your allies.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Tales of Phantasia-image.jpg</image>
+		<releasedate>19951215T000000</releasedate>
+		<developer>Wolf Team</developer>
+		<publisher>Namco</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Wolfenstein 3D.sfc</path>
+		<name>Wolfenstein 3-D</name>
+		<desc>This masterpiece of wild action and unbelievable graphics brings you virtual reality at its best, as you move through a sensationally realistic 3-D world of amazing detail. It's World War II, and you are B.J. Blazkowicz - the Allies' bad boy of espionage, a terminal action seeker gulit for abuse with an attitude to match. There's just one small problem: you've been captured by the Nazis, tortured, and imprisoned beneath the Castle Wolfenstein where you await execution. Bummer. Now, you must do anything to escape from the belly of a Nazi dungeon - or die trying.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Wolfenstein 3D-image.png</image>
+		<releasedate>19940301T000000</releasedate>
+		<developer>Imagineer</developer>
+		<publisher>Imagineer Co., Ltd.</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./Final Fight 3.sfc</path>
+		<name>Final Fight 3</name>
+		<desc>YOU CAN TEACH A NEW SKULL OLD TRICKS
+
+Metro City is under attack, and this time a new crime organization is claiming responsibility. Pulling pages from the Mad Gear Gang's guidebook, the feared group named SKULL CROSS are up to the same old tricks: arson, terrorism, assault, and armed robbery.
+
+Mayor Mike Haggar returns with the potent Guy at his side. And with help from Cody's pal Lucia, and Dean, a revenge-seeking fighting machine, the Final Fight team will ambush the enemy at their next move. Choose to play one of the 4 characters, each with thier own fighting style and "SUPER" knock out techniques. Have a friend join in for a double assault on the city's scum and crush any punk that gets in your way!
+
+
+-9 huge levels of action that really packs a punch!
+-Pull off special attacks to power up your SUPER move meter and blam! The multiple-hit punch and kick barrage you unleash devastates your opponents!
+-Make decisions on directions to travel-makes your fight different every time!
+-Enjoy 2-player simultaneous fun, or try the new AUTO 2-PLAYER mode where the computer acts as your teammate!
+-24-MEGS-The biggest Final Fight ever!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Final Fight 3-image.jpg</image>
+		<releasedate>19951222T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action, Fighting</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20210220T164409</lastplayed>
+	</game>
+	<game>
+		<path>./ChronoTrigger - Crimson Echoes.sfc</path>
+		<name>Chrono Trigger - Crimson Echoes</name>
+		<rating>0</rating>
+		<releasedate>19700101T000000</releasedate>
+		<playcount>1</playcount>
+		<lastplayed>20210228T054821</lastplayed>
+	</game>
+	<game>
+		<path>./Chrono Trigger - FoE.smc</path>
+		<name>Chrono Trigger - FoE</name>
+		<rating>0</rating>
+		<releasedate>19700101T000000</releasedate>
+		<hidden>true</hidden>
+		<playcount>2</playcount>
+		<lastplayed>20210228T054912</lastplayed>
+	</game>
+	<game>
+		<path>./Mega Man X.sfc</path>
+		<name>Mega Man X</name>
+		<desc>Near the end of his life, Dr. Light succeeds in creating the first of a new series of robots which will change the world. Able to think and make decisions, this new robot holds great danger as well as great possibilities. Fearful of the possible consequences of unleashing his creation on the world, Dr. Light decides to seal him in a capsule and test his systems until they are totally reliable. The future will have to decide his fate...
+
+Released from the capsule by Dr. Cain, "X" is born into the world of the future where the robot rebellions are a thing of the past. But when Dr. Cain tries to implement Dr. Light's designs into a new series of Reploids, something goes hideously wrong. Now the future lies on the brink of destruction and a new Mega Man must emerge to face Sigma and his forces before the human race is wiped from the planet!
+
+*12 Megs featuring 12 levels of action!
+*New Powers, New Abilities!
+*For 1 Player only.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Mega Man X-image.jpg</image>
+		<releasedate>19940121T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<playcount>1</playcount>
+		<lastplayed>20210316T024046</lastplayed>
+	</game>
+	<game>
+		<path>./Bugs Bunny - Rabbit Rampage.sfc</path>
+		<name>Bugs Bunny Rabbit Rampage</name>
+		<desc>Bugs Bunny Rabbit Rampage is a side-scrolling platform game. The player, controlling Bugs Bunny, is able to jump (and squash), high-kick, throw cream pies and use ACME weapons. These weapons are scattered all over the landscape and include such cartoon favorites as bone-shaped dynamite sticks, anvils to drop on heads, Shrink Rays, portable holes and many more. Players will encounter a variety of familiar Looney Tunes characters as enemies and level bosses. At the end of each level (10 in all). players are given a rating based on their gameplay style, which includes how many of these ACME weapons they were willing to use.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Bugs Bunny - Rabbit Rampage-image.jpg</image>
+		<releasedate>19940205T000000</releasedate>
+		<developer>Viacom New Media</developer>
+		<publisher>SUNSOFT</publisher>
+		<genre>Platform</genre>
+		<playcount>1</playcount>
+		<lastplayed>20210402T034335</lastplayed>
+	</game>
+	<game>
+		<path>./Dragon Quest I &amp; II.sfc</path>
+		<name>Dragon Quest I &amp; II</name>
+		<desc>Remakes of the two first Dragon Quest for Famicom realized for the Super Famicom.
+This remake includes updated graphics that retain the original look, sound of higher quality, and some changes in the gameplay and in the game world: certain locations are larger, some menu commands (such as "Stairs") are omitted, and there is a larger variety of items.
+Famitsu gave the SNES compilation remake Dragon Quest I + II a rating of 35 out of 40</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Dragon Quest I &amp; II-image.jpg</image>
+		<releasedate>19931218T000000</releasedate>
+		<developer>Chunsoft</developer>
+		<publisher>Enix Corporation</publisher>
+		<genre>Role-Playing</genre>
+		<playcount>3</playcount>
+		<lastplayed>20210402T035336</lastplayed>
+	</game>
+	<game>
+		<path>./EarthBound.sfc</path>
+		<name>EarthBound</name>
+		<desc>Intergalactic terror stikes the small town of Onett as a blazing extraterrestrial object crashes in the night! The earth now faces imminent destruction by the universal evil threat known as Giygas! Armed with a cracked baseball bat, a cookie and an ATM card, a courageous boy named Ness vows to save the planet from hideous destruction. He must first find his heroic companions, Paula, Jeff and Poo. Will Ness succeed in his attempts to ambush countless frightening monsters as he travels? The ultimate test lies in the impending encounter with the all powerful Giygas!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/EarthBound-image.png</image>
+		<releasedate>19940827T000000</releasedate>
+		<developer>Ape Studios</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role-Playing</genre>
+		<favorite>true</favorite>
+		<playcount>5</playcount>
+		<lastplayed>20210414T033627</lastplayed>
+	</game>
+	<game>
+		<path>./Dragon Quest III.sfc</path>
+		<name>Dragon Quest III: Soshite Densetsu e...</name>
+		<desc>Your father, the brave Ortega, is dead. He set off to destroy the Archfiend Baramos but fell in glorious battle. Unless stopped, Baramos will unleash a torrent of evil that will destroy the world. You must stop Baramos and discover the legend of Dragon Quest! Your journey starts in Aliahan. Only you decide where it ends...
+
+Originally not released outside of Japan, this version has earned itself several fan translations over the years.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Dragon Quest III-image.png</image>
+		<releasedate>19961206T000000</releasedate>
+		<developer>Heart Beat</developer>
+		<publisher>Enix Corporation</publisher>
+		<genre>Role-Playing</genre>
+		<playcount>1</playcount>
+		<lastplayed>20210419T010330</lastplayed>
+	</game>
+	<game>
+		<path>./Super Metroid.sfc</path>
+		<name>Super Metroid</name>
+		<desc>Take on a legion of Space Pirates and a new Metroid force as you forge into the covert underworld of Planet Zebes!  It’s up to you and Samus to recapture the long-surviving Metroid hatchling before evil hands unleash its energy.
+
+An army of ominous creatures are poised for battle at every turn of Zebes’ twisted, threatening passageways… including the menacing Ridley and the great lizard Kraid.  Knock down enemies with a killer somersault and swing on an electric beam through narrow passageways!  They’re no match for you and Samus… but wait!  It seems the Mother Brain has returned…</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Super Metroid-image.jpg</image>
+		<releasedate>19940418T000000</releasedate>
+		<developer>Intelligent Systems Co., Ltd.</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action, Adventure</genre>
+		<playcount>3</playcount>
+		<lastplayed>20210604T151235</lastplayed>
+	</game>
+	<game>
+		<path>./Doom.sfc</path>
+		<name>Doom</name>
+		<desc>The Union Aerospace Corporation has been experimenting with teleportation technology on Mars' moons Phobos and Deimos. After early successes, something goes wrong. It seems the scientists have opened a gateway straight to Hell. Phobos base is overrun with demonic creatures, and the whole of Deimos simply vanishes. A squad of marines is sent to Phobos, but all except one are quickly slaughtered. It falls to the surviving marine to grab some guns and strike back at the demons.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Doom-image.jpg</image>
+		<releasedate>19950901T000000</releasedate>
+		<developer>Sculptured Software</developer>
+		<publisher>Williams Electronic Games, Inc.</publisher>
+		<genre>Shooter</genre>
+		<playcount>1</playcount>
+		<lastplayed>20210628T124703</lastplayed>
+	</game>
+	<game>
+		<path>./Legend of Zelda - A Link to the Past.sfc</path>
+		<name>The Legend of Zelda: A Link to the Past</name>
+		<desc>Venture back to Hyrule and an age of magic and heroes.  The predecessors of Link and Zelda face monsters on the march when a menacing magician takes over the kingdom.  Only you can prevent his evil plot from shattering the land of Hyrule.
+
+In your quest, you’ll venture into twisting mazes, dungeons, palaces and shadowy forests.  Test your mettle with mighty swords and magical weapons.  Or heft a boulder and hurl it at your enemies.  If the going gets tough, dive into a river--you can swing to escape!  Learn powerful spells, locate magical artifacts and solve the mysteries of the evil magician and the hidden realm of Hyrule.
+
+This exciting Super NES sequel to the Legend of Zelda and The Adventure of Link uses 16-bit power to create a quest so colorful and detailed you don’t just play it, you live it!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Legend of Zelda - A Link to the Past-image.jpg</image>
+		<releasedate>19920413T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action, Adventure, Role-Playing</genre>
+		<favorite>true</favorite>
+		<playcount>2</playcount>
+		<lastplayed>20210628T130243</lastplayed>
+	</game>
+	<game>
+		<path>./Super Mario World.sfc</path>
+		<name>Super Mario World (MSU-1)</name>
+		<desc>This ROM hack adds CD quality versions of Super Mario World’s soundtrack by using MSU-1 chip invented by byuu. 
+
+So far, it is only supported and tested on bsnes, higan and the SD2SNES flashcart. If the MSU-1 chip is not detected, the hack plays the SNES soundtrack instead.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Super Mario World-image.jpg</image>
+		<releasedate>20150629T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform, Unofficial</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20210929T021911</lastplayed>
+	</game>
+	<game>
+		<path>./Chrono Trigger.sfc</path>
+		<name>Chrono Trigger (MSU-1)</name>
+		<desc>This ROM hack adds animated cutscenes from the Playstation version as well as orchestral versions of the game’s soundtrack by using MSU-1 chip invented by byuu. 
+
+So far, it is only supported and tested on bsnes, higan and the SD2SNES flashcart. If the MSU-1 chip is not detected, the hack ignores the cutscenes and plays the SNES soundtrack instead.
+</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Chrono Trigger-image.jpg</image>
+		<releasedate>20160131T000000</releasedate>
+		<developer>Squaresoft</developer>
+		<publisher>Squaresoft</publisher>
+		<genre>Role-Playing, Unofficial</genre>
+		<favorite>true</favorite>
+		<playcount>11</playcount>
+		<lastplayed>20211004T030521</lastplayed>
+	</game>
+	<game>
+		<path>./Donkey Kong Country.sfc</path>
+		<name>Donkey Kong Country</name>
+		<desc>Madness and Mayhem in this 3-D Gorilla Thriller!
+
+Donkey Kong is back with a new sidekick, Diddy Kong, in a crazy island adventure! Challenged by the crazed tribe of reptilian Kremlings, they endeavor to get back their stolen banana horde! Armed with lightning-quick moves, chest-pounding muscle and awesome aerial acrobatics, our duo is ready to face their cunning adversaries. With the help of Donkey Kong's quirky family and his wild animal mounts, they squabble and scamper their way through the unending monkey mayhem!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Donkey Kong Country-image.jpg</image>
+		<releasedate>19941121T000000</releasedate>
+		<developer>Rare, Ltd.</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action, Adventure, Platform</genre>
+		<players>2</players>
+		<playcount>3</playcount>
+		<lastplayed>20211004T025338</lastplayed>
+	</game>
+	<game>
+		<path>./Super Punch-Out!!.sfc</path>
+		<name>Super Punch-Out!!</name>
+		<desc>Slug your way through the grueling and sweat-pounding matches of the Minor, Major and World Circuits. Dodge bone-bruising punches and dance to the top of the supreme Special Circuit. Face off against old favorites including Bear Hugger, Piston Hurricane, Bald Bull, Mr. Sandman and Super Macho Man plus a cast of new and weird challengers. With a right hook! Body blow! And precise quick jabs! The referee announces "Knock Out!" Your opponent lies face down as you win the title of Nintendo Video Boxing Association Champion!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Super Punch-Out!!-image.jpg</image>
+		<releasedate>19941001T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Sports</genre>
+		<playcount>1</playcount>
+		<lastplayed>20211025T211443</lastplayed>
+	</game>
+</gameList>

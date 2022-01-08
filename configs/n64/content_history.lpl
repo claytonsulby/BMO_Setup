@@ -1,0 +1,283 @@
+{
+  "version": "1.4",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 2,
+  "items": [
+    {
+      "path": "/home/pi/RetroPie/roms/n64/Yoshi's Story.z64",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mupen64plus-next/mupen64plus_next_libretro.so",
+      "core_name": "Mupen64Plus-Next",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/n64/Super Mario 64.z64",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mupen64plus-next/mupen64plus_next_libretro.so",
+      "core_name": "Mupen64Plus-Next",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/n64/Legend of Zelda - The Missing Link.n64",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mupen64plus-next/mupen64plus_next_libretro.so",
+      "core_name": "Mupen64Plus-Next",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/n64/Castlevania.z64",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mupen64plus-next/mupen64plus_next_libretro.so",
+      "core_name": "Mupen64Plus-Next",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/n64/Legend of Zelda - Majora's Mask.z64",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mupen64plus-next/mupen64plus_next_libretro.so",
+      "core_name": "Mupen64Plus-Next",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/n64/Paper Mario.z64",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mupen64plus-next/mupen64plus_next_libretro.so",
+      "core_name": "Mupen64Plus-Next",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/n64/Paper Mario.z64",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mupen64plus/mupen64plus_libretro.so",
+      "core_name": "Mupen64Plus GLES2",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/n64/Super Smash Bros..z64",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mupen64plus/mupen64plus_libretro.so",
+      "core_name": "Mupen64Plus GLES2",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/n64/Hey You, Pikachu!.z64",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mupen64plus/mupen64plus_libretro.so",
+      "core_name": "Mupen64Plus GLES2",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/n64/Banjo-Kazooie.z64",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mupen64plus/mupen64plus_libretro.so",
+      "core_name": "Mupen64Plus GLES2",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/n64/Banjo-Tooie.z64",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mupen64plus/mupen64plus_libretro.so",
+      "core_name": "Mupen64Plus GLES2",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/n64/Super Mario 64.z64",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mupen64plus/mupen64plus_libretro.so",
+      "core_name": "Mupen64Plus GLES2",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/n64/Bust-A-Move '99.z64",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mupen64plus/mupen64plus_libretro.so",
+      "core_name": "Mupen64Plus GLES2",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/n64/Legend of Zelda - Ocarina of Time Redux.z64",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mupen64plus/mupen64plus_libretro.so",
+      "core_name": "Mupen64Plus GLES2",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/n64/Legend of Zelda - Ocarina of Time - Master Quest Redux.z64",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mupen64plus/mupen64plus_libretro.so",
+      "core_name": "Mupen64Plus GLES2",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/n64/Legend of Zelda - The Missing Link.z64",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mupen64plus/mupen64plus_libretro.so",
+      "core_name": "Mupen64Plus GLES2",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/n64/Legend of Zelda - The Missing Link.n64",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mupen64plus/mupen64plus_libretro.so",
+      "core_name": "Mupen64Plus GLES2",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/n64/Pokemon Stadium.z64",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mupen64plus/mupen64plus_libretro.so",
+      "core_name": "Mupen64Plus GLES2",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/n64/Harvest Moon 64.z64",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mupen64plus/mupen64plus_libretro.so",
+      "core_name": "Mupen64Plus GLES2",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/n64/Rayman 2 - The Great Escape.z64",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mupen64plus/mupen64plus_libretro.so",
+      "core_name": "Mupen64Plus GLES2",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/n64/Doom 64.z64",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mupen64plus/mupen64plus_libretro.so",
+      "core_name": "Mupen64Plus GLES2",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/n64/Bomberman Hero.z64",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mupen64plus/mupen64plus_libretro.so",
+      "core_name": "Mupen64Plus GLES2",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/n64/Diddy Kong Racing.z64",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mupen64plus/mupen64plus_libretro.so",
+      "core_name": "Mupen64Plus GLES2",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/n64/Mega Man 64.z64",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mupen64plus/mupen64plus_libretro.so",
+      "core_name": "Mupen64Plus GLES2",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/n64/Mario Kart 64.z64",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mupen64plus/mupen64plus_libretro.so",
+      "core_name": "Mupen64Plus GLES2",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/n64/Yoshi's Story.z64",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mupen64plus/mupen64plus_libretro.so",
+      "core_name": "Mupen64Plus GLES2",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/n64/Tony Hawk's Pro Skater.z64",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mupen64plus/mupen64plus_libretro.so",
+      "core_name": "Mupen64Plus GLES2",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/n64/South Park.z64",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mupen64plus/mupen64plus_libretro.so",
+      "core_name": "Mupen64Plus GLES2",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/n64/Dr. Mario 64.z64",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mupen64plus/mupen64plus_libretro.so",
+      "core_name": "Mupen64Plus GLES2",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/n64/Bomberman 64.z64",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mupen64plus/mupen64plus_libretro.so",
+      "core_name": "Mupen64Plus GLES2",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/n64/Legend of Zelda, The - Majora's Mask.z64",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mupen64plus/mupen64plus_libretro.so",
+      "core_name": "Mupen64Plus GLES2",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/n64/Kirby 64 - The Crystal Shards.z64",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mupen64plus/mupen64plus_libretro.so",
+      "core_name": "Mupen64Plus GLES2",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/n64/Legend of Zelda, The - Ocarina of Time.z64",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mupen64plus/mupen64plus_libretro.so",
+      "core_name": "Mupen64Plus GLES2",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/n64/Legend of Zelda, The - Majora's Mask.z64",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-parallel-n64/parallel_n64_libretro.so",
+      "core_name": "ParaLLEl N64",
+      "crc32": "",
+      "db_name": ""
+    }
+  ]
+}

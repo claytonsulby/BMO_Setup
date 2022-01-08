@@ -1,0 +1,379 @@
+{
+  "version": "1.4",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 2,
+  "items": [
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Doom (USA) (Rev 1)-210220-151817.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Castlevania - Symphony of the Night (USA)-210127-145050.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Powerslave (USA)-201109-060441.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Pocket Fighter (USA)-201108-194712.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Pocket Fighter (USA)-201108-194443.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Pocket Fighter (USA)-201108-194346.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Pocket Fighter (USA)-201108-191558.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Pocket Fighter (USA)-201108-191446.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Strider 2 (USA)-201108-191017.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Strider (USA)-201108-190834.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Nicktoons Racing (USA)-201108-190511.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Chocobo's Dungeon 2 (USA)-201108-152853.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Tekken 3 (USA)-201108-142736.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Street Fighter Alpha 3 (USA)-201108-142615.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Herc's Adventures (USA)-201108-141347.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Herc's Adventures (USA)-201108-141328.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Herc's Adventures (USA)-201108-141110.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Duke Nukem - Land of the Babes (USA)-201108-140208.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Duke Nukem - Land of the Babes (USA)-201108-140139.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Dynasty Warriors (USA)-201108-140048.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Eternal Eyes (USA)-201108-135741.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Eternal Eyes (USA)-201108-135731.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Dragon Ball Z - Ultimate Battle 22 (USA)-201108-135640.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/C - The Contra Adventure (USA)-201108-134009.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Darkstalkers - The Night Warriors (USA)-201108-080500.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Darkstalkers 3 (USA)-201108-080128.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/JoJo's Bizarre Adventure (USA)-201108-075551.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Final Fantasy Chronicles - Chrono Trigger (USA) (Rev 1)-201108-041428.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Terry Pratchett's Discworld (USA)-201108-040609.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Gex (USA) (Rev 1)-201108-035755.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Crash Bash (USA)-201107-185110.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Azure Dreams (USA)-201106-202229.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Azure Dreams (USA)-201106-202146.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Azure Dreams (USA)-201106-202047.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Diablo (USA) (En,Fr,De,Sv)-201105-134731.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Diablo (USA) (En,Fr,De,Sv)-201105-134653.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Diablo (USA) (En,Fr,De,Sv)-201105-134303.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Metal Gear Solid (USA) (Disc 1) (v1.0).CD1-201105-064905.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Metal Slug X (USA)-201105-064657.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Metal Slug X (USA)-201105-064535.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Mr. Driller (USA)-201105-064236.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Harvest Moon - Back to Nature (USA)-201105-063933.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Harvest Moon - Back to Nature (USA)-201105-063926.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Harvest Moon - Back to Nature (USA)-201105-063659.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Harvest Moon - Back to Nature (USA)-201105-063522.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Bomberman World (USA)-201105-063041.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    }
+  ]
+}

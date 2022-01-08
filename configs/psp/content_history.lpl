@@ -1,0 +1,59 @@
+{
+  "version": "1.4",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 2,
+  "items": [
+    {
+      "path": "/home/pi/RetroPie/roms/psp/Little Big Planet.iso",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-ppsspp/ppsspp_libretro.so",
+      "core_name": "PPSSPP",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/psp/Kingdom Hearts - Birth by Sleep.iso",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-ppsspp/ppsspp_libretro.so",
+      "core_name": "PPSSPP",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/psp/Street Fighter Alpha 3 Max.iso",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-ppsspp/ppsspp_libretro.so",
+      "core_name": "PPSSPP",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/psp/Sims 2.iso",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-ppsspp/ppsspp_libretro.so",
+      "core_name": "PPSSPP",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/psp/LittleBigPlanet.iso",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-ppsspp/ppsspp_libretro.so",
+      "core_name": "PPSSPP",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/psp/Avatar - The Last Airbender.iso",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-ppsspp/ppsspp_libretro.so",
+      "core_name": "PPSSPP",
+      "crc32": "",
+      "db_name": ""
+    }
+  ]
+}

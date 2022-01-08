@@ -1,0 +1,828 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Legend of Zelda II - The Adventure of Link.nes</path>
+		<name>Legend of Zelda II - The Adventure of Link</name>
+		<playcount>1</playcount>
+		<lastplayed>20201103T123307</lastplayed>
+	</game>
+	<game>
+		<path>./Earthbound - Prototype.nes</path>
+		<name>Earthbound - Prototype</name>
+		<playcount>1</playcount>
+		<lastplayed>20201226T215933</lastplayed>
+	</game>
+	<game>
+		<path>./1942.nes</path>
+		<name>1942</name>
+		<desc>1942... you and daring fighter pilot "Super Ace" are engaged in realistic, thrilling and challenging high-flying battles with the enemy. Over land, on the sea and in the air, your own skill and dexterity... combined with Super Ace's flying mastery, duel enemy pilots in fighter and bomber craft. 1942... it's airplanes taking off and landing on ocean-going aircraft carriers... disrupting enemy formations ready to attack... intercepting enemy air-warriors you must defeat by "blasting 'em out of the sky." Will it be victory? Or defeat? It's in your skillful hands!</desc>
+		<image>~/.emulationstation/downloaded_images/nes/1942-image.jpg</image>
+		<releasedate>19851211T000000</releasedate>
+		<developer>Micronics</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Balloon Fight.nes</path>
+		<name>Balloon Fight</name>
+		<desc>The player controls the unnamed Balloon Fighter with two balloons attached to his back. Repeatedly pressing the A or B buttons causes the Balloon Fighter to flap his arms and rise into the air. If a balloon is popped, the player's flotation is decreased, making it harder to rise. A life is lost if both balloons are popped by enemy Balloon Fighters, if the player falls in the water, gets eaten by the large fish near the surface of the water, or is hit by lightning.</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Balloon Fight-image.jpg</image>
+		<releasedate>19850122T000000</releasedate>
+		<developer>Nintendo R&amp;D1</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Battletoads-Double Dragon.nes</path>
+		<name>Battletoads &amp; Double Dragon</name>
+		<desc>When a battlecruiser the size of a city and called the Colossus smashes out of the moon, its laser cannon glowing menacingly, you can bet it ain't gonna be makin' no social calls... You can bet it's gonna be creating some bad n' crazy mayhem on good ol' planet Earth - 'specially when you know that the dreaded Dark Queen and the shady Shadow Boss are on board just rarin' to rock n' roll... The dastardly duo are about to unleash their most monstrous plan yet - from their secret lunar base they intend to launch an invasion that'll make them masters of the world... Neutralized by deadly glooming rays, Earth's forces are powerless... That is, until the Dragons join the 'Toads! Take a toadacious trip with the dream ticket as those terrific twins Billy and Jimmy Lee team up with Zitz, Flash and Pimple against the combined might of the gruesome twosome and their mindless minions Big Blag, Abobo, Robo-Manus and Roper, in a toadally new adventure!</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Battletoads-Double Dragon-image.jpg</image>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Rare, Ltd.</developer>
+		<publisher>Tradewest, Inc.</publisher>
+		<genre>Action, Adventure</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Bomberman.nes</path>
+		<name>Bomberman</name>
+		<desc>Bomberman is an action game that has become synonymous with the Hudson brand. This is the very first version of Bomberman, which was released in 1985, and it went on to sell over one million copies. Bomberman boasts a simple and addictive game system where the players set bombs to knock out enemies.</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Bomberman-image.jpg</image>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Hudson Entertainment, Inc.</developer>
+		<publisher>Hudson Entertainment, Inc.</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Bomberman II.nes</path>
+		<name>Bomberman II</name>
+		<desc>A Bomberman named White Bomberman is framed for terrible crimes by Black Bomberman. After being accused of robbing a bank, White Bomberman is thrown in jail. Bomberman's mission is to escape his prison cell and bring Black Bomberman to justice.
+
+The game follows the classic Bomberman formula: you are in a room full of blocks and enemies and Bomberman must plant bombs to destroy the blocks and enemies. Several blocks contain power-ups (such as blast radius increasers or fuse shorteners), and one in each level contains a door, which takes Bomberman to the next level.
+Passwords are given after game over, recording the level, number of bombs, and strength of bombs. These passwords can be entered when the game starts allowing the player to continue where he left off.
+New to the series are the multi-player modes. Vs Mode is a 2-player mode, while Battle Mode is a 3-player mode. The objective is to kill the opposing Bomberman by planting bombs. An NES Four Score is required to play the 3-player mode.</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Bomberman II-image.jpg</image>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Hudson Entertainment, Inc.</developer>
+		<publisher>Hudson Entertainment, Inc.</publisher>
+		<genre>Action</genre>
+		<players>3</players>
+	</game>
+	<game>
+		<path>./Bubble Bobble.nes</path>
+		<name>Bubble Bobble</name>
+		<desc>THESE ARE TWO HUNGRY DINO-MIGHTS AND THEY'VE GOT BUBBLE FIGHT'N FUN DOWN TIGHT. You and your two brontosaurus buddies, Bub and Bob, are up to your brows in bubble troubles. You've got to battle battalions of bullies by blowing and bursting billions of bubbles. It's a fast-paced bubble banquet through over 100 screens of slap happy suds. Got an appetite for fun... then get blowin'.</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Bubble Bobble-image.jpg</image>
+		<releasedate>19881130T000000</releasedate>
+		<developer>Taito Corporation</developer>
+		<publisher>Taito Corporation</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Bubble Bobble Part 2.nes</path>
+		<name>Bubble Bobble: Part 2</name>
+		<desc>A new breed of heroes! Cubby and Rubby, descendants of the famous Bubby, must battle the Skull Brothers and their army of fiends to rescue a friend in danger. Fortunately, our dinosaur heroes can blow bubbles that will destroy their foes. They will rain fire, floods and tornado!</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Bubble Bobble Part 2-image.png</image>
+		<releasedate>19930305T000000</releasedate>
+		<developer>ITL</developer>
+		<publisher>Taito Corporation</publisher>
+		<genre>Action, Platform</genre>
+	</game>
+	<game>
+		<path>./Bugs Bunny Birthday Blowout.nes</path>
+		<name>The Bugs Bunny Birthday Blowout</name>
+		<desc>The game is a side-scrolling adventure game where you control the famous Warner Brothers cartoon character Bugs Bunny on a quest to get to his 50th birthday party. He is armed with a mallet that he can swing at various enemies to defeat them, deflect certain projectiles or destroy bricks. He can also collect hearts to restore his health and carrots for bonus points. At the end of each level, Bugs Bunny had to use his mallet to defeat a Warner Brothers cartoon character such as Foghorn Leghorn, Sylvester, or the Tasmanian Devil. These other Looney Tunes characters are trying to stop Bugs because they are all jealous that Bugs gets all the attention.
+Levels:
+1: Grass land (Daffy Duck, Tweety Bird, Daffy, Wile E. Coyote)
+2: Desert (Daffy, Tweety, Yosemite Sam) (Level 2-3 has no boss)
+3: Evening Canyon (Daffy, Elmer Fudd, Daffy, Sylvester Cat)
+4: Night Caves (Daffy, Tweety, Daffy, Pepe le Pew)
+5: Jungle (Daffy, Elmer Fudd, Daffy, Foghorn Leghorn)
+6: Temple (Daffy, Elmer Fudd, Daffy, Tazmanian Devil)</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Bugs Bunny Birthday Blowout-image.jpg</image>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Kemco</developer>
+		<publisher>Kemco</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Bugs Bunny Crazy Castle.nes</path>
+		<name>The Bugs Bunny Crazy Castle</name>
+		<desc>The Crazy Castle series is an action-puzzle game series created by Kemco and released on the Famicom Disk System, NES, Game Boy, Game Boy Color and Game Boy Advance.  It stars different popular cartoon characters, most notably the Warner Bros. cartoon character, Bugs Bunny, and the Walt Disney cartoon character, Mickey Mouse.</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Bugs Bunny Crazy Castle-image.jpg</image>
+		<releasedate>19890801T000000</releasedate>
+		<developer>Kemco</developer>
+		<publisher>Kemco</publisher>
+		<genre>Puzzle, Platform</genre>
+	</game>
+	<game>
+		<path>./BurgerTime.nes</path>
+		<name>BurgerTime</name>
+		<desc>You play as Chef Pepper and your goal is to make giant hamburgers while evil eggs, sausages and pickles chase you around the game area. 
+
+To properly make a hamburger you must assemble all of the ingredients together, dropping them from higher up onto the the burger area below. To actually do this you have to let Chef Pepper step all over the burger ingredients. As soon as an ingredient (a piece of lettuce for instance) has been stepped on, it will fall to the next level below. Falling food will squish any enemy following you and will also"bump" any other ingredient bellow it farther down. Also, as an emergency defense against the enemy food, you can collect pepper shakers which will allow you to puff out a small pepper cloud which will momentarily stun enemies, allowing you to walk past them.</desc>
+		<image>~/.emulationstation/downloaded_images/nes/BurgerTime-image.jpg</image>
+		<releasedate>19870501T000000</releasedate>
+		<developer>Data East Corporation</developer>
+		<publisher>Data East Corporation</publisher>
+		<genre>Puzzle</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Castlevania II - Simon's Quest.nes</path>
+		<name>Castlevania II: Simon's Quest</name>
+		<desc>Castlevania was a cakewalk compared to this bloody curse. You thought you had the Prince of Darkness defanged - eh, Simon Belmont? Well think again, 'cause according to a damsel in distress, evil Count Dracula has left a horrifying curse in his wake. And the only hope you have of ending the terror is to destroy his missing body parts! Talk about your frightening quest, searching a maze of mansions, graveyards and dark, eerie forests - each guarded by man-eating werewolves, fire-throwing zombies and other devilish demons. Your grim chances are kept alive in Transylvania, where cowardly villagers offer clues to the whereabouts of Dracula's remains. And where you'll purchase magic weapons, including silver knives and flame whips. But beware the night. For when the sun disappears, Dracula's curse grows deadlier. And your chances grow dimmer and dimmer.</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Castlevania II - Simon's Quest-image.jpg</image>
+		<releasedate>19881201T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action, Adventure, Platform</genre>
+	</game>
+	<game>
+		<path>./Castlevania III - Dracula's Curse.nes</path>
+		<name>Castlevania III: Dracula's Curse (Improved Controls)</name>
+		<desc>This hack modernizes the control scheme of Castlevania 3 to make it less frustrating to people used to tighter controls, including giving the player more control while jumping.
+
+- Enables all characters to control their x-velocity in mid-air while jumping (including while jump attacking); Grant’s jumping controls remain unchanged.
+- When releasing the jump button, one immediately starts falling again; this allows the player to make smaller hops if desired. (Does not apply to Grant.)
+- After being knocked back, the player regains control after a split second and can angle their fall.
+- When walking off an edge, the player retains control instead of dropping straight down.
+- All characters can jump off of stairs at any point in the climb (however, it is still impossible to land on stairs, so be careful jumping from long flights of stairs over pits)</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Castlevania III - Dracula's Curse-image.jpg</image>
+		<releasedate>20170725T000000</releasedate>
+		<developer>ROM Hack</developer>
+		<publisher>Romhacking.net</publisher>
+		<genre>Action, Platform</genre>
+	</game>
+	<game>
+		<path>./Contra.nes</path>
+		<name>Contra</name>
+		<desc>The universe teeters on the brink of total annihilation at the hands of the vile alien warmonger, Red Falcon. Earth's only hope rests with you, a courageous member of the Special Forces elite commando squad. Your mission: Battle deep into the deadly Amazon jungle, where the Red Falcon and his galactic henchmen have transformed ancient Mayan temples into awesome monuments dedicated to mass destruction. A multitude of weapons, from rapid-fire machine guns to high-tech lasers are at your disposal as you sweat blood, fighting past 3-D mazes, underground security systems, and tropical forests surrounded by giant waterfalls and alien cannons. This is the ultimate test for the ultimate guerilla warrior. And if you survive, Earth survives!</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Contra-image.jpg</image>
+		<releasedate>19880202T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action, Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Death Race.nes</path>
+		<name>Death Race</name>
+		<desc>Death Race is seemingly inspired by the Sylvester Stallone movie Death Race 2000 released 15 years before this game. The object of the game is to run down innocent pedestrians in your souped-up automotive grim reaper. Progress through the race courses in 8 U.S. cities, moving from west to east starting with San Diego and Phoenix. Each race consists of capturing a flag and finding the exit door, all while squishing or gunning down as many people on foot as possible while avoiding helicopters and heat seeking missiles that are actively trying to discourage this unique hobby. If the time runs out, a barrage of missiles descends on the player's car to indicate that the race is over.
+
+The player has a certain amount of money to begin with and earns more money for completing the races alive. This money can be used to upgrade the engine, steering, tires, chassis, or weapon systems on the car.</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Death Race-image.jpg</image>
+		<releasedate>19910101T000000</releasedate>
+		<developer>American Game Cartridges</developer>
+		<publisher>American Game Cartridges, Inc.</publisher>
+		<genre>Racing</genre>
+	</game>
+	<game>
+		<path>./Dig Dug II - Trouble in Paradise.nes</path>
+		<name>Dig Dug II: Trouble in Paradise</name>
+		<desc>DIG DUG has decided to chill out from the pressures of the real world by taking a long overdue vacation on a beautiful Caribbean island. "At last," he thinks to himself, "sun, sand, surf, and no more hassles from those miserable pests Pooka and Fygar!" Lying in a hammock between the graceful palm trees, he drifts off into a blissful dream of beautiful bikini clad native girls catering to his every wish. But just when he thinks he's got it made in the shade, along come his troublesome enemies to turn his peaceful paradise into a tropical nightmare. Help DIG DUG rid the island of these irritating intruders and bring tranquility back to his vacation by the sea!</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Dig Dug II - Trouble in Paradise-image.jpg</image>
+		<releasedate>19891215T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Bandai America, Inc.</publisher>
+		<genre>Action, Puzzle</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Donkey Kong 3.nes</path>
+		<name>Donkey Kong 3</name>
+		<desc>Donkey Kong is at it again! This time he's loose in the greenhouse. And he's got company: a swarm of very pesky bees! It's up to you to get Donkey Kong out of the greenhouse and exterminate the bees... without hurting the flowers. But that's easier said than done! Because Donkey Kong has plenty of coconuts to hurl at you, and those bees know just where to sting you so it hurts. But, if you keep your wits about you, you'll score lots of points and have lots of laughs in the best Donkey Kong of them all... DONKEY KONG 3!</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Donkey Kong 3-image.jpg</image>
+		<releasedate>19840704T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Donkey Kong Jr..nes</path>
+		<name>Donkey Kong Jr.</name>
+		<desc>Mario has gone mad! He's turned the tables on Donkey Kong and locked him in a cage. It's up to you, as Donkey Kong Jr., to rescue your father by stealing Mario's set of keys. But it won't be easy. You'll have to fight off ape-eating Snapjaws, jump onto moving islands and break through a jungle of vines to get to the keys that will free Donkey Kong. Can you handle the action? Because this off-the-wall monkey business will have you going bananas!</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Donkey Kong Jr.-image.jpg</image>
+		<releasedate>19830715T000000</releasedate>
+		<developer>Nintendo R&amp;D2</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Double Dragon.nes</path>
+		<name>Double Dragon</name>
+		<desc>Double Dragon is the story of Billy and Jimmy Lee, twin brothers who learned to fight on the cold, tough streets of the city. Their expert knowledge of the martial arts combined with their street smarts, has made them both formidable fighting machines. But now Billy is faced with his greatest challenge. Marian has been kidnapped by the Black Warriors, the savage street gang of the mysterious Shadow Boss! Using whatever weapons come to hand - knives, whips, bats, rocks, oil drums, even dynamite - Billy must pursue the gang through the slums, factories, and wooded outskirts of the city to reach the hideout for his final confrontation with the Shadow Boss... his brother Jimmy!</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Double Dragon-image.jpg</image>
+		<releasedate>19880610T000000</releasedate>
+		<developer>Technos Japan Corp.</developer>
+		<publisher>Tradewest, Inc.</publisher>
+		<genre>Action, Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Dr. Mario.nes</path>
+		<name>Dr. Mario</name>
+		<desc>A puzzle game similar to Tetris, Dr. Mario features Nintendo mascot Mario as a doctor. Gameplay consists of dropping two-sided vitamin capsules into a playing field 8 blocks wide by 16 blocks high resembling a medicine bottle, populated by viruses of three colors</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Dr. Mario-image.jpg</image>
+		<releasedate>19901014T000000</releasedate>
+		<developer>Nintendo R&amp;D1</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Dragon Warrior.nes</path>
+		<name>Dragon Warrior</name>
+		<desc>Dragon Warrior uses console role-playing game mechanics which were described by Kurt Kalata of Gamasutra as archaic in 2008. The player takes the role of a namable Hero. The Hero's name has an effect on his statistical growth over the course of the game. Battles are fought in a turn-based format and experience points and gold are awarded after every battle, allowing the Hero to level-up in ability and allows them to buy better weapons, armor, and items. Progression consists of traveling over an overworld map and through dungeons, fighting monsters encountered via random battles along the journey.
+
+" As a whole, Dragon Warrior has been credited with establishing the basic template for the Japanese console RPGs that followed. " -Wikipedia</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Dragon Warrior-image.jpg</image>
+		<releasedate>19890801T000000</releasedate>
+		<developer>Chunsoft</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure, Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Dragon Warrior II.nes</path>
+		<name>Dragon Warrior II</name>
+		<desc>This game allows the player to control more than one character, and it is the first one in the Dragon Quest series to do so. The player controls his or her characters as they move in the game world. They can search treasure chests, talk and trade with villagers, equip weapons and armor, and cast spells.</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Dragon Warrior II-image.jpg</image>
+		<releasedate>19900901T000000</releasedate>
+		<developer>Chunsoft</developer>
+		<publisher>Enix Corporation</publisher>
+		<genre>Adventure, Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Dragon Warrior III.nes</path>
+		<name>Dragon Warrior III</name>
+		<desc>Dragon Warrior III is noted for greatly expanding upon the original Dragon Warrior and Dragon Warrior II. The game uses basic console role-playing game conventions, such as leveling up by gaining experience points and equipping items. Battle is turn-based like the other games in the series.
+Dragon Warrior III features a class system, in which each character has a certain class. While the Hero always keeps the Hero class, the other characters can choose among the following: Soldier (Warrior in the GBC version), Fighter, Pilgrim (Cleric), Wizard (Mage), Merchant (Dealer), Goof-Off (Jester), Sage, and Thief which was available only in the later versions. The choice of class greatly affects the character's stats and spells he or she can learn. Furthermore, upon reaching experience Level 20, a character has the option of changing classes at the temple of Dhama, found halfway through the game. The game starts with just the Hero in the party, who then is able to recruit a party of three at the local tavern. Unlike most Dragon Quest parties, aside from the Hero, the party is not made up of characters involved in the story. Although only four characters can be in the party at a time, extra members of the party can be kept at the tavern, allowing room for new recruits. Another innovation is an arena where the player can place bets on the outcome of monster battles.
+The remakes incorporated some interface changes from later games in the series, such as simplified door opening; the bag, which replaced bank item storage; the item sorting "Tidy Item" and "Tidy Bag" commands; and the "Full HP" command, which can be used outside of combat to automate the process of casting healing and status restoring spells.
+While the earlier Dragon Quest games were also non-linear, Dragon Quest III was the most substantial example of open-world gameplay among the early Dragon Quest games. It also allowed the player to swap characters in and out of the party at will, and another "major innovation was the introduction of day/night cycles; certain items, characters, and quests are only accessible at certain times of day."</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Dragon Warrior III-image.jpg</image>
+		<releasedate>19920312T000000</releasedate>
+		<developer>Chunsoft</developer>
+		<publisher>Enix Corporation</publisher>
+		<genre>Adventure, Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Dragon Warrior IV.nes</path>
+		<name>Dragon Warrior IV</name>
+		<desc>Dragon Quest IV differs from the rest of the series by breaking up the game into five distinct chapters, each of which focuses on a different protagonist or protagonists. The first four are told from the perspective of the Hero's future companions and the fifth one, from the hero's perspective, brings all the characters together as they begin their journey to save the world.</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Dragon Warrior IV-image.jpg</image>
+		<releasedate>19921012T000000</releasedate>
+		<developer>Chunsoft</developer>
+		<publisher>Enix Corporation</publisher>
+		<genre>Adventure, Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Duck Hunt.nes</path>
+		<name>Super Mario Bros. / Duck Hunt</name>
+		<desc>Double the fun on one Game Pak - use the light gun for Duck Hunt and the controllers for Super Mario Bros. 
+
+Take aim, fire and score! It's DUCK HUNT! Your trusty hunting dog wades into the marshes to flush out your prey. Your fingers tighten around your Zapper light gun. Suddenly, there's a duck in the air! You've only got three shots to bag this duck, and if you miss, even your dog laughs at you! But become a sharp-shooter, and you'll progress to the next round where two ducks fly up at the same time. And then you're on to the ultimate challenge: Clay Shooting. Where you'll compete in a wild clay-pigeon shooting contest! Play DUCK HUNT and discover you can have lots of laughs and be challenged at the same time.
+
+Do you have what it takes to save the Mushroom Princess? You'll have to think fast and move even faster to complete this quest! The Mushroom Princess is being held captive by the evil Koopa tribe of turtles. It's up to you to rescue her from the clutches of the Koopa King before time runs out. But it won't be easy. To get to the princess you'll have to climb mountains, cross seas, avoid bottomless pits, fight of turtle soldiers and a host of black magic traps that only a Koopa King can devise. It's another non-stop adventure from the SUPER MARIO BROS.!</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Duck Hunt-image.png</image>
+		<releasedate>19881126T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure, Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Excitebike.nes</path>
+		<name>Excitebike</name>
+		<desc>Whether the player chooses to race solo or against computer-assisted riders, he/she races against a certain time limit. The goal is to qualify for the Excitebike (the championship) race by coming in at third place or above in the challenge race (preliminary race). The times to beat are located on the stadium walls (for first place) and in the lower left corner (for third place). In any race, the best time is 8 seconds ahead of third place. When the player places first, then they get a message: "It's a new record!" Additional points are earned by beating the previously-set record time.</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Excitebike-image.jpg</image>
+		<releasedate>19841130T000000</releasedate>
+		<developer>Nintendo R&amp;D1</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Racing</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Final Fantasy.nes</path>
+		<name>Final Fantasy</name>
+		<desc>An evil shroud covers the world in darkness. You must restore the powers of earth, wind, fire and water to the Four Orbs. Create your own band of 4 Light Warriors from fighters, thieves, martial artists, and magicians. You'll need all their skills to triumph in this massive role-playing adventure. Your treacherous journey takes you to all parts of a strange new world. Explore dangerous castles and dark caverns where deadly perils and great rewards, await at every turn. Hundreds of ferocious monsters block your path. With patience, skill, and cunning, you can defeat them.</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Final Fantasy-image.jpg</image>
+		<releasedate>19900512T000000</releasedate>
+		<developer>Squaresoft</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Final Fantasy II.nes</path>
+		<name>Final Fantasy II</name>
+		<desc>THE BIRTH OF A GENERATION
+
+A long lived peace...Is at an end. The Emperor of Palamecia has called forth monsters from the Underworld..and has begun his campaign for world conquest. A rebel army arose in the kingdom of Fynn to thwart the Emperor's plans. But the rebel's castle fell to an all-out assault by the Empire. Left with little choice, the rebels withdrew to the remote town of Altair. Four youths from Fynn also found themselves fleeing the Imperial forces. They had lost their parents at the hands of the Empire. But their escape wasn't over...</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Final Fantasy II-image.jpg</image>
+		<releasedate>19881217T000000</releasedate>
+		<developer>Squaresoft</developer>
+		<publisher>Squaresoft</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Final Fantasy III.nes</path>
+		<name>Final Fantasy III</name>
+		<desc>The Gulgan thus prophesied: "The earthquake was only the beginning. The great tremors that swallowed the crystals, the light of our world, only to spawn monsters from the depths of the scarred land, are nothing but harbingers of what has yet to come. Something is coming...fathomless, ominous, and full of sorrow... But hope is not yet lost. Four souls will be blessed with light, and so it shall begin...</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Final Fantasy III-image.jpg</image>
+		<releasedate>19900427T000000</releasedate>
+		<developer>Squaresoft</developer>
+		<publisher>Squaresoft</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Fist of the North Star.nes</path>
+		<name>Hokuto no Ken</name>
+		<desc>This game is based on the Manga and Anime series "Hokuto no Ken" and was released only in Japan for the Nintendo Famicom.</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Fist of the North Star-image.jpg</image>
+		<releasedate>19860810T000000</releasedate>
+		<developer>Shouei System</developer>
+		<publisher>Toei Animation</publisher>
+		<genre>Fighting</genre>
+	</game>
+	<game>
+		<path>./Friday the 13th.nes</path>
+		<name>Friday the 13th</name>
+		<desc>It all takes place out at Crystal Lake. That pleasant little camp where happy children of all ages go to spend a fun-filled summer... but this summer will be different. The fun will have to wait. Jason has decided to come to camp and terror is the only game they'll be playing. Only you can stop this terror. You and your six camp counselors can prevent Jason from running wild. It's not an easy task. You must first fight your way through forests filled with man-eating wolves, caves covered with blood-sucking bats, and hordes of mindless zombies at every turn. If a friend is in danger it's up to you to help... or else you can just kiss them goodbye. Jason doesn't play favorites. He'll take anyone. Don't think that hiding in a cabin or staying adrift in a canoe will keep you safe. The only way to survive this summer is to challenge Jason, face to face, and destroy him. Don't worry that it hasn't been done before... there is always a first time (well, not always).</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Friday the 13th-image.jpg</image>
+		<releasedate>19890210T000000</releasedate>
+		<developer>Pack-In-Video Co., Ltd</developer>
+		<publisher>LJN</publisher>
+		<genre>Action, Adventure</genre>
+	</game>
+	<game>
+		<path>./Galaga.nes</path>
+		<name>Galaga: Demons of Death</name>
+		<desc>The objective of Galaga is to score as many points as possible by destroying insect-like enemies. The player controls a starfighter that can move left and right along the bottom of the playfield. Enemies swarm in groups in a formation near the top of the screen, and then begin flying down toward the player, firing bombs at the fighter. The game ends when the player's last fighter is lost, either by colliding with an enemy or one of its bullets, or by being captured.
+Galaga introduces a number of new features over its predecessor, Galaxian. Among these is the ability to fire more than one bullet at a time, a count of the player's "hit/miss ratio" at the end of the game, and a bonus "Challenging Stage" that occurs every few levels, in which a series of enemies fly onto and out of the screen in set patterns without firing at the player's ship or trying to crash into it. These stages award a large point bonus if the player manages to destroy every enemy.
+Another gameplay feature new to Galaga is the ability for enemies to capture the player's fighter. While the player is in control of just one fighter, a "boss Galaga" (which takes two shots to kill) periodically attempts to capture the fighter using a tractor beam. If successful, the fighter joins the enemy formation. If the player has more lives remaining, play resumes with a new fighter. The captured fighter flies down with the enemy that captured it, firing upon the player just like normal enemies, and can be shot and destroyed. The player can free the fighter by destroying the boss Galaga while in flight, causing the captured fighter to link up with the player's current fighter, doubling his or her firepower but also making a target twice as large.
+Galaga has an exploitable bug that can cause the attackers to stop firing bullets at the player, due to a coding error. In addition, similar to the famous "Split-Screen bug" in Pac-Man, a bug exists in Galaga in which the game "rolls over" from Level 255 to Level 0. Depending on the difficulty setting of the machine, this can cause the game to stall, requiring that the machine be reset or power-cycled in order to start a new game.</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Galaga-image.jpg</image>
+		<releasedate>19880916T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Bandai America, Inc.</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Gauntlet II.nes</path>
+		<name>Gauntlet II</name>
+		<desc>The gameplay is very similar to the original Gauntlet, a topdown dungeon crawl supporting up to four players. The biggest difference from the original game is that players can choose identical classes, instead of being limited to a particular one for each joystick; the players being differentiated by colors. Thus, instead of having a "warrior", "wizard", and "valkyrie" (for instance), in Gauntlet II there could be a "red wizard", a "blue elf" and a "green warrior".</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Gauntlet II-image.jpg</image>
+		<releasedate>19900901T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Mindscape, Inc.</publisher>
+		<genre>Action, Adventure</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./Ghosts'n Goblins.nes</path>
+		<name>Ghosts 'n Goblins</name>
+		<desc>The beautiful princess is kidnapped. Her lover, the Knight in shining armor, armed with five different weapons to fight the enemy, sets out to rescue the beautiful princess. The Knight, aided by your skill, must pass through seven different guarded gates, fighting and destroying demons, dragons, giants and zombies. There are hidden characters, too! Some friends, some foes. Ghosts 'N Goblins is exciting... challenging you and the Knight to rescue the princess, amid great danger, escaping Hades, land of the enemies!</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Ghosts'n Goblins-image.jpg</image>
+		<releasedate>19861101T000000</releasedate>
+		<developer>Micronics</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action, Platform</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Gun Smoke.nes</path>
+		<name>Gun.Smoke</name>
+		<desc>Gun.Smoke is very similar to Commando, another Capcom game, but with several differences. Whereas Commando is a run and gun game, this game is a scrolling shooter in which the screen scrolls upward automatically and players only have three ways to shoot, using three buttons for left, right, and center shooting. However, a player can also change the way the gunman shoots through button combinations. A player can still die by getting shot or struck by enemies like in Commando but improve protection by getting special items, including a horse, for protection up to three hits; boots, for speed of movement; bullets, for faster shots; and rifles, for shot length. These items are found by shooting barrels and rifles, boots, and bullets can stock up to five.</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Gun Smoke-image.jpg</image>
+		<releasedate>19881201T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./Ice Climber.nes</path>
+		<name>Ice Climber</name>
+		<desc>The first player controls Popo, a boy wearing a blue Eskimo parka, while the second player controls Nana, a girl wearing a pink Eskimo parka. The only tool they carry is a wooden mallet to carve openings in the ice above and to club enemies. Each mountain level consists of eight layers of colorful ice and a bonus stage. Standard, dull ice blocks pose no threat other than an easily disposed of barrier and platform. Square ice blocks with higher detail are indestructible forcing the player to take another path</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Ice Climber-image.jpg</image>
+		<releasedate>19850130T000000</releasedate>
+		<developer>Nintendo R&amp;D1</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Joust.nes</path>
+		<name>Joust</name>
+		<desc>Joust is a platforming game where the player controls a yellow knight riding a flying ostrich from a third-person perspective. The player navigates the protagonist around the game world, which consists of rock platforms floating above a flat island surrounded by lava.</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Joust-image.jpg</image>
+		<releasedate>19871030T000000</releasedate>
+		<developer>Williams</developer>
+		<publisher>HAL America Inc.</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Kid Icarus.nes</path>
+		<name>Kid Icarus</name>
+		<desc>Far away in a kingdom called "Angel Land," the evil goddess Medusa has stolen the Three Sacred Treasures and imprisoned the goddess of light, Palutena. As Kid Icarus, your mission is to find the treasures, destroy Medusa and rescue Palutena from the depths of the Palace in the Sky. To find the treasures you'll travel through ruins collecting weapons and storing power for use in combat against creatures of Medusa's army. Use your bow and arrow to ward off gatekeepers of the Underworld, Overworld and Skyworld as you strive towards your battle against Medusa. Will you survive to restore Palutena's light and return it to "Angel Land?" Only you know!</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Kid Icarus-image.jpg</image>
+		<releasedate>19861219T000000</releasedate>
+		<developer>Nintendo R&amp;D1, TOSE</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action, Platform</genre>
+	</game>
+	<game>
+		<path>./Kirby's Adventure.nes</path>
+		<name>Kirby's Adventure</name>
+		<desc>What would Dream Land be without dreams? A nightmare! The Dream Spring, source of all dreams, has dried up, taking with it all the blissful dreams of Dream Land. It's up to Kirby, the bombastic blimp, To return happy naps to the inhabitants of Dream Land! Kirby's appetite for adventure is as big as ever as he eats his way through a feast of all-new enemies! In this adventure, he can also steal the abilities of the bad guys he scarfs down! With this new power, Kirby can perform 20 new tricks that will help him make his way through the nightmare infested Dream Land! Kirby's Adventure features brand new worlds to explore with the same fun action-packed feel that made Kirby's Dream Land for Gameboy a hit!</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Kirby's Adventure-image.jpg</image>
+		<releasedate>19930525T000000</releasedate>
+		<developer>HAL Laboratory</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Legend of Zelda.nes</path>
+		<name>The Legend of Zelda [Gold Cart]</name>
+		<desc>Welcome to the Legend of Zelda. Where the only sound you’ll hear is your own heart pounding as you race through forests, lakes, mountains and dungeonous mazes in an attempt to restore peace to the land of Hyrule. Along the way you’ll be challenged by Tektites, Wizzrobes and an endless array of ruthless creatures who’ll stop at nothing to prevent you from finding the lost fragments of the Triforce of Wisdom. But don’t despair. With a little luck and a lot of courage, you’ll conquer your adversaries, unite the Triforce fragments and unravel the mystery of the Legend of Zelda! • Explore the vast Overworld terrain of the land of Hyrule and discover hidden treasures. • Explore the mystical labyrinths of the Underworld and ward-off ruthless enemies.
+
+Trailer: YouTube
+
+ESRB Rating: E - Everyone
+
+Genre(s): Action | Adventure |
+</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Legend of Zelda-image.jpg</image>
+		<releasedate>19870822T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action, Adventure</genre>
+	</game>
+	<game>
+		<path>./Legend of Zelda II.nes</path>
+		<name>Zelda II The Adventure of Link [Gold Cart]</name>
+		<desc>The land of Hyrule is in chaos. As Link, you’ll be sent on a treacherous journey to return six precious Crystals to their origins in six stone statues. Only by defeating the guardians of the six palaces will you gain passage to the seventh palace, take on the ultimate challenge that awaits you, and wake the Princess Zelda from her sleeping spell. On your way, helpful villagers you encounter will offer clues and secret messages invaluable in your quest. As you guide Link through the levels of Hyrule, close-ups and overviews will enhance your video vision. Are you up to the challenge?
+
+ESRB Rating: E - Everyone
+
+Genre(s): Action | Adventure | Role-Playing |
+</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Legend of Zelda II-image.jpg</image>
+		<releasedate>19880926T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action, Adventure, Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Mega Man 2.nes</path>
+		<name>Rockman 2</name>
+		<desc>Mega Man 2, known as Rockman 2: Dr. Wily no Nazo (ロックマン2 Dr.ワイリーの謎 Rokkuman 2: Dr. Wairī no Nazo, lit. Rockman 2: The Mystery of Dr. Wily[1] or The Secret of Dr. Wily[2]) in Japan, is the second game of the Mega Man series. The game was released in Japan on December 24, 1988, and in North America and PAL regions the following years.</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Mega Man 2-image.jpg</image>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action, Platform</genre>
+	</game>
+	<game>
+		<path>./Mega Man 3.nes</path>
+		<name>Mega Man 3</name>
+		<desc>It's robot rebellion, and nobody's safe! Least of all, Mega Man! This time the superpowerful cyborg takes on a horde of metal maniacs who've had it with being obedient! And they use every android-annihilator ever invented to make you believe it! Mega Man goes berserk, blasting through a galaxy of mining stations in search of energy crystals. But it takes more than guts to battle the phenomenal robot masters who control these worlds. It's a wrenching job, the worst - and the best - that Mega Man's faced so far!</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Mega Man 3-image.jpg</image>
+		<releasedate>19901122T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action, Platform</genre>
+	</game>
+	<game>
+		<path>./Mega Man 4.nes</path>
+		<name>Mega Man 4</name>
+		<desc>For a year the city has been quiet, but a new robotic terror has gripped the city! That scheming scientist, Dr. Cossack has arrived in town with eight new metal maniacs who are bigger and badder than anything Dr. Wily dreamed of. It's going to be a cybernetic showdown as the streets of the city erupt with the sizzling sounds of molten metal! Armed with the new Mega Buster, Mega Man runs, jumps and dodges his way through mazes of metallic munchkins on his way to the Siberian citadel of Dr. Cossack for the final cataclysmic clash!</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Mega Man 4-image.jpg</image>
+		<releasedate>19911206T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action, Platform</genre>
+	</game>
+	<game>
+		<path>./Metal Gear.nes</path>
+		<name>Metal Gear</name>
+		<desc>Outer Heaven leader CaTaffy has activated the ultimate super weapon: Metal Gear! Responding to the crisis, covert unit "Fox Hound" is called into action, and that's where you come into play. Trained in hand-to-hand combat and skilled in every weapon known to man, you're Fox Hound's lethal fighting machine, code named "Solid Snake". But on this mission you better be sly as well, to surprise heavily-armed enemies, busting 'em up quietly and rescuing their hostages before alarms are triggered. Plus you gotta maintain radio contact with Commander South, who'll feed you crucial info on Metal Gear's whereabouts. To survive, capture sub-machine guns, Barettas, grenade launchers, and plastic explosives, until you find and destroy Metal Gear, ending CaTaffy's reign of terror!</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Metal Gear-image.jpg</image>
+		<releasedate>19880628T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Ultra Games</publisher>
+		<genre>Action, Adventure, Stealth</genre>
+	</game>
+	<game>
+		<path>./Metroid.nes</path>
+		<name>Metroid</name>
+		<desc>It's you against the evil Mother Brain in the thrilling battle of Metroid!
+
+You’re inside the fortress planet Zebes.  The planet of endless secret passageways where the Metroid are multiplying.  Left alone the Metroid are harmless.  But in the wrong hands they could destroy the galaxy.  It’s up to you to prevent the Mother Brain that controls Zebes from using the Metroid for evil purposes.  But that won’t be easy.  You’ll have to use your spacesuit to absorb valuable energy for your search to gain the use of power items like the Ice Beam, Wave Beam, High Jump Boots and Varia.  If you survive, it will be you and your acquired powers against the Mother Brain.
+
+Worth Noting: 
+Metroid introduced nonlinear, side-scroller, maze-like, gameplay, in a platform, shooter. Metroid required players to discover permanent power-ups to progress further along; while backtracking through previously visited areas. The style is affectionately known as Metroid-vania' (Castlevania: Symphony of the Night being the second half to the term, mirrored the concept).
+
+Metroid also used a password system to resume progression of the game (Before the addition of battery backups and save files in console cartridges). Additionally the password system could be used for cheat codes: 'JUSTIN BAILEY ------ ------' (Just in Ballet) being famous, would remove Samus' power suit and start the player with many of the power-ups and fairly progressed through the game.
+
+Completing the game in time and with enough power-ups revealed different endings. At the end Samus removes the helmet or power suit (depending) to a reveal a shocking suprise that endeared the character and broke new ground in gaming.</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Metroid-image.jpg</image>
+		<releasedate>19860806T000000</releasedate>
+		<developer>Nintendo R&amp;D1</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action, Adventure, Platform</genre>
+	</game>
+	<game>
+		<path>./Mike Tyson's Punch-Out!!.nes</path>
+		<name>Mike Tyson's Punch-Out!!</name>
+		<desc>It's a right jab, a left hook, an uppercut - it's Mike Tyson's Punch-Out!! where you'll get the chance to compete against boxers from around the globe. Punch your way through 13 bouts in the minor, major and world circuits against tough contestants like Piston Honda, Glass Joe, Super Macho Man and many, many more! Defeat all your opponents and meet the ultimate challenge against the World Heavyweight Champion Mike Tyson in the greatest fight of all - The Dream Bout! Knockout Tyson and you can become WVBA (World Video Boxing Association) Champ!</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Mike Tyson's Punch-Out!!-image.jpg</image>
+		<releasedate>19871018T000000</releasedate>
+		<developer>Nintendo R&amp;D3</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Fighting, Sports</genre>
+	</game>
+	<game>
+		<path>./Millipede.nes</path>
+		<name>Millipede</name>
+		<desc>The gameplay of Millipede is similar to Centipede but differs mostly in enemies:
+
+Earwig: same as the scorpion in Centipede, making mushrooms poisonous so that the millipede will charge straight to the bottom of the screen after touching them.
+Bee: same as the flea in Centipede, dropping mushrooms in a vertical line and requiring two shots to kill.
+Spider: same behavior as in Centipede, bouncing irregularly across the lower portion of the screen. Multiple spiders can appear at the same time on higher levels.
+Inchworm: when hit, slows all enemies for a short period of time.
+Beetle: crawls around the player area for a while, then climbs up and leaves the screen, turning any mushrooms it touches into indestructible flowers. When hit, everything on the screen scrolls down one row.
+Dragonfly: drops mushrooms while zigzagging down, and can be destroyed with a single shot.
+Mosquito: bounces off the sides of the screen as it descends. When hit, everything on the screen scrolls up one row.
+DDT bomb (stationary): can be blown up with one shot, destroying all enemies and mushrooms within the blast radius. Whenever the mushrooms scroll down, a new bomb is added at the top of the screen. Up to four bombs can be in play at one time.
+All flowers and poisoned/partially destroyed mushrooms revert to normal, whole mushrooms when the player loses a life.</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Millipede-image.jpg</image>
+		<releasedate>19881001T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>HAL America Inc.</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Pac-Man.nes</path>
+		<name>Pac-Man (Namco)</name>
+		<desc>Gobble, gobble, gulp! Who's munching Power Pellets? Who's zipping around the maze at top speed, chomping up ghosts and scoring big points? It's Pac-Man, the world's hungriest character! Devour a fruit treat and get a big bonus score. But if you're caught by the little haunters, you're ghostflakes! Use the warp tunnel for a quick escape. Now play this classic arcade mega-hit alone or with a friend for double the fun! Hours of ghost-chomping action!</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Pac-Man-image.jpg</image>
+		<releasedate>19931110T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Pin Bot.nes</path>
+		<name>Pin-Bot</name>
+		<desc>Pin Bot is a conversion of the arcade pinball game by Williams Electronics. The game is played with a split screen; the bottom half of the screen remains on your flippers, while the top half scrolls to follow the ball(s) on the table. In addition to recreating the pinball game's table, lights, and sounds several video game elements have been added, such as monsters that like to eat pinballs. Up to four players can compete against Pin Bot!</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Pin Bot-image.jpg</image>
+		<releasedate>19900401T000000</releasedate>
+		<developer>Rare, Ltd.</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle</genre>
+	</game>
+	<game>
+		<path>./Q-bert.nes</path>
+		<name>Q*bert</name>
+		<desc>Q*bert is an isometric platform game with puzzle elements where the player controls the titular protagonist from a third-person perspective. Q*bert starts each game at the top of a pyramid of cubes, and moves by jumping diagonally from cube to cube. Landing on a cube causes it to change color, and changing every cube to the target color allows the player to progress to the next stage.</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Q-bert-image.jpg</image>
+		<releasedate>19890201T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Ultra Games</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Rampage.nes</path>
+		<name>Rampage</name>
+		<desc>The game where the nice guys don't get a look in. Grab your way through Chicago, punch up New York, and jump on San Francisco. Three indescribably nasty characters which bear a remarkable likeness to King Kong, Godzilla and Wolf-Man, need you to send them on a RAMPAGE in an enduring 150 days of destruction through 50 different cities!</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Rampage-image.jpg</image>
+		<releasedate>19881201T000000</releasedate>
+		<developer>Data East Corporation</developer>
+		<publisher>Data East Corporation</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Super Mario Bros..nes</path>
+		<name>Super Mario Bros.</name>
+		<desc>Do you have what it takes to save the Mushroom Princess?  You’ll have to think fast and move even faster to complete this quest!  The Mushroom Princess is being held captive by the evil Koopa tribe of turtles.  It’s up to you to rescue her from the clutches of the Koopa King before time runs out.  But it won’t be easy.  To get to the Princess, you’ll have to climb mountains, cross seas, avoid bottomless pits, fight off turtle soldiers and a host of black magic traps that only a Koopa King can devise.  It’s another non-stop adventure from the Super Mario Bros.!</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Super Mario Bros.-image.jpg</image>
+		<releasedate>19850913T000000</releasedate>
+		<developer>Nintendo R&amp;D4</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action, Platform</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Super Mario Bros. 3.nes</path>
+		<name>Super Mario Bros. 3</name>
+		<desc>Fight monsters and mini-bosses, avoid ghosts and the burning sun.  Make your way through water and quicksand.  Dodge cannonballs and bullets and rescue the King’s wand!
+
+In Super Mario Bros. 3 there are more warps, more chances at extra lives, and new special suits!  The raccoon suit lets you fly and knock out blocks.  The frog suit helps you out-swim the deadly fish.  There are suits for every occasion!
+
+Store up flowers and mushrooms to use later on.  Play game-show type bonus rounds!  Go back to that last screen and get a mushroom!  Pause to take a break, then continue where you left off!
+
+Super Mario Bros. 3 is fun to play alone, or team up with a buddy to prolong the adventure!
+
+Note: Turn based Co-op as players work in turn to clear individual levels in a world. There is also a vs. mini-game where players try to steal items from each other.</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Super Mario Bros. 3-image.jpg</image>
+		<releasedate>19900212T000000</releasedate>
+		<developer>Nintendo R&amp;D4</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Super Pitfall.nes</path>
+		<name>Super Pitfall</name>
+		<desc>Pitfall Harry returns to adventuring in this "Super" sequel to Pitfall! and Pitfall II: Lost Caverns. Harry’s mission: to recover the famed Raj Diamond, and also to rescue his niece Rhonda and loyal lion sidekick, Quickclaw.
+
+Now armed with a gun, Harry must navigate some 270 screens of 8-bit action-platforming. Valuable items will be collected along the way to aid your quest, but beware: dangers also abound, from snakes and spiders to falling rocks and boiling lava!</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Super Pitfall-image.jpg</image>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Micronics</developer>
+		<publisher>Activision</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Tetris.nes</path>
+		<name>Tetris</name>
+		<desc>A random sequence of tetrominoes (sometimes called "tetrads" in older versions)—shapes composed of four square blocks each—fall down the playing field (a rectangular vertical shaft, called the "well" or "matrix"). The objective of the game is to manipulate these tetrominoes, by moving each one sideways and rotating it by 90 degree units, with the aim of creating a horizontal line of blocks without gaps. When such a line is created, it disappears, and any block above the deleted line will fall. With every ten lines that are cleared, the game enters a new level. As the game progresses, each level causes the tetrominoes to fall faster, and the game ends when the stack of tetrominoes reaches the top of the playing field and no new tetrominoes are able to enter. In certain versions, the game can also end if the player is able to get all the way to level 15.
+
+All of the tetrominoes are capable of single and double clears. I, J, and L are able to clear triples. Only the I tetromino has the capacity to clear four lines simultaneously, and this is referred to as a "tetris". (This may vary depending on the rotation and compensation rules of each specific Tetris implementation. For instance, in the Super Rotation System used in most recent implementations, called "Easy Spin" in Tetris Worlds, certain rare situations allow T, S and Z to 'snap' into tight spots and clear triples.)</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Tetris-image.jpg</image>
+		<releasedate>19891101T000000</releasedate>
+		<developer>Nintendo R&amp;D1</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle</genre>
+	</game>
+	<game>
+		<path>./Tetris 2.nes</path>
+		<name>Tetris 2</name>
+		<desc>The mesmerizing fun of Tetris returns - and the challenge escalates to new heights! Test your dexterity, tease your brain and rack up points with Tetris 2. Your split-second decisions lead you to a new dimension in puzzle solving action! Play alone or challenge a friend in simultaneous, split-screen action. Line-up three blocks of the same color and vroosh! - they explode! Get rid of special Flash Blocks and wipe out matching color pieces in one move. A tougher Tetris with more shapes, more components, 30 levels - and unlimited solutions. If you loved the international game sensation Tetris, you'll be wild for the newest dimension in puzzle fun: Tetris 2!</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Tetris 2-image.jpg</image>
+		<releasedate>19931019T000000</releasedate>
+		<developer>Tose</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Yoshi.nes</path>
+		<name>Yoshi</name>
+		<desc>An airborne puzzle invasion! It's raining Goombas, Bloobers and Boo Buddies! You have to help Mario cope with the airborne invasion! As the critters fall, catch them on trays. Switch and shuffle to save the day! Stack two of a kind and they both disappear. Or, capture the whole bunch in-between egg shells. When the egg shells match, out hatches Yoshi and up goes your score! The action heats up as the characters fall faster and faster. If your piles get too high, the game is over. Choose your difficulty level and play for a high score or challenge a friend in a head-to-head hatch-off! If you like Dr. Mario, but you're ready for a whole new kind of challenge, you'll love this quick-shuffle action puzzle game!</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Yoshi-image.jpg</image>
+		<releasedate>19920601T000000</releasedate>
+		<developer>Game Freak</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Gauntlet.nes</path>
+		<name>Hyrule Warriors</name>
+		<desc>Hyrule Warriors is a ROM hack of the NES game, Gauntlet; based on Zelda/Dynasty Warriors Crossover of the same name released for the Wii U in 2014.
+
+Ganondorf, the evil Prince of Darkness, has stolen the Triforce of Power, and has ordered his army of demons and goblins to defend the vault that he is keeping it in. The army is growing by the minute, and this time, it’s not only up to Link alone. He is joined in the fight by Princess Zelda, Links’s bodyguard Impa, and the energetic sorceress Lana. Can Link and his crew retrieve the Triforce back from Ganondorf, or will all of Hyrule fall into eternal darkness?
+
+This ROM hack was released by Pacnsacdave.</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Gauntlet-image.jpg</image>
+		<releasedate>20170820T000000</releasedate>
+		<developer>Tengen</developer>
+		<publisher>Tengen</publisher>
+		<genre>Adventure, Unofficial</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20210219T223413</lastplayed>
+	</game>
+	<game>
+		<path>./Battletoads.nes</path>
+		<name>Battletoads</name>
+		<desc>After her defeat by the Galactic Corporation at the battle of Canis Major, the evil Dark Queen and her renegade space troops retreat to the outer reaches of the universe, hiding out in dark spaces between the stars. Meanwhile, on board the spaceship Vulture, Professor T. Bird and the trio of Battletoads - Rash, Zitz and Pimple - are escorting the Princess Angelica back to her home planet, where her father, the Terran Emperor, awaits her safe arrival. Along the way, Pimple, the biggest Battletoad, takes Angelica out for a cruise in the Toadster to a nearby Leisure Station, but the Dark Queen ambushes them before they can get there, and they are kidnapped and carried away to Ragnarok's World, the Dark Queen's planet. Professor Bird sends remaining Battletoads down on Ragnarok to save Pimple and Angelica, but it will be a hard battle against planet's dangerous environments, traps and Dark Queen's troops. They have to go a long way from the planet's rough surface to deep caves and landed Gargantua and ultimately to the Tower of Shadows, where the Dark Queen awaits.</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Battletoads-image.jpg</image>
+		<releasedate>19910601T000000</releasedate>
+		<developer>Rare, Ltd.</developer>
+		<publisher>Tradewest, Inc.</publisher>
+		<genre>Fighting, Platform</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20210220T164420</lastplayed>
+	</game>
+	<game>
+		<path>./Earth Bound Zero.nes</path>
+		<name>Earthbound Zero</name>
+		<desc>From Shigesato Itoi comes an authentic RPG with a modern-style stage!
+
+Mother's Day, the rural American town this boy lives in. It was peaceful here - until yesterday. Zombies back from the grave and crazed animals have been attacking the town residents - almost as though being controlled by someone... or something. At this rate, the town is doomed! What will happen to the Earth? And what about those dear to you...?
+
+The boy makes a resolution and leaves his home. And his adventure continues as he finds friends who will fight alongside him. The keyword is courage and friendship, not to mention love...</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Earth Bound Zero-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19890727T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role-Playing</genre>
+		<playcount>1</playcount>
+		<lastplayed>20210304T150620</lastplayed>
+	</game>
+	<game>
+		<path>./Mother.nes</path>
+		<name>Mother</name>
+		<desc>From Shigesato Itoi comes an authentic RPG with a modern-style stage!
+
+Mother's Day, the rural American town this boy lives in. It was peaceful here - until yesterday. Zombies back from the grave and crazed animals have been attacking the town residents - almost as though being controlled by someone... or something. At this rate, the town is doomed! What will happen to the Earth? And what about those dear to you...?
+
+The boy makes a resolution and leaves his home. And his adventure continues as he finds friends who will fight alongside him. The keyword is courage and friendship, not to mention love...</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Mother-image.jpg</image>
+		<releasedate>19890727T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role-Playing</genre>
+		<favorite>true</favorite>
+		<playcount>4</playcount>
+		<lastplayed>20210309T152550</lastplayed>
+	</game>
+	<game>
+		<path>./Castlevania.nes</path>
+		<name>Castlevania</name>
+		<desc>If you think it's scary on the outside, wait'll you see the basement! You're in for the longest night of your life. Ghosts, goblins, demons, wolves, bats - creatures lurking around every corner. As you descend deeper and deeper, they get thicker and thicker. Better stick close to the cavern floor - it's your only chance of finding a weapon or two. You're gonna need 'em. Because when you finally meet the Count, you know he'll be going for the jugular. So keep your courage up and your stake sharp. And say your prayers!</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Castlevania-image.jpg</image>
+		<releasedate>19870501T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action, Platform</genre>
+		<playcount>1</playcount>
+		<lastplayed>20210402T034046</lastplayed>
+	</game>
+	<game>
+		<path>./Mega Man.nes</path>
+		<name>Mega Man</name>
+		<desc>It's MEGA MAN versus the powerful leaders and fighting forces of Monsteropolis - that strange multi-layered land of robot-like humanoids created by the wrongly-performed experiments with human beings by Dr. Wily. Mega Man - the chosen defender of the human race. For he dares to single-handedly penetrate Monsteropolis' seven separate societies to stop the rapid expansion of strange misrepresentations of humans.
+
+Mega Man's goal is monumental. He must infiltrate seven separate heavily-guarded empires. By himself, he must break down and destroy the following empire leaders: Cutman, Gutsman, Iceman, Bombman, Fireman, Elecman, and Dr. Wily. The action involves Mega Man armed only with laser beam weapons, encountering strangely-configured humanoids. They're atop, in and out of fortified prison-like structures strengthened with thick walls. Hidden amid gun turrets embedded in concrete uprights, even in subterranean passages below icefields. WOW!</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Mega Man-image.jpg</image>
+		<releasedate>19871217T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action, Platform</genre>
+		<playcount>5</playcount>
+		<lastplayed>20210412T184826</lastplayed>
+	</game>
+	<game>
+		<path>./Mega Man 5.nes</path>
+		<name>Mega Man 5</name>
+		<desc>Protoman has gone berserk! Destroying half the city was not enough. Now, he has snatched Dr. Light and is holding him and the entire city hostage. Speeding to the rescue is Mega Man and his modified Mega Buster, but eight of Protoman's cybernetic soldiers plan to send Mega Man to the scrap heap for good! Feel the weight of the world on your shoulders as you battle Gravity Man! Chip away at the rock-like defenses of Stone Man and bring him crumbling down! Hit the surf and sail up against the tidal power of Wave Man! Help Mega Man defeat all eight of Protoman's robots and then get ready for the fight that pits brother against brother in the battle of the century!</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Mega Man 5-image.jpg</image>
+		<releasedate>19921215T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action, Platform</genre>
+		<playcount>1</playcount>
+		<lastplayed>20210417T025137</lastplayed>
+	</game>
+	<game>
+		<path>./Mega Man 6.nes</path>
+		<name>Mega Man 6</name>
+		<desc>From the United States, Canada and Japan they came. The world's premier designers and their finest robotic warriors traveled to do battle in the First Annual Robot Tournament. But what began as a game suddenly took a terrifying twist! On the eve of the Grand Championship, the sponsor of the event announced that the entire tournament was just an elaborate scheme to get his hands on the world's most powerful robots! Now faced with an army of metallic mercenaries, Mega Man must fight a ferocious new foe - The Mysterious Mr. X!</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Mega Man 6-image.jpg</image>
+		<releasedate>19931105T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action, Platform</genre>
+		<playcount>1</playcount>
+		<lastplayed>20210417T025322</lastplayed>
+	</game>
+	<game>
+		<path>./Donkey Kong.nes</path>
+		<name>Donkey Kong</name>
+		<desc>Can you save Mario's girl from the clutches of Donkey Kong? Donkey Kong has kidnapped Mario's girlfriend Pauline and taken her to the top of a construction site. It's up to you to help Mario save Pauline before time runs out. But it won't be easy. Donkey Kong will do everything in his power to stop you. He'll throw barrel bombs, flaming fireballs and anything else he can get his hands on. So if you're looking for action, don't monkey around. Get the original Donkey Kong from the Nintendo Arcade Classics Series!</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Donkey Kong-image.jpg</image>
+		<releasedate>19860601T000000</releasedate>
+		<developer>Ikegami Tsushinki, Nintendo R&amp;D1</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20210422T121438</lastplayed>
+	</game>
+	<game>
+		<path>./Super Mario Bros. 2.nes</path>
+		<name>Super Mario Bros. 2</name>
+		<desc>Mario’s back!  Bigger and badder than ever before!  This time it’s a fierce action-packed battle to free the land of Subcon from the curse of the evil Wart.  It’s up to you, along with Mario, Luigi, Toad and the Princess, to fight your way through bizarre multi-level worlds and find him!  This time you’ve got a brand new kind of power - plucking power - and now anything you find can be a weapon.  But beware!  You’ve never seen creatures like these!  Shyguys and Tweeters!  Ninji and Beezos!  And you’ve never had an adventure like this!  Only cunning and speed can save you now…</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Super Mario Bros. 2-image.png</image>
+		<releasedate>19881009T000000</releasedate>
+		<developer>Nintendo R&amp;D4</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<playcount>1</playcount>
+		<lastplayed>20210423T131321</lastplayed>
+	</game>
+</gameList>

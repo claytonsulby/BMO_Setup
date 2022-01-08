@@ -1,0 +1,715 @@
+{
+  "version": "1.4",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 2,
+  "items": [
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Wario Land 4.gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Metroid - Fusion.gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Disney's Lilo & Stitch.gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Metroid - Zero Mission.gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Donkey Kong - King of Swing.gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Crash Bandicoot 2 - N-Tranced.gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Mario Golf Advance Tour.gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/GBACRAFT (3DSage) [v1-0].gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Kirby Nightmare in Dream Land.gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Super Mario Advance.gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Pokemon - Sapphire Version.gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Super Mario Advance 4 - Super Mario Bros. 3.gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Castlevania - Aria of Sorrow.gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/WarioWare, Inc..gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Super Mario Advance 3 - Yoshi's Island.gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Super Mario Advance 2 - Super Mario World.gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Pokemon - Chaos Black Version.gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Advance Wars.gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Kirby - Nightmare in Dreamland.gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Mega Man Battle Network 6 - Cybeast Gregar.gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Tim Burton's The Nightmare Before Christmas - The Pumpkin King.gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Golden Sun.gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Pokemon - Emerald Version.gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Fire Emblem - The Binding Blade.gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Fire Emblem.gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Final Fantasy I & II - Dawn of Souls.gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Fairly OddParents! - Breakin' da Rules.gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Ed, Edd n Eddy - The Mis-Edventures.gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Ed, Edd n Eddy - Jawbreakers!.gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Crash of the Titans.gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Crash Nitro Kart.gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Crash Bandicoot Purple - Ripto's Rampage.gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Crash Bandicoot - The Huge Adventure.gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Yoshi Topsy-Turvy.gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Castlevania - Circle of the Moon.gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Foster's Home for Imaginary Friends.gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Pocket Dogs.gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Nicktoons Racing.gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Mega Man Battle Chip Challenge.gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Mega Man & Bass.gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Teen Titans.gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Rocket Power - Beach Bandits.gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Rayman - Raving Rabbids.gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Rayman - Hoodlum's Revenge.gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Harvest Moon - Friends of Mineral Town.gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Rayman Advance.gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Final Fantasy V Advance.gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Lara Croft Tomb Raider - The Prophecy.gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Rayman - 10th Anniversary.gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Ms. Pac-Man - Maze Madness.gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Lara Croft Tomb Raider - Legend.gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Cubix - Robots for Everyone - Clash 'N Bash.gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Bubble Bobble - Old & New.gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Cartoon Network Block Party.gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Bomberman Tournament.gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Bomberman Max 2 - Blue Advance.gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Summon Night - Swordcraft Story 2.gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Mario vs. Donkey Kong.gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Mario & Luigi - Superstar Saga.gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Sword of Mana.gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Banjo-Pilot.gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Jazz Jackrabbit.gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Danny Phantom - The Ultimate Enemy.gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Wild Thornberrys Movie, The.gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Super Street Fighter II Turbo - Revival.gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Gauntlet - Dark Legacy.gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Frogger's Adventures - Temple of the Frog.gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Sims 2, The.gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Ozzy & Drix.gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Oddworld - Munch's Oddysee.gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Mr. Driller 2.gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Monster Rancher Advance.gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Metal Slug Advance.gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Mario Kart - Super Circuit.gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Earthworm Jim.gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Donkey Kong Country.gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Advance Wars (USA) (Rev 1).gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Gauntlet - Dark Legacy (USA).gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Codename - Kids Next Door - Operation S.O.D.A. (USA).gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Banjo-Kazooie - Grunty's Revenge (USA, Europe).gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Oddworld - Munch's Oddysee (USA, Europe).gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Nicktoons Unite! (USA).gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Crash Nitro Kart (USA).gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Breath of Fire (USA).gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Bubble Bobble - Old & New (USA).gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Avatar - The Last Airbender (USA).gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Kirby & The Amazing Mirror.gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Mother 3.gba",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    }
+  ]
+}

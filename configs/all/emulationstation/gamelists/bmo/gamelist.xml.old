@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./GuardiansOfSunshine.sh</path>
+		<name>Guardians Of Sunshine</name>
+		<video>~/RetroPie/screensavers/gmo_screensaver.mp4</video>
+		<playcount>20</playcount>
+		<lastplayed>20210421T023744</lastplayed>
+	</game>
+</gameList>

@@ -1,0 +1,610 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Legend of Zelda, The - Majora's Mask.z64</path>
+		<name>Legend of Zelda, The - Majora's Mask</name>
+		<playcount>5</playcount>
+		<lastplayed>20201103T114706</lastplayed>
+	</game>
+	<game>
+		<path>./Legend of Zelda - The Missing Link.z64</path>
+		<name>Legend of Zelda - The Missing Link</name>
+		<playcount>3</playcount>
+		<lastplayed>20201229T221247</lastplayed>
+	</game>
+	<game>
+		<path>./Legend of Zelda - Ocarina of Time - Master Quest Redux.z64</path>
+		<name>Legend of Zelda - Ocarina of Time - Master Quest Redux</name>
+		<playcount>1</playcount>
+		<lastplayed>20201229T222654</lastplayed>
+	</game>
+	<game>
+		<path>./Legend of Zelda - Ocarina of Time Redux.z64</path>
+		<name>Legend of Zelda - Ocarina of Time Redux</name>
+		<playcount>1</playcount>
+		<lastplayed>20201229T223141</lastplayed>
+	</game>
+	<game>
+		<path>./Banjo-Tooie.z64</path>
+		<name>Banjo-Tooie</name>
+		<desc>Grunty returns-and that's bad news for Banjo and Kazooie! In this all-new adventure, combine everything you learned in the award-winning prequel, Banjo-Kazooie, with dozens of brand-new moves and abilities. Explore eight original worlds-like a monstrous factory and a dilapidated amusement park. Solve incredible puzzles that link those worlds together-sometimes you'll have to complete tasks in several worlds to solve a single puzzle!
+
+-Divide and conquer! The bear and bird are back and this time they can split up and work alone.
+
+-Play as Mumbo! Now you'll get to take control of the bone-headed shaman himself!
+
+-Meet Humba Wumba! She'll transform Banjo into a number of objects, such as a walkin', talkin' statue or a tightie whitie shootin' washer.
+
+-Four-player mini-games! Play over a dozen mini-games, including five different shootout modes.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Banjo-Tooie-image.jpg</image>
+		<releasedate>20001120T000000</releasedate>
+		<developer>Rare, Ltd.</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action, Adventure, Puzzle, Platform</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./Bomberman 64.z64</path>
+		<name>Bomberman 64</name>
+		<desc>The evil Altair is using the Omni Cube to drain the energy from Planet Bomber. With the aid of a mysterious helper, you must defeat Altair, and restore peace to Planet Bomber. In the Adventure mode, guide Bomberman through 24 areas of perilous conflict. Battle Altair's sinister allies, destroy their bases and put an end to the insane attack. The multi-player Battle mode offers endless hours of explosive action. Use the standard Bomberman character or create a custom one and save it to an N64 Controller Pak.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Bomberman 64-image.jpg</image>
+		<releasedate>19971201T000000</releasedate>
+		<developer>Hudson Entertainment, Inc.</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./Bomberman 64 - The Second Attack!.z64</path>
+		<name>Bomberman 64: The Second Attack!</name>
+		<desc>Of the great discoveries in the universe, few are more important than the legendary 8 elements. When the evil Rukifellth found one of these elements - the powerful Celestial Stone - he used his influence to assemble the dreaded BHB Army. Armed with his new army and a giant space warship, the power-crazed Rukifellth began scouring the galaxy for the other 7 elements, invading planets and enslaving innocent races throughout the galaxy. Rukifellth controls these enslaved planets with special Gravity Generators - the same devices the BHB Army used to create a Black Hole. Rukifellth uses his Black Hole to capture new planets... But he should have thought twice before he tried to capture Bomber Planet!</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Bomberman 64 - The Second Attack!-image.jpg</image>
+		<releasedate>20000518T000000</releasedate>
+		<developer>Hudson Entertainment, Inc.</developer>
+		<publisher>Vatical Entertainment LLC</publisher>
+		<genre>Action</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./Bomberman Hero.z64</path>
+		<name>Bomberman Hero</name>
+		<desc>Bomberman's latest adventure takes him across the galaxy! Princess Millian has been kidnapped by the evil Garaden Empire and it's up to Bomberman to save the day. Travel through worlds of ice, fire and water. Use new abilities and get help from friends like Louie the rabbit and Pibol the robot. New vehicles like the Bomber Copter and Bomber Marine will come in handy in your quest to save the Princess and free the universe once again!</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Bomberman Hero-image.jpg</image>
+		<releasedate>19980901T000000</releasedate>
+		<developer>Hudson Entertainment, Inc.</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Bust-A-Move '99.z64</path>
+		<name>Bust-A-Move '99</name>
+		<desc>Think you've busted with the best? Not until you've faced Bust-A-Move '99! With intense 4-player competition, all new graphics, and create-a-level mode, you've never busted bubbles like these! And with eight new mysterious characters to save, you'll be bustin' like crazy to solve all the puzzles and send them home!</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Bust-A-Move '99-image.jpg</image>
+		<releasedate>19990430T000000</releasedate>
+		<developer>Distinctive Developments</developer>
+		<publisher>Acclaim Entertainment, Inc.</publisher>
+		<genre>Puzzle</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./Bust-A-Move 2 - Arcade Edition.z64</path>
+		<name>Bust-A-Move 2: Arcade Edition</name>
+		<desc>Bust-A-Move 2 is the lightning-quick, ultra-intense, 100% addictive, arcade puzzler that's gonna grab you and never let go! As the balls descend, you're gonna need sharp eyes and quick reflexes to match 3 or more balls and pop them... fast! Insane two-player action pits you against an opponent in a race to bust or be busted! Match 'em by color! Stack 'em! Pop 'em! It's the end all, be all, puzzle game of the century that lets everyone Bust-A-Move!</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Bust-A-Move 2 - Arcade Edition-image.jpg</image>
+		<releasedate>19980430T000000</releasedate>
+		<developer>Probe Entertainment</developer>
+		<publisher>Acclaim Entertainment, Inc.</publisher>
+		<genre>Puzzle</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Castlevania - Legacy of Darkness.z64</path>
+		<name>Castlevania: Legacy of Darkness</name>
+		<desc>Before Reinhardt Schneider and Carrie Fernandez confronted Dracula, a magical warrior embarked on a quest that would ultimately lead him to Dracula's lair. Take control of Cornell, a powerful werewolf, who is seeking out the evil minions responsible for his sister's disappearance. Armed with the power to morph from human to werewolf, Cornell is destined to rescure his sister from a sinister plan and rid the world of Dracula once and for all. Will he succeed or fail? Will the past unravel the future? Discover the legacy in this exciting prequel.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Castlevania - Legacy of Darkness-image.jpg</image>
+		<releasedate>19991130T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action, Platform</genre>
+	</game>
+	<game>
+		<path>./Diddy Kong Racing.z64</path>
+		<name>Diddy Kong Racing</name>
+		<desc>Timber the Tiger's parents picked a fine time to go on vacation. When they come back, they're going to be faced with an island trashed by the spiteful space bully Wizpig - unless the local animals can do something about it! So join Diddy Kong as he teams up with Timber the Tiger, Pipsy the Mouse and Taj the Genie in an epic racing adventure unlike anything you've ever experienced before!
+
+-This unique game blends adventure and racing like no other game!
+
+-Roam anywhere you want on the island by car, plane or hovercraft!
+
+-An enormous amount of singe-player and multi-player modes!
+
+-Feel the action when you use the N64™ Rumble Pak™ and save your times on the N64™ Controller Pak™!</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Diddy Kong Racing-image.jpg</image>
+		<releasedate>19971124T000000</releasedate>
+		<developer>Rare, Ltd.</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action, Adventure, Racing</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./Donkey Kong 64.z64</path>
+		<name>Donkey Kong 64</name>
+		<desc>K. Rool has ape-napped the Kongs!
+
+Can Donkey Kong rescue his friends, reclaim the Golden Bananas and save his homeland from certain doom? Take out some Kremlings with Chunky's Pineapple Launcher or Lanky's Trombone. Float through the air using Tiny's Pony Tail Twirl. Even Rocket to the sky with Diddy's Jetbarrel!
+
+-Don't forget the mini-games! Challenge a seal to a race around the lagoon, go on a crazy mine cart ride, and be on the lookout for a blast from the past...
+
+-Four players can join in on super split-screen action or duke it out in a single-screen free-for-all!
+
+-Use of the required Expansion Pak (included) allows incredible real-time lighting effects and massive environments.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Donkey Kong 64-image.jpg</image>
+		<releasedate>19991122T000000</releasedate>
+		<developer>Rare, Ltd.</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action, Adventure, Puzzle, Platform</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./Dr. Mario 64.z64</path>
+		<name>Dr. Mario 64</name>
+		<desc>The flu season has come about, and it's Dr. Mario's duty to use his Megavitamins to heal the people of the land. However, Wario, wanting to have the fame that Dr. Mario has, attempts to steal the Megavitamins, but to no avail. Afterwards, Mad Scienstein and Rudy the Clown (from Wario Land 3) steal the Megavitamins, and both Dr. Mario and Wario give chase.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Dr. Mario 64-image.jpg</image>
+		<releasedate>20010408T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./Earthworm Jim 3D.z64</path>
+		<name>Earthworm Jim 3D</name>
+		<desc>Earthworm Jim is hit by a flying cow that sends him into a coma. Jim awakens within his own mind and discovers he has gone insane. His past villains have entered his mind and if something doesn't happen soon, Jim will be in the coma forever. His super ego has been unleashed within his mind to stop the madness. To restore his sanity he must find the Golden Udders of lucidity. When Jim enters his mind, he finds out that his four mind chambers have been taken over by his worst fears. He must collect Golden Udders to unlock the other three chambers and Green Marbles to unlock the levels within the chamber. Jim defeats four villains who took over his mind chambers, and finally faces the personification of his trauma: Earthworm Kim.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Earthworm Jim 3D-image.jpg</image>
+		<releasedate>19991030T000000</releasedate>
+		<developer>VIS Entertainment</developer>
+		<publisher>Rockstar Games, Interplay Entertainment Corp.</publisher>
+		<genre>Action, Platform</genre>
+	</game>
+	<game>
+		<path>./F-Zero X.z64</path>
+		<name>F-Zero X</name>
+		<desc>It's you against 29 other machines competing for the title of F-Zero X Champion. You're racing at speeds of over 1,000 km/h high above the atmosphere. Your competition comes from every corner of the galaxy and won't shed a tear at the thought of smashing you off the track. With four-player simultaneous gameplay and the Rumble Pak accessory, you have the fastest racing game on the N64 system!</desc>
+		<image>~/.emulationstation/downloaded_images/n64/F-Zero X-image.jpg</image>
+		<releasedate>19980714T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Racing</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./Gauntlet Legends.z64</path>
+		<name>Gauntlet Legends</name>
+		<desc>In ages past, a corrupt mage named Garm used a set of Runestones to summon a demon named Skorne (It is not stated what Garm intended to use Skorne for; however, as Gauntlet Legends introduces Garm as a "greedy young mage", it can be assumed he wanted Skorne for his own personal gain.) However, Skorne crushed Garm and imprisoned his soul in the Underworld. Skorne, fearing the power of the Runestones, scattered them throughout the four realms, so that they could never be used against him. The player(s) must defeat the end bosses of each of the four realms to obtain the four golden keys which allow access to Skorne's temple. While traveling through each realm, he/she/they must also collect the Thirteen Runestones from where they have been scattered. The complete set of Runestones allows him/her/them to pursue Skorne to the Underworld in order to finally destroy him. The players must find 3 rune stones on each kingdom in order to defeat Skorne in the Underworld, and of course 1 from the battle grounds.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Gauntlet Legends-image.jpg</image>
+		<releasedate>19990831T000000</releasedate>
+		<developer>Atari Games</developer>
+		<publisher>Midway Games</publisher>
+		<genre>Action</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./Harvest Moon 64.z64</path>
+		<name>Harvest Moon 64</name>
+		<desc>Retire to the country for a new challenge in Harvest Moon 64. Hard work is rewarded as you struggle to bring prosperity back to a neglected farm. Work the land, pick up odd-jobs, and get to know the neighbors. Harvest Moon 64 has all the charm of the original Super Nintendo classic, plus many new surprises.
+
+* Tons of new seasonal vegetables and fruits.
+* Raise cows, chickens, and sheep.
+* New items and gifts. Including tools that increase in power as you master them.
+* One of town's five eligible women may prove to be the love of your life.
+* Celebrate seasonal festivals with the nearby townsfolk.
+* Enjoy local horse and dog racing.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Harvest Moon 64-image.jpg</image>
+		<releasedate>19991130T000000</releasedate>
+		<developer>Toybox</developer>
+		<publisher>Natsume</publisher>
+		<genre>Construction and Management Simulation</genre>
+	</game>
+	<game>
+		<path>./Hey You, Pikachu!.z64</path>
+		<name>Hey You, Pikachu!</name>
+		<desc>For the first time ever, you can actually talk to your favorite Pokemon. Tag along with Pikachu as it goes through its daily routines, taking field trips, going fishing and having picnics, becoming better friends with each passing day. Pikachu will hear and react to the words you say. The more you speak the closer friends you'll be!</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Hey You, Pikachu!-image.jpg</image>
+		<releasedate>20001105T000000</releasedate>
+		<developer>Ambrella</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Life Simulation</genre>
+	</game>
+	<game>
+		<path>./Kirby 64 - The Crystal Shards.z64</path>
+		<name>Kirby 64: The Crystal Shards</name>
+		<desc>Kirby's first 3-D adventure is also his Nintendo 64 debut, and it finds the always-versatile hero battling a new enemy called Dark Matter. Dark Matter is after a distant land's powerful crystal, but a young fairy named Ribbon attempts to save it by escaping with the gem to Dream Land. Now the crystal has been broken, and it's scattered around the world. Take control of Kirby and help him journey across six worlds, battling a wide variety of enemies and challenging bosses, as he tries to collect all 100 pieces of the shattered crystal.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Kirby 64 - The Crystal Shards-image.jpg</image>
+		<releasedate>20000626T000000</releasedate>
+		<developer>HAL Laboratory</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./Legend of Zelda - Ocarina of Time.z64</path>
+		<name>The Legend of Zelda: Ocarina of Time</name>
+		<desc>Ganondorf, the evil King of Thieves, is on the move, threatening the peaceful land of Hyrule.  He is determined to steal his way into the legendary Sacred Realm in hopes of harnessing the power of the mythical Triforce.  As the young hero Link, it is your destiny to thwart Ganondorf’s evil schemes.  Navi, your guardian fairy, will guide you as you venture through the many regions of Hyrule, from the volcanic caves of Death Mountain to the treacherous waters of Zora’s Domain.  Before you complete this epic quest, you’ll delve into deadly dungeons, collect weapons of great power and learn the spells you need to conquer the most irresistible force of all-time.
+
+• The immersive storyline and environments draw players into an amazing 3D world.
+• Time travel allows you to play as Link in different stages of his life.
+• New gameplay features include a unique targeting system and 1st and 3rd person perspectives.
+• Up to three games can be saved simultaneously to memory!</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Legend of Zelda - Ocarina of Time-image.jpg</image>
+		<releasedate>19981123T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action, Adventure, Role-Playing, Puzzle, Platform</genre>
+	</game>
+	<game>
+		<path>./Legend of Zelda - The Missing Link.n64</path>
+		<name>The Legend of Zelda - The Missing Link</name>
+		<image>~/.emulationstation/downloaded_images/n64/Legend of Zelda - The Missing Link-image.jpg</image>
+		<releasedate>20200728T000000</releasedate>
+		<genre>Action, Adventure, Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Legend of Zelda - The Ocarina of Time.n64</path>
+		<name>The Legend of Zelda: Ocarina of Time</name>
+		<desc>Ganondorf, the evil King of Thieves, is on the move, threatening the peaceful land of Hyrule.  He is determined to steal his way into the legendary Sacred Realm in hopes of harnessing the power of the mythical Triforce.  As the young hero Link, it is your destiny to thwart Ganondorf’s evil schemes.  Navi, your guardian fairy, will guide you as you venture through the many regions of Hyrule, from the volcanic caves of Death Mountain to the treacherous waters of Zora’s Domain.  Before you complete this epic quest, you’ll delve into deadly dungeons, collect weapons of great power and learn the spells you need to conquer the most irresistible force of all-time.
+
+• The immersive storyline and environments draw players into an amazing 3D world.
+• Time travel allows you to play as Link in different stages of his life.
+• New gameplay features include a unique targeting system and 1st and 3rd person perspectives.
+• Up to three games can be saved simultaneously to memory!</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Legend of Zelda - The Ocarina of Time-image.jpg</image>
+		<releasedate>19981123T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action, Adventure, Role-Playing, Puzzle, Platform</genre>
+	</game>
+	<game>
+		<path>./Mario Party.z64</path>
+		<name>Mario Party</name>
+		<desc>Every game in the main series has a standard Party Mode in which up to four players play through a board, trying to collect as many stars as possible. In every turn, each player rolls a die and progresses on the board, which usually has branching paths. Coins are primarily earned by performing well in a minigame played at the end of each turn. On most boards, players earn stars by reaching a star space and purchasing a star for a certain amount of coins. The star space appears randomly on one of several pre-determined locations and moves every time a star is purchased, usually occupying a blue space.
+Every Mario Party contains at least 50 to almost 110 minigames with a few different types. Four-player games are a free-for-all in which players compete individually. In 2-on-2 and 1-on-3 minigames, players compete as two groups, cooperating to win, even though they are still competing individually in the main game. Some minigames in Mario Party are 4-player co-op, even though it doesn't say it. In most situations, winners earn ten coins each.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Mario Party-image.jpg</image>
+		<releasedate>19990208T000000</releasedate>
+		<developer>Hudson Entertainment, Inc.</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action, Adventure, Strategy, Sports</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./Mario Party 2.z64</path>
+		<name>Mario Party 2</name>
+		<desc>Mario and the gang are back for another round of Bowser-bashin' party action! Watch as your favorite Nintendo characters don different duds for each of the five all-new Adventure Boards! A slew of new tricks and devices bring new levels of challenge and excitement to board game play. New board maps, new Mini-Games, new action and new surprises means a whole new batch of fun! Get ready to unleash your best Hip Drops, hammer swings and high-flying high junks for another round of frenzied multi-player action!</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Mario Party 2-image.jpg</image>
+		<releasedate>20000124T000000</releasedate>
+		<developer>Hudson Entertainment, Inc.</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action, Adventure, Strategy, Sports</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./Mario Party 3.z64</path>
+		<name>Mario Party 3</name>
+		<desc>Mario Party 3 is the third and final Mario Party title for the Nintendo 64. A total of eight characters are available to choose from: Mario, Luigi, Princess Peach, Yoshi, Wario, Donkey Kong, and newcomers Waluigi and Princess Daisy. Mario Party 3 features duel maps, in which two players try to lower each other's stamina to zero using non-playable characters such as Chain Chomps. It is the first Mario Party game to feature Luigi's main voice and also it is last Mario game where Princess Daisy appears in a yellow and white dress, and with long hair, as well as the last Mario game (until New Super Mario Bros. Wii) in which Yoshi's "record-scratching" voice is used. It is also the first Mario Party game to have multiple save slots.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Mario Party 3-image.jpg</image>
+		<releasedate>20010506T000000</releasedate>
+		<developer>Hudson Entertainment, Inc.</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action, Adventure, Strategy, Sports</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./Mega Man 64.z64</path>
+		<name>Mega Man 64</name>
+		<desc>Mega Man Volnutt is the game's playable character. Mega Man Volnutt is a "Digger", a person in charge of investigating ruins from a flooded Earth. During his journey with his friends, their ship crashes in Kattelox Island, where Mega Man decides to confront pirates who are attacking it to obtain the its hidden treasure. As an action roleplaying game, Mega Man Legends's gameplay is very different from the ones of the original series despite sharing a few elements.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Mega Man 64-image.jpg</image>
+		<releasedate>20001122T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action, Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Mortal Kombat 4.z64</path>
+		<name>Mortal Kombat 4</name>
+		<desc>Shao Kahn has been defeated at the hands of Earth's warriors, and now Shinnok has escaped to his confines in the Netherealm. The war has resumed once again. This time, the battle CAN be won by mortals!</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Mortal Kombat 4-image.jpg</image>
+		<releasedate>19980623T000000</releasedate>
+		<developer>Eurocom Entertainment Software</developer>
+		<publisher>Midway Games</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Mortal Kombat Trilogy.z64</path>
+		<name>Mortal Kombat Trilogy</name>
+		<desc>Shao Kahn's final attempt to control the earth is upon us... 26 immediately playable characters plus 4 hidden characters! The new Aggressor Kombat Mode arms the quick and merciless with more strength and power to inflict heavy, damaging combinations! Over 30 moves and "-Alities" never seen in the arcade. New Brutalities let you pound opponents 'til they explode! New 3-on-3 Kombat Mode delivers a marathon fight-to-the-finish! 7 humiliating Stage Fatalities that send defeated opponents plummeting out of the arena to a grizzly death!</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Mortal Kombat Trilogy-image.jpg</image>
+		<releasedate>19961031T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway Games</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Paper Mario.z64</path>
+		<name>Paper Mario</name>
+		<desc>Mario pals around in an all-new action adventure! Mario's back in his first adventure since Super Mario 64, and this time, Bowser's bent on preventing a storybook ending. When Princess Peach is kidnapped, Mario plots to rescue the seven Star Spirits and rid the Mushroom Kingdom of Koopa's cruel cohorts. As he travels from the tropical jungles of Lavalava Island to the frosty heights of Shiver Mountain, he'll meet up with seven all-new companions... and he'll need help from each one or there'll be no happily ever after.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Paper Mario-image.jpg</image>
+		<releasedate>20010205T000000</releasedate>
+		<developer>Intelligent Systems Co., Ltd.</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action, Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Pokemon Snap.z64</path>
+		<name>Pokémon Snap</name>
+		<desc>Professor Oak needs your help!
+
+The Professor has asked you to capture the Wild Pokémon of Pokémon Island… on film!  Tour the island in your ZERO-ONE vehicle and snap pictures of Pokémon in their natural habitat.  Wild Pokémon are often camera-shy, so you’ll have to use special items to bring them out in the open.  Only the best shots will do for the Professor’s Pokémon Report, so sharpen your photography skills and get ready to SNAP!
+
+* The first-ever N64 game to feature the world-famous Pokémon--fully rendered in 3-D!
+* Explore the many environments of Pokémon Island, like the sunny beach, the mysterious caves, and even a red-hot volcano!
+* Many different types of Pokémon inhabit the island.  See how many you can catch on film!</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Pokemon Snap-image.jpg</image>
+		<releasedate>19990630T000000</releasedate>
+		<developer>HAL Laboratory, Pax Softnica</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Shooter, Life Simulation</genre>
+	</game>
+	<game>
+		<path>./Pokemon Stadium.z64</path>
+		<name>Pokémon Stadium</name>
+		<desc>The ultimate Pokémon battle is about to begin... At long last, all of your favorite Pokémon are ready to go head-to-head on the N64! Whether you're battling a friend, a Gym Leader or a tournament contestant, you're about to witness some of the most spectacular battle scenes in Pokémon history! Select a team from a huge stable of "rental" battlers, or use the included N64 Transfer Pak to upload your own team of Pokémon Red, Blue or Yellow! This Stadium is packed and ready to rock!
+
+• Awesome 3-D animation on the N64 makes all 151 Pokémon larger than life!
+• Use the N64 Transfer Pak to battle using your Pokémon from Red, Blue or Yellow.
+• Battle your way to the top of the championships, or have a free-for-all with up to four players!
+• Nine Mini-Games add to the multi-player fun!
+• Use the power of the Transfer Pak and the N64 to play the Pokémon Game Boy game on your television!</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Pokemon Stadium-image.jpg</image>
+		<releasedate>20000229T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Strategy</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./Pokemon Stadium 2.z64</path>
+		<name>Pocket Monsters Stadium 2</name>
+		<desc>At long last, all of your favorite Pokémon are rady to go head-to-head on the N64®! Whether you're battle a friend, a Gym Leader or a tournament contestant, you're about to witness some of the most spectacular battle scenes in Pokémon history! Select a team from a huge stable of "rental" battlers, or use the included N64 Transfer Pak™ to upload your own team from Pokémon Red, Blue or Yellow! This Stadium is packed and ready to rock!</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Pokemon Stadium 2-image.jpg</image>
+		<releasedate>19990430T000000</releasedate>
+		<developer>HAL Laboratory</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Strategy</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Rayman 2 - The Great Escape.z64</path>
+		<name>Rayman 2: The Great Escape</name>
+		<desc>Rayman 2 takes place in a world called The Glade of Dreams. An army of Robot Pirates, led by Admiral Razorbeard, invades this world and destroys the Heart of the World, the world core. This greatly weakens the resistance's power and disables Rayman's powers, leading to his capture.
+
+Globox, a friend of Rayman, is later also captured and put in the same cell as Rayman aboard the Pirates' prison ship. Globox restores one of his powers through a silver lum given to him by Ly, a fairy. Rayman escapes the prison ship, and is separated from Globox again. He learns that in order to stand a chance against the Pirates, he needs to find 4 ancient, magic masks to awaken Polokus, the spirit of the world.[10] He travels through the Glade of Dreams via the Hall of Doors, a magical place linked to various locations in the world, controlled by the ancient Teensies.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Rayman 2 - The Great Escape-image.jpg</image>
+		<releasedate>19991029T000000</releasedate>
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft Entertainment</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./South Park - Chef's Luv Shack.z64</path>
+		<name>South Park: Chef's Luv Shack</name>
+		<desc>South Park: Chef's Luv Shack is a 2D game-show style video game based on the television show South Park. It gained its popularity by having mini games and the ability to play against friends in a challenge for the most points. It also involves trivia questions about South Park and other topics.
+The game intermittently switches between questions and minigames, with a minigame proceeding every three questions. Players score points by answering questions first (correctly) and based on minigame ranking. Players lose points for questions answered incorrectly. The game is exclusively multiplayer, as when played by one player, there is no AI, so that player always wins, even with a negative score</desc>
+		<image>~/.emulationstation/downloaded_images/n64/South Park - Chef's Luv Shack-image.jpg</image>
+		<releasedate>19991120T000000</releasedate>
+		<developer>Acclaim</developer>
+		<publisher>Acclaim Entertainment, Inc.</publisher>
+		<genre>Puzzle</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./South Park Rally.z64</path>
+		<name>South Park Rally</name>
+		<desc>Choose your character from the cast of the popular 'mature' cartoon South Park, and tear through the streets in this racing game. Your character's vehicle may be a little cart, trike, or box, for example. Weapons include rockets, Salty Balls, Cheesy Poofs, the beloved Cow and even an Anal probe. All of the voices are also included, making it feel more like the real cartoon than a rally game. You can also play an all-on-all 4 player mode.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/South Park Rally-image.jpg</image>
+		<releasedate>20000301T000000</releasedate>
+		<developer>Tantalus Media</developer>
+		<publisher>Acclaim Entertainment, Inc.</publisher>
+		<genre>Racing</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./Star Fox 64.z64</path>
+		<name>Star Fox 64</name>
+		<desc>The Lylat system has been invaded! Join Fox McCloud and his Star Fox team as they fight to save the galaxy from the clutches of the evil Andross. Travel to many different 3-D worlds. Battle the enemy in the air and on the ground and listen in as Fox McCloud interacts with a cast of characters.
+
+See how it feels to feel what you see! The N64 Rumble Pak controller accessory instantly transmits all the bumps and blasts during the action. It’s a new jolt to your game play experience!
+
+-N64 Rumble Pak controller accessory and batteries included!
+
+-Four Players compete simultaneously in Vs. mode!
+
+-Game Pak memory saves the top 10 scores!
+
+-Outstanding cinema scenes tell the Star Fox saga!</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Star Fox 64-image.jpg</image>
+		<releasedate>19970630T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action, Adventure, Shooter</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./Super Smash Bros..z64</path>
+		<name>Super Smash Bros.</name>
+		<desc>It's a Bumpin', Bruisin', Brawlin' Bash!
+
+The many worlds of Nintendo collide in the ultimate showdown of strength and skill! Up to four players can choose their favorite characters - complete with signature attacks - and go at it in Team Battles and Free-For-Alls. Or venture out on your own to conquer the 14 stages in single-player mode. Either way, Super Smash Bros. is a no-holds-barred action-fest that will keep you coming back for more!
+
+-Plunge headlong into battle with your favorite Nintendo characters: Mario, Link, Donkey Kong, Pikachu, Samus, Yoshi, Kirby and Fox... plus 4 hidden characters!
+
+-Characters use their own trademark attacks, such as Mario’s fireballs and Link’s sword.
+
+-Grab a Fire Flower or Poké Ball and send your opponent sailing out of the arena.
+
+-Compete in 8 different settings, each from a character’s home world and each with its own dangers.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Super Smash Bros.-image.jpg</image>
+		<releasedate>19990426T000000</releasedate>
+		<developer>HAL Laboratory</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Fighting</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./Tony Hawk's Pro Skater.z64</path>
+		<name>Tony Hawk's Pro Skater</name>
+		<desc>Go Big, Go Pro! Skate as legendary Tony Hawk, or as one of nine top pros. Work your way up the ranks by landing suicidal tricks in brutal competitions to become the highest ranked skate champ! Great features such as: Signature Pro Moves, fully skateable worlds, head-to-head competition, and Instant Replay Mode.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Tony Hawk's Pro Skater-image.jpg</image>
+		<releasedate>20000329T000000</releasedate>
+		<developer>Edge of Reality Inc.</developer>
+		<publisher>Activision</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Tony Hawk's Pro Skater 2.z64</path>
+		<name>Tony Hawk's Pro Skater 2</name>
+		<desc>Tony Hawk's Pro Skater 2 redefined an already great game. Its addition of stellar new features (like Create-A-Park), and great game-play tweaks (the manual maneuver will be copied for years to come) made it the best installment in a killer series of games. Anyone who has ever skated the Philadelphia level will agree -- this game is a masterpiece of level design. Hell, it's a masterpiece all around. There isn't a bad park or dull moment, just pure gaming nirvana!</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Tony Hawk's Pro Skater 2-image.jpg</image>
+		<releasedate>20010821T000000</releasedate>
+		<developer>Edge of Reality Inc.</developer>
+		<publisher>Activision</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Tony Hawk's Pro Skater 3.z64</path>
+		<name>Tony Hawk's Pro Skater 3</name>
+		<desc>You may not be able to live like the legend, but now you can skate like him. Skate as the legendary Tony Hawk or choose from a dream team of 12 top pro skaters, including old favorites like Lasek, Thomas, Muska, and Steamer, as well as new talent like Gilfberg, Caballero, Koston, and Mullen. Or enjoy full customization abilities with the enhanced Create-a-Skater (now including female skaters) and the Skatepark Editor. Travel from L.A. to Tokyo, Suburbia to Skater's Island performing challenges and meeting goals. New moves include the Revert, which allows you to link vert tricks, and flatland tricks such as Caspers, the Primo, and Handstand Manual. If you're good, you can even unlock hidden pro footage.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Tony Hawk's Pro Skater 3-image.jpg</image>
+		<releasedate>20020820T000000</releasedate>
+		<developer>Edge of Reality Inc.</developer>
+		<publisher>Activision</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Yoshi's Story.z64</path>
+		<name>Yoshi's Story</name>
+		<desc>Baby Bowser has taken the Super Happy Tree and cast a spell on Yoshi's world, turning it into the pages of a picture book.  The only Yoshis not affected by the spell were six hatchlings that were still protected by their shells.  It's up to them to reclaim the Super Happy Tree and restore happiness to the world.  That is the only thing that can break Baby Bowser's Spell!</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Yoshi's Story-image.jpg</image>
+		<releasedate>19980301T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action, Adventure</genre>
+	</game>
+	<game>
+		<path>./Castlevania.z64</path>
+		<name>Castlevania</name>
+		<desc>Take control of Reinhardt Schneider, a whip-toting Vampire Killer who has waited his whole life to meet his destiny, or Carrie Fernandez, a young girl with a strong magical presence who is mysteriously drawn to Dracula's evil Castlevania. It is their duty to seek out Castlevania and put an end to its residents' plans. What is your destiny?</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Castlevania-image.jpg</image>
+		<releasedate>19990126T000000</releasedate>
+		<developer>Konami Computer Entertainment Kobe</developer>
+		<publisher>Konami</publisher>
+		<genre>Action, Adventure, Platform</genre>
+		<playcount>3</playcount>
+		<lastplayed>20210313T071055</lastplayed>
+	</game>
+	<game>
+		<path>./Doom 64.z64</path>
+		<name>Doom 64</name>
+		<desc>You killed the Demons once, they were all dead. Or so you thought... A single Demon Entity escaped detection. Systematically it altered decaying, dead carnage back into grotesque living tissue. The Demons have returned - stronger and more vicious than ever before. You mission is clear, there are no options: kill or be killed!</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Doom 64-image.jpg</image>
+		<releasedate>19970331T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway Games</publisher>
+		<genre>Shooter</genre>
+		<playcount>1</playcount>
+		<lastplayed>20210417T030812</lastplayed>
+	</game>
+	<game>
+		<path>./Mario Kart 64.z64</path>
+		<name>Mario Kart 64</name>
+		<desc>Three… Two… One… GO! The signal light changes and you drop the pedal to the metal. Take on up to three friends in the split-screen VS games, or race solo in the Mario GP. Tell your friends to bring it on in the highly competitive Battle mode. Advanced features allow you to race with your “Ghost”. The driving data from your best run appears as a transparent character on the screen. No longer must you simply race against the clock -- you can actually race against yourself!
+
+-Save your hottest Ghost data to a portable N64 Controller Pak™ (Sold Separately)
+
+-Collect multiple power-up items!
+
+-Twenty different courses -- 4 Cups with 4 courses each and 4 special Battle mode courses!
+
+-Everyone’s favorite characters are back and gorgeously rendered, including two new additions, Donkey Kong™ and Wario™!</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Mario Kart 64-image.jpg</image>
+		<releasedate>19970210T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Racing</genre>
+		<players>4</players>
+		<playcount>3</playcount>
+		<lastplayed>20210427T114217</lastplayed>
+	</game>
+	<game>
+		<path>./Super Mario 64.z64</path>
+		<name>Super Mario 64</name>
+		<desc>Mario is super in a whole new way! Combining the finest 3-D graphics ever developed for a video game and an explosive sound track, Super Mario 64™ becomes a new standard for video games. It's packed with bruising battles, daunting obstacle courses and underwater adventures. Retrieve the Power Stars from their hidden locations and confront your arch nemesis -- Bowser, King of the Koopas!
+
+-Run freely in a grassy meadow, tip-toe through a gloomy dungeon, climb to the top of a mountain or take a swim in the moat!
+
+-Leap head first into a watery painting and soon you'll be searching for the surface in an underwater realm!
+
+-On-the-fly, 3-D rendered game play delivers the action of ruthless enemy attacks from every angle!
+
+-Find the Caps that give Mario super powers, ponder the mysteries of the pyramid, you can even race Koopas for fabulous prizes!
+
+-With the Nintendo 64 Controller and its analog Control Stick, Mario can crawl, kick down obstacles, swim, do reverse flips, and even stick the landing on his backwards somersault!
+
+-Saved game information is stored for up to four players in memory.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Super Mario 64-image.jpg</image>
+		<releasedate>19960926T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action, Adventure, Puzzle, Platform</genre>
+		<playcount>2</playcount>
+		<lastplayed>20210427T114928</lastplayed>
+	</game>
+	<game>
+		<path>./South Park.z64</path>
+		<name>South Park</name>
+		<desc>Single player takes the form of a "Story" mode divided into five episodes and fifteen linear levels. The player will face weak minions (which change based on the episode), plus occasional sub-bosses which will try to escape into town. The final level is devoted to a unique boss fight. Players use quirky weapons ranging from infinite yellow snowballs to cow launchers and toxic Terrance and Phillip dolls. Every weapon has a secondary fire, and players switch between the four main characters when they switch weapons - each of the four kids shares a single life bar because of this. The kids will comment on game actions as they occur, with heavier profanity censored with bleeps. The kids will get angrier (and fouler) as their health depletes, until they finally give up on saving the town and go home.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/South Park-image.jpg</image>
+		<releasedate>19981212T000000</releasedate>
+		<developer>Iguana Entertainment</developer>
+		<publisher>Acclaim Entertainment, Inc.</publisher>
+		<genre>Shooter</genre>
+		<players>4</players>
+		<playcount>1</playcount>
+		<lastplayed>20210711T214413</lastplayed>
+	</game>
+	<game>
+		<path>./Banjo-Kazooie.z64</path>
+		<name>Banjo-Kazooie</name>
+		<desc>Action and Puzzles and Bears, Oh My!
+
+Trouble brews when Gruntilda the witch captures the unbearably beautiful cub, Tooty. But before the grisly hag can steal the bear's good looks, big brother Banjo and his fine-feathered friend, Kazooie, join forces to stop her. Combining their 24 moves and special powers, Banjo and Kazooie will fend off armies of beasts. Bear and bird must hunt down the 100 puzzle pieces and 900 musical notes that will ultimately lead them to Gruntilda. However, miles of swamp, desert and snow and one bear of an adventure stand in their way.
+
+-Soar over islands to scout out buried treasure.
+
+-Brave past whirling blades in the belly of a mechanical shark.
+
+-With some voodoo magic, transform into different creatures to gain special powers.
+
+-Solve the puzzles of the ancients to unearth the cursed labyrinths.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Banjo-Kazooie-image.jpg</image>
+		<releasedate>19980629T000000</releasedate>
+		<developer>Rare, Ltd.</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action, Adventure, Puzzle, Platform</genre>
+		<playcount>1</playcount>
+		<lastplayed>20211025T210215</lastplayed>
+	</game>
+</gameList>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./1942.zip</path>
+		<name>1942</name>
+		<playcount>4</playcount>
+		<lastplayed>20201108T212621</lastplayed>
+	</game>
+	<game>
+		<path>./megaman.zip</path>
+		<name>megaman</name>
+		<playcount>7</playcount>
+		<lastplayed>20201108T220242</lastplayed>
+	</game>
+</gameList>

@@ -1,0 +1,555 @@
+{
+  "version": "1.4",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 2,
+  "items": [
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Wario Land 4-210313-070520.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Metroid - Zero Mission-210309-134912.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Metroid - Zero Mission-210309-130827.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Metroid - Zero Mission-210309-130740.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Metroid - Zero Mission-210309-124547.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Metroid - Zero Mission-210309-124519.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Metroid - Zero Mission-210309-124257.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Metroid - Zero Mission-210309-123901.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Metroid - Zero Mission-210309-123255.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Metroid - Zero Mission-210309-121946.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Metroid - Zero Mission-210309-114709.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Metroid - Zero Mission-210309-112026.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Metroid - Zero Mission-210309-112017.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Metroid - Zero Mission-210309-103429.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Metroid - Zero Mission-210309-095215.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Metroid - Zero Mission-210309-095125.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Metroid - Zero Mission-210309-052441.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Metroid - Zero Mission-210309-051618.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Metroid - Zero Mission-210309-051357.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Donkey Kong - King of Swing-210220-150457.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Metroid - Zero Mission-201228-004952.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Wario Land 4-201227-190118.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Pokemon - Sapphire Version-201227-053059.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Pokemon - Sapphire Version-201227-053055.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Pokemon - Sapphire Version-201227-052948.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Castlevania - Circle of the Moon-201107-235648.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Castlevania - Circle of the Moon-201107-235608.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Castlevania - Aria of Sorrow-201107-235442.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Teen Titans-201107-140331.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Summon Night - Swordcraft Story 2-201106-170323.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Summon Night - Swordcraft Story 2-201106-170232.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Summon Night - Swordcraft Story 2-201106-170222.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Summon Night - Swordcraft Story 2-201106-170219.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Summon Night - Swordcraft Story 2-201106-170149.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Summon Night - Swordcraft Story 2-201106-170049.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Summon Night - Swordcraft Story 2-201106-170038.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Mario & Luigi - Superstar Saga-201106-054900.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Mario & Luigi - Superstar Saga-201106-054736.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Mario & Luigi - Superstar Saga-201106-054702.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Wario Land 4-201105-144443.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Wario Land 4-201105-144311.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Wario Land 4-201105-143930.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Sims 2, The-201105-142921.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Jazz Jackrabbit-201105-141053.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Jazz Jackrabbit-201105-140950.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Jazz Jackrabbit-201105-140854.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Advance Wars (USA) (Rev 1)-201105-002044.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Gauntlet - Dark Legacy (USA)-201105-001754.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Gauntlet - Dark Legacy (USA)-201105-001752.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Gauntlet - Dark Legacy (USA)-201105-001723.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Gauntlet - Dark Legacy (USA)-201105-001702.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Codename - Kids Next Door - Operation S.O.D.A. (USA)-201105-001044.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Banjo-Kazooie - Grunty's Revenge (USA, Europe)-201105-000915.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Banjo-Kazooie - Grunty's Revenge (USA, Europe)-201105-000907.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Banjo-Kazooie - Grunty's Revenge (USA, Europe)-201105-000902.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Banjo-Kazooie - Grunty's Revenge (USA, Europe)-201105-000746.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Banjo-Kazooie - Grunty's Revenge (USA, Europe)-201105-000727.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Banjo-Kazooie - Grunty's Revenge (USA, Europe)-201105-000713.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Oddworld - Munch's Oddysee (USA, Europe)-201105-000313.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Oddworld - Munch's Oddysee (USA, Europe)-201105-000251.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Nicktoons Unite! (USA)-201105-000110.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Nicktoons Unite! (USA)-201105-000047.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Nicktoons Unite! (USA)-201105-000038.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Breath of Fire (USA)-201104-235821.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Breath of Fire (USA)-201104-235748.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Bubble Bobble - Old & New (USA)-201104-235711.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Avatar - The Last Airbender (USA)-201104-235607.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/opt/retropie/configs/all/retroarch/screenshots/Avatar - The Last Airbender (USA)-201104-235556.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    }
+  ]
+}

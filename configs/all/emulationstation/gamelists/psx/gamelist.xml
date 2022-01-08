@@ -1,0 +1,2358 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Mr. Driller (USA)/Mr. Driller (USA)/Mr. Driller (USA).cue</path>
+		<name>Mr. Driller (USA)</name>
+		<playcount>1</playcount>
+		<lastplayed>20201106T031530</lastplayed>
+	</game>
+	<game>
+		<path>./Azure Dreams (USA)/Azure Dreams (USA)/Azure Dreams (USA).cue</path>
+		<name>Azure Dreams (USA)</name>
+		<playcount>1</playcount>
+		<lastplayed>20201106T202253</lastplayed>
+	</game>
+	<game>
+		<path>./Frogger (USA)/Frogger (USA)/Frogger (USA).cue</path>
+		<name>Frogger (USA)</name>
+		<playcount>1</playcount>
+		<lastplayed>20201107T041815</lastplayed>
+	</game>
+	<game>
+		<path>./Harvest Moon - Back to Nature (USA)/Harvest Moon - Back to Nature (USA)/Harvest Moon - Back to Nature (USA).cue</path>
+		<name>Harvest Moon - Back to Nature (USA)</name>
+		<playcount>1</playcount>
+		<lastplayed>20201107T050229</lastplayed>
+	</game>
+	<game>
+		<path>./Mortal Kombat 3 (USA)/Mortal Kombat 3 (USA)/Mortal Kombat 3 (USA).cue</path>
+		<name>Mortal Kombat 3 (USA)</name>
+		<playcount>1</playcount>
+		<lastplayed>20201107T043236</lastplayed>
+	</game>
+	<game>
+		<path>./Rayman (USA)/Rayman (USA)/Rayman (USA).cue</path>
+		<name>Rayman (USA)</name>
+		<playcount>1</playcount>
+		<lastplayed>20201107T050116</lastplayed>
+	</game>
+	<game>
+		<path>./Resident Evil 2/Resident Evil 2 - Dual Shock Ver. (USA) (Disc 1) (Leon).CD1.cue</path>
+		<name>Resident Evil 2 - Dual Shock Ver. (USA) (Disc 1) (Leon).CD1</name>
+		<playcount>1</playcount>
+		<lastplayed>20201107T043852</lastplayed>
+	</game>
+	<game>
+		<path>./Star Ocean - The Second Story (USA) (Disc 1)/Star Ocean - The Second Story (USA) (Disc 1)/Star Ocean - The Second Story (USA) (Disc 1).cue</path>
+		<name>Star Ocean - The Second Story (USA) (Disc 1)</name>
+		<playcount>1</playcount>
+		<lastplayed>20201107T153523</lastplayed>
+	</game>
+	<game>
+		<path>./Star Ocean - The Second Story (USA) (Disc 2)/Star Ocean - The Second Story (USA) (Disc 2)/Star Ocean - The Second Story (USA) (Disc 2).cue</path>
+		<name>Star Ocean - The Second Story (USA) (Disc 2)</name>
+		<playcount>1</playcount>
+		<lastplayed>20201107T153552</lastplayed>
+	</game>
+	<game>
+		<path>./Mortal Kombat 4 (USA)/Mortal Kombat 4 (USA)/Mortal Kombat 4 (USA).cue</path>
+		<name>Mortal Kombat 4 (USA)</name>
+		<playcount>2</playcount>
+		<lastplayed>20201107T171112</lastplayed>
+	</game>
+	<game>
+		<path>./Crash Bash (USA)/Crash Bash (USA)/Crash Bash (USA).cue</path>
+		<name>Crash Bash (USA)</name>
+		<playcount>1</playcount>
+		<lastplayed>20201107T185228</lastplayed>
+	</game>
+	<game>
+		<path>./Diablo (USA) (En,Fr,De,Sv)/Diablo (USA) (En,Fr,De,Sv)/Diablo (USA) (En,Fr,De,Sv).cue</path>
+		<name>Diablo (USA) (En,Fr,De,Sv)</name>
+		<favorite>true</favorite>
+		<playcount>1</playcount>
+		<lastplayed>20201105T135454</lastplayed>
+	</game>
+	<game>
+		<path>./Doom (USA) (Rev 1)/Doom (USA) (Rev 1)/Doom (USA) (Rev 1).cue</path>
+		<name>Doom (USA) (Rev 1)</name>
+		<favorite>true</favorite>
+		<playcount>1</playcount>
+		<lastplayed>20201107T041110</lastplayed>
+	</game>
+	<game>
+		<path>./Dragon Warrior VII (USA) (Disc 1)/Dragon Warrior VII (USA) (Disc 1)/Dragon Warrior VII (USA) (Disc 1).cue</path>
+		<name>Dragon Warrior VII (USA) (Disc 1)</name>
+		<favorite>true</favorite>
+		<playcount>2</playcount>
+		<lastplayed>20201107T184633</lastplayed>
+	</game>
+	<game>
+		<path>./Cubix Robots for Everyone - Race 'n Robots (USA)/Cubix Robots for Everyone - Race 'n Robots (USA)/Cubix Robots for Everyone - Race 'n Robots (USA).cue</path>
+		<name>Cubix Robots for Everyone - Race 'n Robots (USA)</name>
+		<rating>0</rating>
+		<releasedate>19700101T000000</releasedate>
+		<hidden>true</hidden>
+		<playcount>1</playcount>
+		<lastplayed>20201107T185440</lastplayed>
+	</game>
+	<game>
+		<path>./Mega Man 8 (USA)/Mega Man 8 (USA)/Mega Man 8 (USA).cue</path>
+		<name>Mega Man 8 (USA)</name>
+		<playcount>1</playcount>
+		<lastplayed>20201107T212508</lastplayed>
+	</game>
+	<game>
+		<path>./Grand Theft Auto (USA)/Grand Theft Auto (USA)/Grand Theft Auto (USA).cue</path>
+		<name>Grand Theft Auto (USA)</name>
+		<playcount>1</playcount>
+		<lastplayed>20201107T221222</lastplayed>
+	</game>
+	<game>
+		<path>./Final Fantasy Chronicles - Chrono Trigger (USA) (Rev 1)/Final Fantasy Chronicles - Chrono Trigger (USA) (Rev 1)/Final Fantasy Chronicles - Chrono Trigger (USA) (Rev 1).cue</path>
+		<name>Final Fantasy Chronicles - Chrono Trigger (USA) (Rev 1)</name>
+		<playcount>1</playcount>
+		<lastplayed>20201108T041433</lastplayed>
+	</game>
+	<game>
+		<path>./Gex (USA) (Rev 1)/Gex (USA) (Rev 1)/Gex (USA) (Rev 1).cue</path>
+		<name>Gex (USA) (Rev 1)</name>
+		<playcount>1</playcount>
+		<lastplayed>20201108T040049</lastplayed>
+	</game>
+	<game>
+		<path>./Heart of Darkness (USA) (Disc 1)/Heart of Darkness (USA) (Disc 1)/Heart of Darkness (USA) (Disc 1).cue</path>
+		<name>Heart of Darkness (USA) (Disc 1)</name>
+		<playcount>1</playcount>
+		<lastplayed>20201108T040458</lastplayed>
+	</game>
+	<game>
+		<path>./Ape Escape (USA)/Ape Escape (USA)/Ape Escape (USA).cue</path>
+		<name>Ape Escape (USA)</name>
+		<rating>0</rating>
+		<releasedate>19700101T000000</releasedate>
+		<hidden>true</hidden>
+		<playcount>1</playcount>
+		<lastplayed>20201108T035549</lastplayed>
+	</game>
+	<game>
+		<path>./Darkstalkers - The Night Warriors (USA)/Darkstalkers - The Night Warriors (USA)/Darkstalkers - The Night Warriors (USA).cue</path>
+		<name>Darkstalkers - The Night Warriors (USA)</name>
+		<favorite>true</favorite>
+		<playcount>1</playcount>
+		<lastplayed>20201108T080604</lastplayed>
+	</game>
+	<game>
+		<path>./Darkstalkers 3 (USA)/Darkstalkers 3 (USA)/Darkstalkers 3 (USA).cue</path>
+		<name>Darkstalkers 3 (USA)</name>
+		<favorite>true</favorite>
+		<playcount>1</playcount>
+		<lastplayed>20201108T080415</lastplayed>
+	</game>
+	<game>
+		<path>./Johnny Bazookatone (USA)/Johnny Bazookatone (USA)/Johnny Bazookatone (USA).cue</path>
+		<name>Johnny Bazookatone (USA)</name>
+		<rating>0</rating>
+		<releasedate>19700101T000000</releasedate>
+		<hidden>true</hidden>
+		<playcount>1</playcount>
+		<lastplayed>20201108T075745</lastplayed>
+	</game>
+	<game>
+		<path>./C - The Contra Adventure (USA)/C - The Contra Adventure (USA)/C - The Contra Adventure (USA).cue</path>
+		<name>C - The Contra Adventure (USA)</name>
+		<playcount>1</playcount>
+		<lastplayed>20201108T134112</lastplayed>
+	</game>
+	<game>
+		<path>./Contra - Legacy of War (USA)/Contra - Legacy of War (USA)/Contra - Legacy of War (USA).cue</path>
+		<name>Contra - Legacy of War (USA)</name>
+		<playcount>1</playcount>
+		<lastplayed>20201108T134304</lastplayed>
+	</game>
+	<game>
+		<path>./Disney's Lilo &amp; Stitch (USA)/Disney's Lilo &amp; Stitch (USA)/Disney's Lilo &amp; Stitch (USA).cue</path>
+		<name>Disney's Lilo &amp; Stitch (USA)</name>
+		<rating>0</rating>
+		<releasedate>19700101T000000</releasedate>
+		<hidden>true</hidden>
+		<playcount>1</playcount>
+		<lastplayed>20201108T134759</lastplayed>
+	</game>
+	<game>
+		<path>./Disney's Treasure Planet (USA)/Disney's Treasure Planet (USA)/Disney's Treasure Planet (USA).cue</path>
+		<name>Disney's Treasure Planet (USA)</name>
+		<playcount>1</playcount>
+		<lastplayed>20201108T135141</lastplayed>
+	</game>
+	<game>
+		<path>./Dragon Ball Z - Ultimate Battle 22 (USA)/Dragon Ball Z - Ultimate Battle 22 (USA)/Dragon Ball Z - Ultimate Battle 22 (USA).cue</path>
+		<name>Dragon Ball Z - Ultimate Battle 22 (USA)</name>
+		<playcount>1</playcount>
+		<lastplayed>20201108T135652</lastplayed>
+	</game>
+	<game>
+		<path>./Duke Nukem - Land of the Babes (USA)/Duke Nukem - Land of the Babes (USA)/Duke Nukem - Land of the Babes (USA).cue</path>
+		<name>Duke Nukem - Land of the Babes (USA)</name>
+		<playcount>1</playcount>
+		<lastplayed>20201108T140506</lastplayed>
+	</game>
+	<game>
+		<path>./Dynasty Warriors (USA)/Dynasty Warriors (USA)/Dynasty Warriors (USA).cue</path>
+		<name>Dynasty Warriors (USA)</name>
+		<playcount>1</playcount>
+		<lastplayed>20201108T140116</lastplayed>
+	</game>
+	<game>
+		<path>./Eternal Eyes (USA)/Eternal Eyes (USA)/Eternal Eyes (USA).cue</path>
+		<name>Eternal Eyes (USA)</name>
+		<playcount>1</playcount>
+		<lastplayed>20201108T140020</lastplayed>
+	</game>
+	<game>
+		<path>./Final Fantasy Chronicles - Final Fantasy IV (USA) (Rev 1)/Final Fantasy Chronicles - Final Fantasy IV (USA) (Rev 1)/Final Fantasy Chronicles - Final Fantasy IV (USA) (Rev 1).cue</path>
+		<name>Final Fantasy Chronicles - Final Fantasy IV (USA) (Rev 1)</name>
+		<playcount>1</playcount>
+		<lastplayed>20201108T140624</lastplayed>
+	</game>
+	<game>
+		<path>./Gex 3 - Deep Cover Gecko (USA)/Gex 3 - Deep Cover Gecko (USA)/Gex 3 - Deep Cover Gecko (USA).cue</path>
+		<name>Gex 3 - Deep Cover Gecko (USA)</name>
+		<playcount>1</playcount>
+		<lastplayed>20201108T140907</lastplayed>
+	</game>
+	<game>
+		<path>./Herc's Adventures (USA)/Herc's Adventures (USA)/Herc's Adventures (USA).cue</path>
+		<name>Herc's Adventures (USA)</name>
+		<playcount>1</playcount>
+		<lastplayed>20201108T141427</lastplayed>
+	</game>
+	<game>
+		<path>./Myst (USA)/Myst (USA)/Myst (USA).cue</path>
+		<name>Myst (USA)</name>
+		<playcount>1</playcount>
+		<lastplayed>20201108T141555</lastplayed>
+	</game>
+	<game>
+		<path>./Oddworld - Abe's Oddysee (USA) (Rev 2)/Oddworld - Abe's Oddysee (USA) (Rev 2)/Oddworld - Abe's Oddysee (USA) (Rev 2).cue</path>
+		<name>Oddworld - Abe's Oddysee (USA) (Rev 2)</name>
+		<playcount>1</playcount>
+		<lastplayed>20201108T142133</lastplayed>
+	</game>
+	<game>
+		<path>./Pitfall 3D - Beyond the Jungle (USA)/Pitfall 3D - Beyond the Jungle (USA)/Pitfall 3D - Beyond the Jungle (USA).cue</path>
+		<name>Pitfall 3D - Beyond the Jungle (USA)</name>
+		<playcount>1</playcount>
+		<lastplayed>20201108T142307</lastplayed>
+	</game>
+	<game>
+		<path>./Quake II (USA)/Quake II (USA)/Quake II (USA).cue</path>
+		<name>Quake II (USA)</name>
+		<rating>0</rating>
+		<releasedate>19700101T000000</releasedate>
+		<hidden>true</hidden>
+		<playcount>1</playcount>
+		<lastplayed>20201108T142319</lastplayed>
+	</game>
+	<game>
+		<path>./Street Fighter Alpha - Warriors' Dreams (USA)/Street Fighter Alpha - Warriors' Dreams (USA)/Street Fighter Alpha - Warriors' Dreams (USA).cue</path>
+		<name>Street Fighter Alpha - Warriors' Dreams (USA)</name>
+		<playcount>1</playcount>
+		<lastplayed>20201108T143422</lastplayed>
+	</game>
+	<game>
+		<path>./Street Fighter Alpha 3 (USA)/Street Fighter Alpha 3 (USA)/Street Fighter Alpha 3 (USA).cue</path>
+		<name>Street Fighter Alpha 3 (USA)</name>
+		<playcount>1</playcount>
+		<lastplayed>20201108T142620</lastplayed>
+	</game>
+	<game>
+		<path>./Street Fighter Collection (USA) (Disc 1) (Rev 1)/Street Fighter Collection (USA) (Disc 1) (Rev 1)/Street Fighter Collection (USA) (Disc 1) (Rev 1).cue</path>
+		<name>Street Fighter Collection (USA) (Disc 1) (Rev 1)</name>
+		<rating>0</rating>
+		<releasedate>19700101T000000</releasedate>
+		<hidden>true</hidden>
+		<playcount>1</playcount>
+		<lastplayed>20201108T142848</lastplayed>
+	</game>
+	<game>
+		<path>./Street Fighter Collection (USA) (Disc 2) (Rev 1)/Street Fighter Collection (USA) (Disc 2) (Rev 1)/Street Fighter Collection (USA) (Disc 2) (Rev 1).cue</path>
+		<name>Street Fighter Collection (USA) (Disc 2) (Rev 1)</name>
+		<playcount>1</playcount>
+		<lastplayed>20201108T143021</lastplayed>
+	</game>
+	<game>
+		<path>./Street Fighter Collection 2 (USA)/Street Fighter Collection 2 (USA)/Street Fighter Collection 2 (USA).cue</path>
+		<name>Street Fighter Collection 2 (USA)</name>
+		<rating>0</rating>
+		<releasedate>19700101T000000</releasedate>
+		<hidden>true</hidden>
+		<playcount>1</playcount>
+		<lastplayed>20201108T143035</lastplayed>
+	</game>
+	<game>
+		<path>./Street Fighter EX Plus Alpha (USA)/Street Fighter EX Plus Alpha (USA)/Street Fighter EX Plus Alpha (USA).cue</path>
+		<name>Street Fighter EX Plus Alpha (USA)</name>
+		<rating>0</rating>
+		<releasedate>19700101T000000</releasedate>
+		<hidden>true</hidden>
+		<playcount>1</playcount>
+		<lastplayed>20201108T143054</lastplayed>
+	</game>
+	<game>
+		<path>./Street Fighter EX2 Plus (USA)/Street Fighter EX2 Plus (USA)/Street Fighter EX2 Plus (USA).cue</path>
+		<name>Street Fighter EX2 Plus (USA)</name>
+		<rating>0</rating>
+		<releasedate>19700101T000000</releasedate>
+		<hidden>true</hidden>
+		<playcount>1</playcount>
+		<lastplayed>20201108T143244</lastplayed>
+	</game>
+	<game>
+		<path>./Tekken 3 (USA)/Tekken 3 (USA)/Tekken 3 (USA).cue</path>
+		<name>Tekken 3 (USA)</name>
+		<playcount>1</playcount>
+		<lastplayed>20201108T142756</lastplayed>
+	</game>
+	<game>
+		<path>./Xenogears (USA) (Disc 1)/Xenogears (USA) (Disc 1)/Xenogears (USA) (Disc 1).cue</path>
+		<name>Xenogears (USA) (Disc 1)</name>
+		<playcount>1</playcount>
+		<lastplayed>20201108T142646</lastplayed>
+	</game>
+	<game>
+		<path>./Breath of Fire III (USA)/Breath of Fire III (USA)/Breath of Fire III (USA).cue</path>
+		<name>Breath of Fire III (USA)</name>
+		<playcount>1</playcount>
+		<lastplayed>20201108T152309</lastplayed>
+	</game>
+	<game>
+		<path>./Breath of Fire IV (USA)/Breath of Fire IV (USA).cue</path>
+		<name>Breath of Fire IV (USA)</name>
+		<playcount>1</playcount>
+		<lastplayed>20201108T152550</lastplayed>
+	</game>
+	<game>
+		<path>./Chocobo's Dungeon 2 (USA)/Chocobo's Dungeon 2 (USA).cue</path>
+		<name>Chocobo's Dungeon 2 (USA)</name>
+		<playcount>1</playcount>
+		<lastplayed>20201108T153027</lastplayed>
+	</game>
+	<game>
+		<path>./Chrono Trigger (USA) (Rev 1)/Final Fantasy Chronicles - Chrono Trigger (USA) (Rev 1).cue</path>
+		<name>Final Fantasy Chronicles - Chrono Trigger (USA) (Rev 1)</name>
+		<playcount>1</playcount>
+		<lastplayed>20201108T153111</lastplayed>
+	</game>
+	<game>
+		<path>./Darkstalkers - The Night Warriors (USA)/Darkstalkers - The Night Warriors (USA).cue</path>
+		<name>Darkstalkers - The Night Warriors (USA)</name>
+		<favorite>true</favorite>
+		<playcount>1</playcount>
+		<lastplayed>20201108T171607</lastplayed>
+	</game>
+	<game>
+		<path>./Darkstalkers 3 (USA)/Darkstalkers 3 (USA).cue</path>
+		<name>Darkstalkers 3 (USA)</name>
+		<favorite>true</favorite>
+		<playcount>1</playcount>
+		<lastplayed>20201108T173153</lastplayed>
+	</game>
+	<game>
+		<path>./Dynasty Warriors (USA)/Dynasty Warriors (USA).cue</path>
+		<name>Dynasty Warriors (USA)</name>
+		<rating>0</rating>
+		<releasedate>19700101T000000</releasedate>
+		<hidden>true</hidden>
+	</game>
+	<game>
+		<path>./Nicktoons Racing (USA)/Nicktoons Racing (USA).cue</path>
+		<name>Nicktoons Racing (USA)</name>
+		<playcount>1</playcount>
+		<lastplayed>20201108T190710</lastplayed>
+	</game>
+	<game>
+		<path>./Strider (USA)/Strider (USA).cue</path>
+		<name>Strider (USA)</name>
+		<playcount>1</playcount>
+		<lastplayed>20201108T190905</lastplayed>
+	</game>
+	<game>
+		<path>./Strider 2 (USA)/Strider 2 (USA).cue</path>
+		<name>Strider 2 (USA)</name>
+		<playcount>1</playcount>
+		<lastplayed>20201108T191038</lastplayed>
+	</game>
+	<game>
+		<path>./Twisted Metal - Small Brawl (USA)/Twisted Metal - Small Brawl (USA).cue</path>
+		<name>Twisted Metal - Small Brawl (USA)</name>
+		<playcount>1</playcount>
+		<lastplayed>20201108T191238</lastplayed>
+	</game>
+	<game>
+		<path>./Pocket Fighter (USA)/Pocket Fighter (USA).cue</path>
+		<name>Pocket Fighter (USA)</name>
+		<favorite>true</favorite>
+		<playcount>1</playcount>
+		<lastplayed>20201108T191634</lastplayed>
+	</game>
+	<game>
+		<path>./Quake II (USA)/Quake II (USA).cue</path>
+		<name>Quake II (USA)</name>
+		<playcount>1</playcount>
+		<lastplayed>20201108T203618</lastplayed>
+	</game>
+	<game>
+		<path>./Disney's Lilo &amp; Stitch (USA)/Disney's Lilo &amp; Stitch (USA).cue</path>
+		<name>Disney's Lilo &amp; Stitch (USA)</name>
+		<rating>0</rating>
+		<releasedate>19700101T000000</releasedate>
+		<hidden>true</hidden>
+	</game>
+	<game>
+		<path>./Final Fantasy I &amp; II/Final Fantasy I &amp; II.cue</path>
+		<name>Final Fantasy I &amp; II</name>
+		<rating>0</rating>
+		<releasedate>19700101T000000</releasedate>
+		<playcount>2</playcount>
+		<lastplayed>20201109T140318</lastplayed>
+	</game>
+	<game>
+		<path>./Final Fantasy V (USA) (Rev 1)/Final Fantasy V (USA) (Rev 1).cue</path>
+		<name>Final Fantasy V (USA) (Rev 1)</name>
+		<playcount>1</playcount>
+		<lastplayed>20201109T140726</lastplayed>
+	</game>
+	<game>
+		<path>./Street Fighter Collection (USA) (Disc 1) (Rev 1)/Street Fighter Collection (USA) (Disc 1) (Rev 1).cue</path>
+		<name>Street Fighter Collection (USA) (Disc 1) (Rev 1)</name>
+		<playcount>2</playcount>
+		<lastplayed>20201110T003832</lastplayed>
+	</game>
+	<game>
+		<path>./Street Fighter Collection (USA) (Disc 2) (Rev 1)/Street Fighter Collection (USA) (Disc 2) (Rev 1).cue</path>
+		<name>Street Fighter Collection (USA) (Disc 2) (Rev 1)</name>
+		<playcount>1</playcount>
+		<lastplayed>20201110T003843</lastplayed>
+	</game>
+	<game>
+		<path>./Azure Dreams/Azure Dreams (USA).cue</path>
+		<name>Azure Dreams</name>
+		<desc>For years the Demon Tower has beckoned to you and, today, on your fifteenth birthday, you have come of age. Do you follow in your father's footsteps and enter the Tower or live a peaceful life in the town of Monsbaiya - it's time to choose.
+
+Take the role of an apprentice monster tamer.
+Search the magical tower for demon eggs to collect and grow.
+Tame the monsters you raise and sell them for profit or use them in your search for even more powerful demons.
+Spend you profits to build up the town of Monsbaiya - attracting new settlers and maybe a love interest or two.
+Search for the true ending - does it lie in the summit of the Tower or in a prosperous, well-planned town?
+
+Azure Dreams is a role playing game like no other - with a flexible story system, random Tower map generator, exploration, nurturing and management features - Konami's providing an adventure for all ages. Enter the dream...</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Azure Dreams (USA)-image.png</image>
+		<releasedate>19980630T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Adventure, Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Bomberman World/Bomberman World (USA).cue</path>
+		<name>Bomberman World</name>
+		<desc>This is Bomberman's first appearance on the PlayStation in North America. This version maintains the style of play of the 2D Bomberman games, but has a pseudo-3D look to it. Bomberman World features the one player story mode as found in all Bomberman games, but it most importantly has a five player battle mode. The multiplayer game has twelve different maps, along with three different modes of play.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Bomberman World (USA)-image.jpg</image>
+		<releasedate>19980922T000000</releasedate>
+		<developer>Hudson Entertainment, Inc.</developer>
+		<publisher>SCEA</publisher>
+		<genre>Action, Strategy</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./Brave Fencer Musashi/Brave Fencer Musashi (USA).cue</path>
+		<name>Brave Fencer Musashi</name>
+		<desc>150 years ago, the legendary warrior known as the Brave Fencer Musashi saved the kingdom of Allucaneet from the evil Wizard of Darkness. Now, his spirit is reincarnated in a young, rather short-tempered boy. Fillet, the princess of Allucaneet, summons the reluctant hero to the palace and gives him the powerful sword Fusion, which he needs to defeat the evil Thirstquencher Empire. It soon turns out that the Empire is after another legendary sword, Lumina, so Musashi's first task is to get it before the bad guys do!..
+
+Brave Fencer Musashi is an action game with strong RPG elements. Controlling Musashi, the player explores the pre-rendered backgrounds from third person view (similarly to Final Fantasy VII), visiting towns, talking to NPCs, etc. There is a day/night cycle in the game, which is manifested in the schedules of NPCs and/or monsters, as well as Musashi's fatigue level, which increases if he doesn't sleep enough. Musashi uses the two swords, Fusion and Lumina, to fight his enemies. The two swords have different properties: while Fusion behaves more or less like a traditional melee weapon, Lumina needs to be imbued with various elemental items in order to unleash powerful attacks.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Brave Fencer Musashi (USA)-image.jpg</image>
+		<releasedate>19981031T000000</releasedate>
+		<developer>Squaresoft</developer>
+		<publisher>Square EA</publisher>
+		<genre>Action, Adventure, Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Breath of Fire IV/Breath of Fire IV (USA).cue</path>
+		<name>Breath of Fire IV</name>
+		<desc>Stunning New and Improved Graphics - High Resolution, Animated Characters in Vast 3-D Worlds
+
+More Than 200 Spells to Learn and Master - Unlock New Magic From Opponents
+
+2 Epic Intertwining Storylines - Follow the Fates of Ryu and Fou-Lu - A Classic RPG Adventure!
+One Princess. Two War-Torn Lands.
+An Epic Quest for Peace
+
+After centuries of war, the two lands bordering an impenetrable swampland have finally reached an armistice. Mysteriously, the noble Princess Elena disappears somewhere near the war-ravaged front lines. Distraught, her sister Nina goes in search of the Princess alone and on her journey, meets a mysterious, young warrior named Ryu. Their destinies soon entwine. The next chapter in the epic tale of magic and mystery now unfolds. The fate of what lies ahead rests in your control.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Breath of Fire IV (USA)-image.jpg</image>
+		<releasedate>20000427T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Bugs Bunny &amp; Taz - Time Busters/Bugs Bunny &amp; Taz - Time Busters (USA) (En,Fr,Es).cue</path>
+		<name>Bugs Bunny &amp; Taz: Time Busters</name>
+		<desc>Daffy Duck has somehow managing to break Granny's time regulator, causing himself and the Time Gem that acts as the heart of the regulator to be pitched back into the shrouded annals of history. Well, if there are two people you know to call when it comes to times of crisis they would be Bugs Bunny and ... Taz? Well, regardless of the intelligence of the decision, Bugs and Taz will have to work together on this mission, traveling through four different eras in a quest to find Daffy, recover the Time Gem and set things back to the way they ought to be.
+
+Take control of the two famous Warner Bros. characters in Bugs Bunny &amp; Taz: Time Busters for the PlayStation. You will alternate between the wise-cracking rabbit and the Tasmanian eating machine in an attempt to rescue the Time Crystal and Daffy. To do so, they'll have to use the Time Regulator themselves, blasting back through four different eras to complete their quest. These time periods are The Aztec Era, The Viking Era, The Arabian Era and Transylvanian Era.
+
+Each character has his own set of moves, from Bugs' quickness to Taz's spinning fury. You can play each of the characters at any point, calling your friend to your location and switching between them, occasionally using them at nearly the same time to get past a given obstacle. If you don't want to play the game alone, you can even bring in a second friend to play the other character.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Bugs Bunny &amp; Taz - Time Busters (USA) (En,Fr,Es)-image.jpg</image>
+		<releasedate>20001124T000000</releasedate>
+		<developer>Artificial Mind &amp; Movement</developer>
+		<publisher>Infogrames Entertainment</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Bugs Bunny - Lost in Time/Bugs Bunny - Lost in Time (USA).cue</path>
+		<name>Bugs Bunny: Lost in Time</name>
+		<desc>The game stars popular cartoon character Bugs Bunny who finds and activates a time machine after taking a wrong turn at Albuquerque. He ends up in Nowhere, home of a sorcerer named Merlin Munroe ("Moyle" to Bugs, or "Merl" but in Bugs accent). Merlin then informs Bugs that he is lost in time and that he must travel through five different eras of time (spanning 21 levels in total) in order to collect clock symbols and golden carrots that will allow him to return to the present.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Bugs Bunny - Lost in Time (USA)-image.jpg</image>
+		<releasedate>19990531T000000</releasedate>
+		<developer>Behaviour Interactive</developer>
+		<publisher>Infogrames Entertainment</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./C - The Contra Adventure/C - The Contra Adventure (USA).cue</path>
+		<name>C: The Contra Adventure</name>
+		<desc>Mission Critical!
+
+You control Ray, the only surviving member of the elite Contra Force. Blast your way through 10 levels to stop the alien hordes from infesting the jungles of South America.
+
+Although equipped with a huge arsenal of weapons of destruction, including a shatter gun, grenades, rockets, super bombs, and an ever-present machine gun, Ray will have his hands full combating hoards of enemies such as snipers, alien soldiers, tanks, UFOs, and spiked slugs in 9 levels of running, jumping, climbing, and shooting 2D and 3D action.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/C - The Contra Adventure (USA)-image.jpg</image>
+		<releasedate>19980831T000000</releasedate>
+		<developer>Appaloosa Interactive</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Chocobo's Dungeon 2/Chocobo's Dungeon 2 (USA).cue</path>
+		<name>Chocobo's Dungeon 2</name>
+		<desc>FINAL FANTASY's Chocobo stars in an all-new adventure!
+
+In search of treasure, Chocobo and Mog find more than they expect. Joined by other FINAL FANTASY characters, Chocobo must defeat foes and unveil a friend's secrets while exploring a series of mysterious dungeons.
+
+Players can combine armor or weapons to form stronger resources in their quest. There are also magic feathers that can aid in your efforts, since they allow gamers to perform magic spells that have an impact on combat. Between your dungeon travels, players are able to explore villages to obtain valuable clues for the journey. In addition, players can use this time to update Chocobo's inventory.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Chocobo's Dungeon 2 (USA)-image.jpg</image>
+		<releasedate>19991130T000000</releasedate>
+		<developer>Squaresoft</developer>
+		<publisher>Squaresoft</publisher>
+		<genre>Action, Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Chrono Cross/Chrono Cross (USA) (Disc 1)/Chrono Cross (USA) (Disc 1).cue</path>
+		<name>Chrono Cross</name>
+		<desc>Chrono Cross features standard RPG gameplay with some differences. Players advance the game by controlling the protagonist Serge through the game's world, primarily by foot and boat. Navigation between areas is conducted via an overworld map, much like Chrono Trigger's, depicting the landscape from a scaled down overhead view. Around the island world are villages, outdoor areas, and dungeons, through which the player moves in three dimensions. Locations such as cities and forests are represented by more realistically scaled field maps, in which players can converse with locals to procure items and services, solve puzzles and challenges, or encounter enemies. Like Chrono Trigger, the game features no random encounters; enemies are openly visible on field maps or lie in wait to ambush the party</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Chrono Cross (USA) (Disc 1)-image.jpg</image>
+		<releasedate>19991118T000000</releasedate>
+		<developer>Squaresoft</developer>
+		<publisher>Squaresoft</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Chrono Cross/Chrono Cross (USA) (Disc 2)/Chrono Cross (USA) (Disc 2).cue</path>
+		<name>Chrono Cross</name>
+		<desc>Chrono Cross features standard RPG gameplay with some differences. Players advance the game by controlling the protagonist Serge through the game's world, primarily by foot and boat. Navigation between areas is conducted via an overworld map, much like Chrono Trigger's, depicting the landscape from a scaled down overhead view. Around the island world are villages, outdoor areas, and dungeons, through which the player moves in three dimensions. Locations such as cities and forests are represented by more realistically scaled field maps, in which players can converse with locals to procure items and services, solve puzzles and challenges, or encounter enemies. Like Chrono Trigger, the game features no random encounters; enemies are openly visible on field maps or lie in wait to ambush the party</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Chrono Cross (USA) (Disc 2)-image.jpg</image>
+		<releasedate>19991118T000000</releasedate>
+		<developer>Squaresoft</developer>
+		<publisher>Squaresoft</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Chrono Trigger/Chrono Trigger.cue</path>
+		<name>Chrono Trigger</name>
+		<desc>Chrono Trigger is a Japanese-style role-playing game in which the player takes control of a party consisting of up to seven characters, developing the combat skills of its members and managing their equipment. There are no random encounters in the game: all the enemies are either visibly walking on the field maps and can be avoided by the player, or are waiting to ambush the party. No enemy encounters occur when the player navigates characters over the world map.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Chrono Trigger-image.jpg</image>
+		<releasedate>19991111T000000</releasedate>
+		<developer>Squaresoft</developer>
+		<publisher>Squaresoft</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Civilization II/Civilization II (USA).cue</path>
+		<name>Sid Meier's Civilization II</name>
+		<desc>Starting out with just a single unit and knowledge of a small local area, your challenge is to guide your civilization into becoming the dominant force, either by conquering every other civilization or by sending a spaceship to Alpha Centauri.
+
+As you'd imagine, a lot of challenges come into such a task. You must locate cities so as to make use of food, construction and trade resources, which can be later improved by constructing irrigation, roads, mines, railroads, and farmland. Each city can construct one item at a time - civilian and military units, buildings or Wonders of the World (there are 28 of these across the different eras of the game, and each can be possessed by only one city). The buildings and wonders have different effects - most buildings and some wonders improve defenses, scientific research, trade or food output, but most wonders offer unique advantages that can be used to great strategic effect.
+
+There are over 100 scientific advancements in the game, and most require prerequisites before they can be researched. How quickly this happens depends on your scientific output, which must be traded off against financial and military concerns.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Civilization II (USA)-image.jpg</image>
+		<releasedate>19981231T000000</releasedate>
+		<developer>MicroProse Software, Inc.</developer>
+		<publisher>Activision</publisher>
+		<genre>Strategy</genre>
+	</game>
+	<game>
+		<path>./Contra - Legacy of War/Contra - Legacy of War (USA).cue</path>
+		<name>Contra: Legacy of War</name>
+		<desc>Aliens have infested the earth once more, and all is lost unless you step into the fray and take action against these otherworldly inhabitants. Contra: Legacy of War is a continuation of the long-running saga that started back on the Nintendo Entertainment System where a lone solider, with the choice of a partner (two-player mode) is faced with the pending threat of a total world domination by galactic creatures. You must battle your way level through hellish level in order to reach the final confrontation with the supreme entity. You wont be unprepared, however. There are numerous weapons and power-ups at your disposal, so, choose wisely soldier, the world is counting on you.
+
+Blast through six levels of running, jumping, and shooting action. Along the way, use classic CONTRA weapons like the spread gun, and few new ones, like the powerful flame-thrower and homing rounds.
+
+CONTRA gets a new look with 3D environments and character models. To make the action pop out of the screen, put on the special glasses included in the package and play in the 3D mode.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Contra - Legacy of War (USA)-image.jpg</image>
+		<releasedate>19961129T000000</releasedate>
+		<developer>Appaloosa Interactive</developer>
+		<publisher>Konami</publisher>
+		<genre>Action, Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Crash Bandicoot/Crash Bandicoot (USA).cue</path>
+		<name>Crash Bandicoot</name>
+		<desc>Crash Bandicoot, a heroic, agile and mutated marsupial who must save his girlfriend Tawna. The main antagonist is Doctor Neo Cortex, a mad scientist who was often ridiculed by the scientific community for his outlandish (but nearly workable) theories and is now motivated to prove his tormentors wrong by creating a mutated army of beasts to conquer the world. Cortex's henchman is Doctor Nitrus Brio, the insecure creator of the Evolvo-Ray. Crash's love interest is Tawna, a female bandicoot about to undergo experimentation by the Doctors. Helping Crash in his journey is an ancient witch doctor spirit named Aku Aku, who has scattered masks of himself throughout the islands to grant Crash special powers. The boss characters of the game include Papu Papu, the obese and short-tempered chief of the native village; Ripper Roo, a demented kangaroo with razor-sharp toenails; Koala Kong, a muscular but unintelligent koala; and Pinstripe Potoroo, the tommy gun-wielding bodyguard of Doctor Cortex.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Crash Bandicoot (USA)-image.jpg</image>
+		<releasedate>19960831T000000</releasedate>
+		<developer>Naughty Dog Software</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Adventure, Platform</genre>
+	</game>
+	<game>
+		<path>./Crash Bandicoot 2 - Cortex Strikes Back/Crash Bandicoot 2 - Cortex Strikes Back (USA).cue</path>
+		<name>Crash Bandicoot 2: Cortex Strikes Back</name>
+		<desc>The evil Dr. Neo Cortex is back with a vengeance .. this time ... to save the world? And he's asking for helo from his arch-nemesis, Crash Bandicoot? Or is it just some conniving plan to lure Crash into a deadly trap for his own evil bidding? Find out as Crash takes on a whole new adventure that's out of this world!</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Crash Bandicoot 2 - Cortex Strikes Back (USA)-image.jpg</image>
+		<releasedate>19971031T000000</releasedate>
+		<developer>Naughty Dog Software</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Action, Adventure</genre>
+	</game>
+	<game>
+		<path>./Cubix Robots for Everyone - Race 'n Robots/Cubix Robots for Everyone - Race 'n Robots (USA).cue</path>
+		<name>Cubix: Robots For Everyone - Race 'N Robots</name>
+		<desc>Teenage Connor loves robots -- almost as much as his father despises them. But when Connor's father moves them to Bubble Town, it's a dream come true. Bubble Town is the epicenter of robot culture, and there are as many robots as people there. Connor quickly makes friends and manages to repair what had been considered an unfixable robot named Cubix. Connor, Cubix and his new friend Abbie work together to thwart the schemes of a mad scientist who has run off with a stolen robot</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Cubix Robots for Everyone - Race 'n Robots (USA)-image.jpg</image>
+		<releasedate>20010811T000000</releasedate>
+		<developer>3DO</developer>
+		<publisher>3DO</publisher>
+		<genre>Action, Adventure</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./Darkstalkers 3/Darkstalkers 3 (USA).cue</path>
+		<name>Darkstalkers 3</name>
+		<desc>This is the 3rd in the Darkstalkers series (the 2nd, Night Warriors: Darkstalkers' Revenge, was published only for the Sega Saturn in the US.) It plays much the same as the first, but features better animation, more playable characters, and a deeper storyline.
+
+Jedah, the "Lord of Vampire", has summoned all of the Night Warriors to his realm to be assimilated into his being. Of course, this serves as a great excuse to have more one-on-one fights...
+
+Play as Jedah, B. B. Hood, Q-Bee, Lilith, Demitri, Morrigan, Anakaris, Victor, L. Raptor, Hsien-Ko, J. Talbain, Felicia, Rikuo, Sasquatch, Bishamon, Donovan, Pyron or Huitzil, and conquer the enemy.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Darkstalkers 3 (USA)-image.jpg</image>
+		<releasedate>19981118T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Diablo/Diablo (USA) (En,Fr,De,Sv).cue</path>
+		<name>Diablo</name>
+		<desc>Set in the fictional Kingdom of Khanduras, located in the world of Sanctuary, Diablo has the player take control of a lone hero battling to rid the world of Diablo, the Lord of Terror. Beneath the town of Tristram, the player journeys through sixteen dungeon levels, ultimately entering Hell itself in order to face Diablo.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Diablo (USA) (En,Fr,De,Sv)-image.jpg</image>
+		<releasedate>19980331T000000</releasedate>
+		<developer>Blizzard</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Action, Role-Playing</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Digimon World/Digimon World (USA).cue</path>
+		<name>Digimon World</name>
+		<desc>The PlayStation's answer to the Pokémon series phenomenon from Nintendo, Digimon World lets you raise customized Digimon monsters, training them for battle against other Digimon found in Digimon World. Most Digimon originally called File Island home, but for some unknown reason over time they lost the ability to speak and now live a nomadic lifestyle.
+
+It is your goal to roam the dangerous countryside with your trained Digimon battling other lost Digimon. A victorious battle permits them to return home to the abandoned File Island. The main one-player mode on Digimon World is where the mysterious story unfolds as you raise your immature Digimon. Digimon are dependant on you for happiness, food, and parental guidance to guide their behavior (similar to the popular Tamagotchi toy).
+
+Digimon mature while "working out" in the training area and as you battle various Digimon in the surrounding areas. Your pet Digimon can compete against friends' Digimon in Battle Mode that provides an arena for head-to-head combat. A loss against a friend can provide plenty of initiative to return to the main mode to strengthen your Digimon, but you'll need one block of free space on the memory card to save your progress.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Digimon World (USA)-image.jpg</image>
+		<releasedate>20000523T000000</releasedate>
+		<developer>Flying Tiger Entertainment</developer>
+		<publisher>Bandai Co., Ltd.</publisher>
+		<genre>Adventure</genre>
+	</game>
+	<game>
+		<path>./Disney's Lilo &amp; Stitch/Disney's Lilo &amp; Stitch (USA).cue</path>
+		<name>Disney's Lilo &amp; Stitch</name>
+		<desc>Lilo, a young Hawaiian girl, and Stitch, a multi-limbed alien, are the stars of the aptly titled Lilo &amp; Stitch -- a platform romp based upon the Disney movie of the same name. Following much the same formula as other 3D platformers, the game puts the two unlikely protagonists through a series of levels in and around the island of Hawaii. Together they will discover the true meaning of "Ohana" (Hawaiian for family). The gameplay, patterned closely upon the system's other platform star, Crash Bandicoot, sees players taking control of one of the two characters at a time as they navigate 2D side scrolling levels as well as linear 3D portions of the world.
+
+Regardless of the currently active character, the objectives remain much the same, as the two pint-sized heroes break the pots and crates in their path and collect coffee mugs, flowers, leaves, and other such objects littered about the island. Aside from being able to jump, each character possesses a unique attack, allowing them to defend themselves from the throngs of indigenous bugs, lizards, and porcupines that inhabit the island. A handful of mini-games, such as a timed race against an opponent, are interspersed between the platform-jumping portions of the game. Throughout the quest, players will encounter familiar characters from the movie, including Jumba Jookiba, Pleakley, and Captain Gantu. As an added bonus, hidden photos and movie clips can be uncovered during play.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Disney's Lilo &amp; Stitch (USA)-image.jpg</image>
+		<releasedate>20020601T000000</releasedate>
+		<developer>Blitz Games</developer>
+		<publisher>Disney Interactive</publisher>
+		<genre>Adventure, Platform</genre>
+	</game>
+	<game>
+		<path>./Disney's Treasure Planet/Disney's Treasure Planet (USA).cue</path>
+		<name>Disney's Treasure Planet</name>
+		<desc>Get ready for an epic adventure of bloodthirsty pirates and buried treasure. Treasure Planet brings Robert Louis Stevenson's Treasure Island not just right up-to-date but into the future--one in which the spaceship Legacy is overrun by mutinous pirates, led by the cyborg John Silver. You'll take on the role of Jim as he solar-surfs and performs action moves with the help of Morph, who can transform into various items. Embark on a voyage through 10 levels, minigames, and boss challenges as you view original artwork, behind-the-scenes game footage, and stored movie clips.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Disney's Treasure Planet (USA)-image.jpg</image>
+		<releasedate>20021111T000000</releasedate>
+		<developer>Magenta Software Ltd.</developer>
+		<publisher>SCEA</publisher>
+		<genre>Action, Platform</genre>
+	</game>
+	<game>
+		<path>./Doom/Doom (USA) (Rev 1).cue</path>
+		<name>Doom</name>
+		<desc>All Hell's Breaking Loose!
+This is it! The gaming addiction that's been played by an estimated 10 million fanatics on the PC. And now it's out in a sweat-soaked, pulse-pounding, adrenaline-wrenching version for the PlayStation game console.
+It's DOOM. The Custom PlayStation Edition. Enhanced to take full advantage of the PlayStation's cutting-edge technology. With over 50 levels of madness and mayhem from ULTIMATE DOOM and DOOM II. Plus unique, new levels of destruction that make all hell break loose on your screen!</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Doom (USA) (Rev 1)-image.jpg</image>
+		<releasedate>19951116T000000</releasedate>
+		<developer>GT Interactive</developer>
+		<publisher>Williams Electronic Games, Inc.</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./Dragon Ball GT - Final Bout/Dragon Ball GT - Final Bout (USA).cue</path>
+		<name>Dragon Ball GT: Final Bout</name>
+		<desc>After achieving cult hit status around the globe, Dragon Ball GT has finally arrived in the U.S. This polygon rendered fighting game features 10 of the best warriors from the animated television series going head-to-head in a no-holds-barred tournament. Each player has devastating finishing moves, including the infamous "Meteor Smash", which can be countered by an opponent, resulting in some of the most incredible power struggles you'll ever see! There are also 8 playable hidden characters and a practice mode that lets you build up the skills of each fighter. Now, you can find out what gamers around the world already know -- Dragon Ball GT is the ultimate fighting game!</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Dragon Ball GT - Final Bout (USA)-image.jpg</image>
+		<releasedate>19970821T000000</releasedate>
+		<developer>Tose Co., Ltd.</developer>
+		<publisher>Bandai Co., Ltd.</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Dragon Ball Z - Ultimate Battle 22/Dragon Ball Z - Ultimate Battle 22 (USA).cue</path>
+		<name>Dragon Ball Z: Ultimate Battle 22</name>
+		<desc>The Japanese blockbuster is here! An international smash hit, this vintage Dragon Ball Z fighter features 22 famed DBZ warriors for you to recreate epic, one-on-one Dragon Ball Z battles. Easy to play but tough to master, this long-awaited classic offers matchups from the Buu, Frieza and Android Sagas. Experience the DBZ game that has thrilled fans all over the world!</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Dragon Ball Z - Ultimate Battle 22 (USA)-image.jpg</image>
+		<releasedate>20030325T000000</releasedate>
+		<developer>Tose Co., Ltd.</developer>
+		<publisher>Infogrames Entertainment</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Dragon Warrior VII/Dragon Warrior VII (USA) (Disc 1)/Dragon Warrior VII (USA) (Disc 1).cue</path>
+		<name>Dragon Warrior VII</name>
+		<desc>The story begins when the father of the protagonist brings home a map fragment from a fishing trip; this map suggests to the protagonist and his friend that the world had, at some point in its past, many continents, though now there is only the small island of Estard. The two of them find a way to travel back to the past, when the continents still existed. The continents are facing serious problems that threaten their existence; the protagonist and his growing party work to resolve the problems, and when they do, the continents reappear in the present. When all the continents are finally restored, the Demon Lord, who is responsible for the loss of many of the continents, appears and seals away many of the continents again. He then raises up his Dark Palace, where the party face the Demon Lord in a final showdown.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Dragon Warrior VII (USA) (Disc 1)-image.jpg</image>
+		<releasedate>20011101T000000</releasedate>
+		<developer>Enix</developer>
+		<publisher>Enix Corporation</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Dragon Warrior VII/Dragon Warrior VII (USA) (Disc 2)/Dragon Warrior VII (USA) (Disc 2).cue</path>
+		<name>Dragon Warrior VII</name>
+		<desc>The story begins when the father of the protagonist brings home a map fragment from a fishing trip; this map suggests to the protagonist and his friend that the world had, at some point in its past, many continents, though now there is only the small island of Estard. The two of them find a way to travel back to the past, when the continents still existed. The continents are facing serious problems that threaten their existence; the protagonist and his growing party work to resolve the problems, and when they do, the continents reappear in the present. When all the continents are finally restored, the Demon Lord, who is responsible for the loss of many of the continents, appears and seals away many of the continents again. He then raises up his Dark Palace, where the party face the Demon Lord in a final showdown.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Dragon Warrior VII (USA) (Disc 2)-image.jpg</image>
+		<releasedate>20011101T000000</releasedate>
+		<developer>Enix</developer>
+		<publisher>Enix Corporation</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Duke Nukem - Land of the Babes/Duke Nukem - Land of the Babes (USA).cue</path>
+		<name>Duke Nukem: Land of the Babes</name>
+		<desc>In the distant future, vicious aliens rule the Earth. Only bodacious babes survive, enslaved by the hostile alien overlords. The women and the world need a hero. And there's only one man big enough for the job! Duke Nukem is back, and he's ready to settle the score!
+
+-21 action filled mission to hunt and destroy alien life
+-New weapons arsenal including: sniper riffle, flame thrower, grenade launcher and many more.
+-High tech gadgets including jetpack and infrared goggles
+-Numerous 3D cut-scenes to die for
+-In Your Face music by Static-Xtches.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Duke Nukem - Land of the Babes (USA)-image.jpg</image>
+		<releasedate>20000919T000000</releasedate>
+		<developer>n-Space, Inc</developer>
+		<publisher>GT Interactive Software Corp.</publisher>
+		<genre>Action, Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Duke Nukem - Time to Kill/Duke Nukem - Time to Kill (USA).cue</path>
+		<name>Duke Nukem: Time to Kill</name>
+		<desc>LET THEM EAT LEAD!
+
+Travel through time in an all-new Duke Nukem frag-fest that gives you more of what you crave! More Duke attitude! More hardcore action! More exploration! More shooter mayhem!</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Duke Nukem - Time to Kill (USA)-image.jpg</image>
+		<releasedate>19980930T000000</releasedate>
+		<developer>n-Space, Inc</developer>
+		<publisher>GT Interactive Software Corp.</publisher>
+		<genre>Action, Adventure, Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Duke Nukem - Total Meltdown/Duke Nukem - Total Meltdown (USA).cue</path>
+		<name>Duke Nukem: Total Meltdown</name>
+		<desc>Aliens have landed in futuristic Los Angeles and it's up to the Duke to bring the pain and show them the door. After the initial entries of side-scrolling platform games, Duke Nukem 3D introduces a first-person perspective to the series and turns the game into a full-fledged shooter with 2.5D graphics.
+
+Duke's arsenal includes pistols, pipe bombs, laser trip mines, Nordenfelt guns, a chain gun and various rocket launchers, but also his mighty foot to kick enemies. The game sports a high level of interactivity. Many objects in the environment can be broken or interacted with, such as pool tables, arcade machines, glass, light switches and security cameras. The protagonist is also able to hand strippers a dollars to have them remove their top.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Duke Nukem - Total Meltdown (USA)-image.jpg</image>
+		<releasedate>19970930T000000</releasedate>
+		<developer>3D Realms Entertainment</developer>
+		<publisher>GT Interactive Software Corp.</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./Dynasty Warriors/Dynasty Warriors (USA).cue</path>
+		<name>Dynasty Warriors</name>
+		<desc>Dynasty Warriors -- the Fighting Game with Real History behind it!
+
+Based on the historical Romance Of The Three Kingdoms and the legendary warlords who fought to unite 3rd century China. Dynasty Warriors takes you to a realm where warriors were as cunning as they were courageous.Master the dynamic gameplay, Wisely elaborate offensive strikes with precisely timed defensive counter attacks. Then unleash the killer combination to become Musou -- The Warrior Unequaled.
+
+Features:
+* First Strategy-To-Fighting Game Crossover
+* Fast Gameplay -- ultra smooth 60 frames per second animation.
+* 13 Historical characters (Plus Hidden Characters), recreated in shaded &amp; texture mapped 3D polygons.
+* Strategic Combat -- unique defensive moves including multiple blocks, dodge, &amp; parry are as important as offensive moves.
+* Traditional Chinese weapons dictate style, speed, range &amp; accuracy of attack.
+* Dynamic storyline unfolds on legendary battlefields.
+* Cinematic character introductions &amp; victorious endings.
+* 7 exciting game modes</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Dynasty Warriors (USA)-image.jpg</image>
+		<releasedate>19970630T000000</releasedate>
+		<developer>Omega Force</developer>
+		<publisher>Koei Co., Ltd.</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Eternal Eyes/Eternal Eyes (USA).cue</path>
+		<name>Eternal Eyes</name>
+		<desc>The Mappets have shielded the land of Gross from war and destruction for close to 1,000 years. But the evil General Vorless has stolen the Soul Sword and is using it to destroy the Mappets. With the Mappets out of the way, he hopes to awaken Luna, the Goddess of Destruction, and rule the land unopposed.
+
+Luca and his sister Elena are two orphans, living in a small house in the kingdom of Gross. They have two good friends - Mouse and Nicol. One day, while exploring a local cave, the four youths find a mysterious jewel. Later, they travel to the city of Goondocks, where they find a similar jewel - along with a note left to them by Luke's and Elena's parents. They learn that their parents belonged to an ancient race named "Eternal Eyes" - people who could control inanimate dolls called Mappets. Now the four heroes have to learn the power of controlling Mappets, and to stop a villain from resurrecting the Goddess of Destruction.
+
+The heart and soul of the game is battle, with all of the battles taking place on 3D isometric fields inhabited by 2D sprites. Every character has unique skills that must be employed during the fight to succeed. Luckily, there are also 150 Mappets that can be collected to help give you an edge in combat. Play ETERNAL EYES and help Luca save the world and the Mappets.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Eternal Eyes (USA)-image.jpg</image>
+		<releasedate>20011128T000000</releasedate>
+		<developer>TamTam, Alpha Unit</developer>
+		<publisher>Crave Entertainment</publisher>
+		<genre>Role-Playing, Strategy</genre>
+	</game>
+	<game>
+		<path>./Final Doom/Final Doom (USA).cue</path>
+		<name>Final Doom</name>
+		<desc>Final DOOM for PlayStation is a compilation of 30 levels from the PC version of Final DOOM and the Master Levels.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Final Doom (USA)-image.jpg</image>
+		<releasedate>19961001T000000</releasedate>
+		<developer>Williams Entertainment</developer>
+		<publisher>Midway Games</publisher>
+		<genre>Action, Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Final Fantasy IX/Final Fantasy IX (USA) (Disc 1) (Rev 1)/Final Fantasy IX (USA) (Disc 1) (Rev 1).cue</path>
+		<name>Final Fantasy IX</name>
+		<desc>A band of thieves are hired to kidnap Princess Garnet of Alexandria. After they succeed, they end up becoming her guardians. And while protecting the fair Princess from a powerful evil...they hold the fate of the world in their hands. Play along on the epic journey filled with danger, mystery, war and love.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Final Fantasy IX (USA) (Disc 1) (Rev 1)-image.jpg</image>
+		<releasedate>20001113T000000</releasedate>
+		<developer>Squaresoft</developer>
+		<publisher>Squaresoft</publisher>
+		<genre>Role-Playing</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Final Fantasy IX/Final Fantasy IX (USA) (Disc 2) (Rev 1)/Final Fantasy IX (USA) (Disc 2) (Rev 1).cue</path>
+		<name>Final Fantasy IX</name>
+		<desc>A band of thieves are hired to kidnap Princess Garnet of Alexandria. After they succeed, they end up becoming her guardians. And while protecting the fair Princess from a powerful evil...they hold the fate of the world in their hands. Play along on the epic journey filled with danger, mystery, war and love.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Final Fantasy IX (USA) (Disc 2) (Rev 1)-image.jpg</image>
+		<releasedate>20001113T000000</releasedate>
+		<developer>Squaresoft</developer>
+		<publisher>Squaresoft</publisher>
+		<genre>Role-Playing</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Final Fantasy IX/Final Fantasy IX (USA) (Disc 3) (Rev 1)/Final Fantasy IX (USA) (Disc 3) (Rev 1).cue</path>
+		<name>Final Fantasy IX</name>
+		<desc>A band of thieves are hired to kidnap Princess Garnet of Alexandria. After they succeed, they end up becoming her guardians. And while protecting the fair Princess from a powerful evil...they hold the fate of the world in their hands. Play along on the epic journey filled with danger, mystery, war and love.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Final Fantasy IX (USA) (Disc 3) (Rev 1)-image.jpg</image>
+		<releasedate>20001113T000000</releasedate>
+		<developer>Squaresoft</developer>
+		<publisher>Squaresoft</publisher>
+		<genre>Role-Playing</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Final Fantasy IX/Final Fantasy IX (USA) (Disc 4) (Rev 1)/Final Fantasy IX (USA) (Disc 4) (Rev 1).cue</path>
+		<name>Final Fantasy IX</name>
+		<desc>A band of thieves are hired to kidnap Princess Garnet of Alexandria. After they succeed, they end up becoming her guardians. And while protecting the fair Princess from a powerful evil...they hold the fate of the world in their hands. Play along on the epic journey filled with danger, mystery, war and love.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Final Fantasy IX (USA) (Disc 4) (Rev 1)-image.jpg</image>
+		<releasedate>20001113T000000</releasedate>
+		<developer>Squaresoft</developer>
+		<publisher>Squaresoft</publisher>
+		<genre>Role-Playing</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Final Fantasy Tactics/Final Fantasy Tactics (USA).cue</path>
+		<name>Final Fantasy Tactics</name>
+		<desc>Lead epic battles in a new Final Fantasy world.
+
+Betrayal and darker dealings await in Square Soft's game of war.
+
+Fight hundreds of battles across dangerous 3D terrain as an ancient blood feud awakens a deadlier foe.
+
+* Command knights, mages, ninjas and more
+* Based on Final Fantasy characters and magic
+* 19 character classes, 400 abilities
+* Deep customization options
+* In-game interactive manual
+* Only on PlayStation.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Final Fantasy Tactics (USA)-image.png</image>
+		<releasedate>19980128T000000</releasedate>
+		<developer>Squaresoft</developer>
+		<publisher>Squaresoft</publisher>
+		<genre>Role-Playing, Strategy</genre>
+	</game>
+	<game>
+		<path>./Final Fantasy V/Final Fantasy V (USA) (Rev 1).cue</path>
+		<name>Final Fantasy V</name>
+		<desc>The game begins as a wanderer named Bartz investigates a fallen meteor. There, he encounters several characters, one of whom reveals the danger facing the four Crystals that control the world's elements. These Crystals act as a seal on Exdeath, an evil sorcerer. Bartz and his party must keep the Crystals from being exploited by Exdeath's influence and prevent his resurgence.
+Final Fantasy V has been praised for the freedom of customization that the player has over the characters, achieved through the greatly expanded Job System.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Final Fantasy V (USA) (Rev 1)-image.jpg</image>
+		<releasedate>19980319T000000</releasedate>
+		<developer>Squaresoft</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Final Fantasy VI/Final Fantasy VI (USA) (Rev 1).cue</path>
+		<name>Final Fantasy VI PAL</name>
+		<desc>Final Fantasy VI is a role-playing video game. It was released in 1994 for the Super Nintendo Entertainment System as a part of the Final Fantasy series. The game was known as Final Fantasy III when it was first released in North America, as the original Final Fantasy III had not been released outside of Japan at the time. However, later localizations used the original title.
+
+Set in a fantasy world with a technology level equivalent to that of the Second Industrial Revolution, the game's story focuses on a group of rebels as they seek to overthrow an imperial dictatorship. The game features fourteen permanent playable characters, the most of any game in the main series. Final Fantasy VI was the first game in the series to be directed by someone other than producer and series creator Hironobu Sakaguchi; the role was filled instead by Yoshinori Kitase and Hiroyuki Ito. Yoshitaka Amano, a long-time contributor to the Final Fantasy series, returned as the image and character designer, while regular composer Nobuo Uematsu wrote the game's score, which has been released on several soundtrack albums.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Final Fantasy VI (USA) (Rev 1)-image.jpg</image>
+		<releasedate>20020301T000000</releasedate>
+		<developer>Squaresoft</developer>
+		<publisher>Squaresoft</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Final Fantasy VII/Final Fantasy VII (USA).m3u</path>
+		<name>Final Fantasy VII</name>
+		<desc>Set in a dystopian world, Final Fantasy VII's story centers on mercenary Cloud Strife who joins with several others to stop the megacorporation Shinra, which is draining the life of the planet to use as an energy source. As the story progresses, the situation escalates and Cloud and his allies face Sephiroth, the game's main antagonist.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Final Fantasy VII (USA)-image.jpg</image>
+		<releasedate>19970907T000000</releasedate>
+		<developer>Squaresoft</developer>
+		<publisher>Squaresoft</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Final Fantasy VII/Final Fantasy VII (USA) (Disc 1).CD1.cue</path>
+		<name>Final Fantasy VII</name>
+		<desc>Set in a dystopian world, Final Fantasy VII's story centers on mercenary Cloud Strife who joins with several others to stop the megacorporation Shinra, which is draining the life of the planet to use as an energy source. As the story progresses, the situation escalates and Cloud and his allies face Sephiroth, the game's main antagonist.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Final Fantasy VII (USA) (Disc 1).CD1-image.png</image>
+		<rating>0.8</rating>
+		<releasedate>19970815T000000</releasedate>
+		<developer>Squaresoft</developer>
+		<publisher>Squaresoft</publisher>
+		<genre>Role playing games</genre>
+	</game>
+	<game>
+		<path>./Final Fantasy VII/Final Fantasy VII (USA) (Disc 2).CD2.cue</path>
+		<name>Final Fantasy VII</name>
+		<desc>Set in a dystopian world, Final Fantasy VII's story centers on mercenary Cloud Strife who joins with several others to stop the megacorporation Shinra, which is draining the life of the planet to use as an energy source. As the story progresses, the situation escalates and Cloud and his allies face Sephiroth, the game's main antagonist.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Final Fantasy VII (USA) (Disc 2).CD2-image.png</image>
+		<rating>0.8</rating>
+		<releasedate>19970815T000000</releasedate>
+		<developer>Squaresoft</developer>
+		<publisher>Squaresoft</publisher>
+		<genre>Role playing games</genre>
+	</game>
+	<game>
+		<path>./Final Fantasy VII/Final Fantasy VII (USA) (Disc 3).CD3.cue</path>
+		<name>Final Fantasy VII</name>
+		<desc>Set in a dystopian world, Final Fantasy VII's story centers on mercenary Cloud Strife who joins with several others to stop the megacorporation Shinra, which is draining the life of the planet to use as an energy source. As the story progresses, the situation escalates and Cloud and his allies face Sephiroth, the game's main antagonist.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Final Fantasy VII (USA) (Disc 3).CD3-image.png</image>
+		<rating>0.8</rating>
+		<releasedate>19970815T000000</releasedate>
+		<developer>Squaresoft</developer>
+		<publisher>Squaresoft</publisher>
+		<genre>Role playing games</genre>
+	</game>
+	<game>
+		<path>./Final Fantasy VIII/Final Fantasy VIII (USA) (Disc 1)/Final Fantasy VIII (USA) (Disc 1).cue</path>
+		<name>Final Fantasy VIII</name>
+		<desc>A member of an elite military team, Squall is forced into a conflict beyond imagination.  To survive, he must contend with a desperate rival, a powerful sorceress, and his own mysterious dreams.
+
+* Realistic, detailed characters and background graphics enhanced by a breathtaking musical score
+* An epic story based on the theme of love, set in a massive new world
+* New Junction System allows characters to be customized with powerful magic spells drawn from enemies
+* Nearly an hour of stunning motion-captured CG cinemas seamlessly integrated into gameplay</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Final Fantasy VIII (USA) (Disc 1)-image.jpg</image>
+		<releasedate>19990211T000000</releasedate>
+		<developer>Squaresoft</developer>
+		<publisher>Squaresoft</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Final Fantasy VIII/Final Fantasy VIII (USA) (Disc 2)/Final Fantasy VIII (USA) (Disc 2).cue</path>
+		<name>Final Fantasy VIII</name>
+		<desc>A member of an elite military team, Squall is forced into a conflict beyond imagination.  To survive, he must contend with a desperate rival, a powerful sorceress, and his own mysterious dreams.
+
+* Realistic, detailed characters and background graphics enhanced by a breathtaking musical score
+* An epic story based on the theme of love, set in a massive new world
+* New Junction System allows characters to be customized with powerful magic spells drawn from enemies
+* Nearly an hour of stunning motion-captured CG cinemas seamlessly integrated into gameplay</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Final Fantasy VIII (USA) (Disc 2)-image.jpg</image>
+		<releasedate>19990211T000000</releasedate>
+		<developer>Squaresoft</developer>
+		<publisher>Squaresoft</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Final Fantasy VIII/Final Fantasy VIII (USA) (Disc 3)/Final Fantasy VIII (USA) (Disc 3).cue</path>
+		<name>Final Fantasy VIII</name>
+		<desc>A member of an elite military team, Squall is forced into a conflict beyond imagination.  To survive, he must contend with a desperate rival, a powerful sorceress, and his own mysterious dreams.
+
+* Realistic, detailed characters and background graphics enhanced by a breathtaking musical score
+* An epic story based on the theme of love, set in a massive new world
+* New Junction System allows characters to be customized with powerful magic spells drawn from enemies
+* Nearly an hour of stunning motion-captured CG cinemas seamlessly integrated into gameplay</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Final Fantasy VIII (USA) (Disc 3)-image.jpg</image>
+		<releasedate>19990211T000000</releasedate>
+		<developer>Squaresoft</developer>
+		<publisher>Squaresoft</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Final Fantasy VIII/Final Fantasy VIII (USA) (Disc 4)/Final Fantasy VIII (USA) (Disc 4).cue</path>
+		<name>Final Fantasy VIII</name>
+		<desc>A member of an elite military team, Squall is forced into a conflict beyond imagination.  To survive, he must contend with a desperate rival, a powerful sorceress, and his own mysterious dreams.
+
+* Realistic, detailed characters and background graphics enhanced by a breathtaking musical score
+* An epic story based on the theme of love, set in a massive new world
+* New Junction System allows characters to be customized with powerful magic spells drawn from enemies
+* Nearly an hour of stunning motion-captured CG cinemas seamlessly integrated into gameplay</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Final Fantasy VIII (USA) (Disc 4)-image.jpg</image>
+		<releasedate>19990211T000000</releasedate>
+		<developer>Squaresoft</developer>
+		<publisher>Squaresoft</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Frogger/Frogger (USA).cue</path>
+		<name>Frogger</name>
+		<desc>Revived...Rebuilt...and Ready to Hop! Frogger is back, and he's armed with all new moves, power croak, heat seeking tongue and super jump! He's the coolest amphibian in town, but now he's lost in strange worlds filled with hungry enemies and dangerous terrain.
+
+You'll need quick reflexes as you help Frogger navigate obstacles like polluted ponds, hostile deserts, dark caves and outsmart deadly new enemies such as crocodiles, lawnmowers, turtles, and snakes. Frogger offers the original, addictive play pattern, complete with 9 new worlds and dozens of challenging new levels. with 3D graphics, original music scores, and fun sound effects, you can play solo- or multi-player with up to 4 players through specially designed multi-frog world maps featuring quad split screen action.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Frogger (USA)-image.jpg</image>
+		<releasedate>19970930T000000</releasedate>
+		<developer>Millennium Interactive Ltd</developer>
+		<publisher>Hasbro Interactive, Inc.</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Frogger 2 - Swampy's Revenge/Frogger 2 - Swampy's Revenge (USA).cue</path>
+		<name>Frogger 2: Swampy's Revenge</name>
+		<desc>Because of his envy of Frogger's achievements and the attention he receives, Swampy the Crocodile hatches a devious scheme to invade his pond and kidnap Lillie Frog's brothers and sisters. What a vile crocodile! Assuming the role of the vengeful frog, you must thwart the evil crocodile and save the innocent tadpoles from harm.
+
+Divided into various interactive 3D worlds, Frogger's mission spans over 30 levels crammed with life threatening obstacles and monstrous cronies blocking the path to victory. Fortunately, the frog has been endowed with supreme powers including regular hops and super-hops, the ability to float over water and land, a Power Croak for calling missing tadpoles and a bug-seeking tongue.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Frogger 2 - Swampy's Revenge (USA)-image.jpg</image>
+		<releasedate>20001010T000000</releasedate>
+		<developer>Interactive Studios</developer>
+		<publisher>Hasbro Interactive, Inc.</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Ghost in the Shell/Ghost in the Shell (USA).cue</path>
+		<name>Ghost in the Shell</name>
+		<desc>3rd person action game based on the Ghost in the Shell original comic by Masamune Shirow rather than Mamoru Oshi's film. You take the role of a new member in Kusanagi's anti-terrorist squad and get to accomplish missions on your Fuchikoma, (a spider-like AI equipped tank) thanks to which you can jump, stick to walls and ceilings and shoot the hell out of terrorists, all from a 1st or 3rd person point of view. As the missions proceed a plot starts to surface concerning a giant skyscrapper, the Aereopolis II, which will eventually be solved after 12 single player missions. Other features include a training sequence, 3D stereo sound and wide anamorphic screen mode for 16x9 TVs.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Ghost in the Shell (USA)-image.jpg</image>
+		<releasedate>19971031T000000</releasedate>
+		<developer>Exact</developer>
+		<publisher>THQ</publisher>
+		<genre>Action, Shooter</genre>
+	</game>
+	<game>
+		<path>./Gran Turismo/Gran Turismo (USA) (v1.1).cue</path>
+		<name>Gran Turismo</name>
+		<desc>Gran Turismo is fundamentally based on the racing simulator genre. The player must maneuver an automobile to compete against artificially intelligent drivers on various race tracks. The game uses two different modes: Arcade Mode and Simulation Mode (Gran Turismo Mode in PAL and Japanese versions). In the arcade mode, the player can freely choose the courses and vehicles they wish to use. Winning races unlocks additional cars and courses.
+
+However, simulation mode requires the player to earn different levels of driver's licenses in order to qualify for events, and earn credits(money), trophies and prize cars by winning race championships. Winning one particular championship also unlocks a video and a few additional demonstration tracks. Money earned by winning championships can be used to purchase additional vehicles, and for parts and tuning of all vehicles.
+
+Gran Turismo features 180 cars and 11 race tracks (as well as reversed versions). Two Honda del Sol cars from 1995 were included in the Japanese version, but were removed from the North American and European versions. They can be found in the North American version's code (and are unlockable via a GameShark cheat device). In addition to the hidden del Sols, there is also a 1967 Chevrolet Corvette and a 1998 Mazda Roadster exclusive to Arcade mode. The Corvette and Roadster can also be accessed via GameShark.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Gran Turismo (USA) (v1.1)-image.jpg</image>
+		<releasedate>19971223T000000</releasedate>
+		<developer>Polyphony Digital Inc.</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Racing</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Grand Theft Auto/Grand Theft Auto (USA).cue</path>
+		<name>Grand Theft Auto</name>
+		<desc>In Grand Theft Auto, the player takes the role of a small-time criminal trying to make it big with the mob. Stealing cars, doing jobs for the gangsters and behaving generally anti-social are the way to success.
+
+The action moves through six levels spread over three different cities, each based on a real US city: Liberty City (based on New York City), San Andreas (based on San Francisco) and Vice City (based on Miami). To finish a level, a certain score must be reached. Stealing cars and crashing into traffic, driving over pedestrians and killing cops all raise the score, but the big points are made through jobs. Answering phones or entering special cars brings mission assignments, from simple "ditch-a-hot-car" jobs to supporting bank robberies or carrying out assassinations. Completing a mission will raise the score substantially and also increase the score multiplier, so that completing the next felony will gain even more points.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Grand Theft Auto (USA)-image.jpg</image>
+		<releasedate>19971201T000000</releasedate>
+		<developer>DMA Design Limited</developer>
+		<publisher>Take-Two Interactive Software, Inc.</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Grand Theft Auto 2/Grand Theft Auto 2 (USA).cue</path>
+		<name>Grand Theft Auto 2</name>
+		<desc>The game takes place at an undisclosed time in the near future. Unlike the first game which featured three different cities, Grand Theft Auto 2 only features a single town, but it's divided in three districts which are unlocked one at a time: downtown, residential and industrial. Like in the original the player goes around answering phones to initiate various missions. The game uses an overhead camera in a 3D landscape and allows the player to freely explore the city and steal any vehicle the player sets his or her eyes on. To unlock new districts the player must reach a certain score which is done by committing crimes and finishing missions.
+
+Because the game now features multiple criminal gangs, the player must choose allegiances. Performing missions for one gang, will decrease the player's reputation for another. When the player commits crimes he also becomes wanted by the local police, but as more crimes are committed without shaking the police, they will give way for first SWAT Teams, then Special Agents and finally the army.
+
+New features include the ability to save at the church, when donating enough money, and various side missions, such as becoming a taxi driver to ear money. There are also many new cars with weapons attached such as a firetruck with a flamethrower and a car with machine guns.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Grand Theft Auto 2 (USA)-image.jpg</image>
+		<releasedate>19991025T000000</releasedate>
+		<developer>DMA Design Limited</developer>
+		<publisher>Rockstar Games</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Harry Potter and the Chamber of Secrets/Harry Potter and the Chamber of Secrets (USA) (En,Fr,Es).cue</path>
+		<name>Harry Potter and the Chamber of Secrets</name>
+		<desc>Harry Potter and the Chamber of Secrets continues the PlayStation adventures of the bespectacled boy wizard as he returns to Hogwarts to begin a second year of studies. Things do not go smoothly, however, as the game closely follows the events found in J.K. Rowling's second book in the international best-selling fantasy series. Harry Potter and friends Hermione and Ron must investigate a terrible danger: students are mysteriously turning to stone.
+
+Developed by Argonaut Software, this PlayStation version offers a completely different experience than the games on other platforms. Play begins at Ron's home at the Burrow, where Harry can practice his magic skills in a number of tasks designed to help the Weasley homestead.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Harry Potter and the Chamber of Secrets (USA) (En,Fr,Es)-image.jpg</image>
+		<releasedate>20021114T000000</releasedate>
+		<developer>Argonaut Games</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Harry Potter and the Sorcerer's Stone/Harry Potter and the Sorcerer's Stone (USA) (En,Fr,Es).cue</path>
+		<name>Harry Potter and the Sorcerer's Stone</name>
+		<desc>J. K. Rowling's immensely popular boy wizard makes his highly anticipated entrance to the realm of video gaming with this third-person 3D action-adventure based on Harry Potter and the Sorcerer's Stone, the first novel in the series. In the role of the prodigious young magician the player begins his first year at Hogwarts School of Witchcraft and Wizardry, joined by familiar characters such as Ron Weasley, Hermione Granger, and even Draco Malfoy.
+
+Harry Potter can explore the grounds at Hogwarts, spend time with Hagrid, and even hop on a broomstick for a quick game of quidditch. However, as in the novel, Harry's special gifts are noticed not only by his instructors but by darker forces, as well, and the player may even come face-to-face with "You-Know-Who" himself before this adventure is over.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Harry Potter and the Sorcerer's Stone (USA) (En,Fr,Es)-image.jpg</image>
+		<releasedate>20011115T000000</releasedate>
+		<developer>Argonaut Games</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Action, Adventure</genre>
+	</game>
+	<game>
+		<path>./Harvest Moon - Back to Nature/Harvest Moon - Back to Nature (USA).cue</path>
+		<name>Harvest Moon: Back to Nature</name>
+		<desc>Natsume's farm simulation series makes its debut on the PlayStation with Harvest Moon: Back to Nature. Starting out with a few rudimentary implements and very little money, you begin the arduous task of reviving your grandfather's farm and thereby claiming your place as its rightful heir.
+
+Players are given three years to achieve this goal. A year consists of four seasons, each of which lasts 30 days. Different crops can be planted each season, but before the seeds can be planted, the land must be cleared and then the soil tilled.
+
+Seeds must also be watered until the fruit or vegetable matures. Once the crops are ready for harvest, they can be placed in a shipping bin where they'll be collected and paid for. In addition to farming, players will interact with local villagers and partake in seasonal events such as the Tomato Festival and Fireworks Display. As more money is earned, players can expand their farm and begin to raise livestock such as chickens and cows.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Harvest Moon - Back to Nature (USA)-image.jpg</image>
+		<releasedate>20001122T000000</releasedate>
+		<developer>Victor Interactive Software, Inc.</developer>
+		<publisher>Natsume</publisher>
+		<genre>Life Simulation</genre>
+	</game>
+	<game>
+		<path>./Heart of Darkness/Heart of Darkness (USA) (Disc 1)/Heart of Darkness (USA) (Disc 1).cue</path>
+		<name>Heart of Darkness</name>
+		<desc>Hidden away in the Heart of Darkness lies a terrifying world. A world ruled by the Master of Darkness whose cruel and absolute power leads an army of emaciated devils. The fiendish force scours the land in search of Andy, a young boy on a quest to rescue his dog Whiskey.
+
+Trapped in a terrifying nightmare, only you can take Andy through hundreds of epic encounters to overcome a whole host of wonderfully weird characters and emerge triumphant from the Heart of Darkness.
+* 176 locations and over 30 minutes of seamless film action.
+* Climb, swing, twist, and swim around 8 worlds of stunning environments packed with puzzles and fiendish traps.
+* Developed by the creators of Out of This World.
+* Music by Bruce Boughton, performed by the London Symphony.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Heart of Darkness (USA) (Disc 1)-image.png</image>
+		<releasedate>19980731T000000</releasedate>
+		<developer>Amazing Studios</developer>
+		<publisher>Interplay Entertainment Corp.</publisher>
+		<genre>Puzzle, Shooter, Platform</genre>
+	</game>
+	<game>
+		<path>./Heart of Darkness/Heart of Darkness (USA) (Disc 2)/Heart of Darkness (USA) (Disc 2).cue</path>
+		<name>Heart of Darkness</name>
+		<desc>Hidden away in the Heart of Darkness lies a terrifying world. A world ruled by the Master of Darkness whose cruel and absolute power leads an army of emaciated devils. The fiendish force scours the land in search of Andy, a young boy on a quest to rescue his dog Whiskey.
+
+Trapped in a terrifying nightmare, only you can take Andy through hundreds of epic encounters to overcome a whole host of wonderfully weird characters and emerge triumphant from the Heart of Darkness.
+* 176 locations and over 30 minutes of seamless film action.
+* Climb, swing, twist, and swim around 8 worlds of stunning environments packed with puzzles and fiendish traps.
+* Developed by the creators of Out of This World.
+* Music by Bruce Boughton, performed by the London Symphony.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Heart of Darkness (USA) (Disc 2)-image.png</image>
+		<releasedate>19980731T000000</releasedate>
+		<developer>Amazing Studios</developer>
+		<publisher>Interplay Entertainment Corp.</publisher>
+		<genre>Puzzle, Shooter, Platform</genre>
+	</game>
+	<game>
+		<path>./Herc's Adventures/Herc's Adventures (USA).cue</path>
+		<name>Herc's Adventures</name>
+		<desc>Ahhh...ancient Greece. A fertile land, full of wine, women, and some of the best gyros you'll ever taste. Thanks to Persephone, the Greek goddess of spring and fertility, Greece is a wonderful paradise. But now the lord of the Underworld, Hades, has gone and kidnapped Persephone, causing the land to slowly wither away! Zeus, the King of the Gods, needs help in saving her, so who do you call? None other than three of the greatest warriors in the land!
+
+You can choose from the big 'n' buff Herc, the super swift Atlanta, or the young and street-smart Jason, each of whom have their own weapons and strengths. The game's 40 levels include many further variations and pastiches of Greek mythology and legend.
+
+It's all up to you to rescue Persephone and give Hades a beatdown he'll never forget!</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Herc's Adventures (USA)-image.jpg</image>
+		<releasedate>19970731T000000</releasedate>
+		<developer>Big Ape Productions</developer>
+		<publisher>LucasArts Entertainment Company LLC</publisher>
+		<genre>Action, Adventure</genre>
+	</game>
+	<game>
+		<path>./Johnny Bazookatone/Johnny Bazookatone (USA).cue</path>
+		<name>Johnny Bazookatone</name>
+		<desc>Save The Soul of Rock 'n Roll!
+
+The year is 2050 A.D. and the hottest thing to hit Rock 'n Roll is Johnny Bazookatone. Johnny's brand of music has swept the world into a new age of peace and harmony. Enter Mr. L. Diablo. Lord of the Underworld. In an envious rage, he steals Johnny's greatest love - his guitar 'Anita' Diablo also sends his demons to kidnap the legends of the music industry.
+
+With Anita gone and no music left, Johnny sets his sights on blasting the neither world to Kingdom Come! The hordes of Hell await as the begins the greatest solo performance of his career!
+
+Rock On:
+* SGI rendered characters come to life in a cartoon underworld filled with nightmarish scenery and incredible Special FX.
+* CD quality sound backs the mega tunes.
+* Johnny goes to Hell armed with his bazooka-guitar that spews electric "Riff-tunes" and "Ultrta-Blast tunes"
+* 360 degree rotation jumps and hover jumps in a 3-D scrolling environment.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Johnny Bazookatone (USA)-image.jpg</image>
+		<releasedate>19960222T000000</releasedate>
+		<developer>Arc Developments</developer>
+		<publisher>U.S. Gold Ltd.</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./JoJos Bizarre Adventure/JoJo's Bizarre Adventure (USA).cue</path>
+		<name>JoJo's Bizarre Adventure</name>
+		<desc>JoJo's Bizarre Adventure has its roots in the realm of the comic book. Players will be able to take control of Jotaro Kujo, his friends, and his enemies in this world hopping, globe spanning fighting fest. Now PlayStation gamers will be able to take a Stand and wallop their friends over the head with them in the comfort of their own home.
+
+This game offers much of the two dimensional fighting fare that Capcom is renowned for. It takes a side venture into new realms with the addition of your Stand partners however. When you whip out a special attack or some hits, a phantasmal apparition will appear to give you back up. Each one differs depending on the characters alignment along the Tarot spectrum, and players also have the ability to put their Stand into a more active role once they build up their Stand Gauge. Then your alter egos can weigh in and have the ability to set up painful chain combos and they enable special character abilities like double jumping and air attacks.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/JoJo's Bizarre Adventure (USA)-image.jpg</image>
+		<releasedate>20001201T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./King's Field/King's Field (USA).cue</path>
+		<name>King's Field</name>
+		<desc>Prepare yourself for an epic action-adventure never before imaginable. Only now, with the gaming power made possible by the PlayStation is a world as vast and detailed as King's Field a reality. This first-person game is completely rendered in beautiful 3D polygon graphics, with texture mapping and fully controllable 360° viewing.
+
+Imagine a universe where you can travel freely - being able to look up and down, climb ancient ruins, traverse across oceans, jump off ridges, and duel enemies - all in real time, non-linear play. This visual world will not only astound you, but will pull you right into its universe. You will embark on a journey to an island of evil-ridden dungeons, villages, and castles as you seek the Moonlight Sword, which had been stolen by a cult of insidious worshipers of evil.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/King's Field (USA)-image.jpg</image>
+		<releasedate>19951231T000000</releasedate>
+		<developer>FromSoftware, Inc.</developer>
+		<publisher>ASCII Corporation</publisher>
+		<genre>Adventure, Role-Playing</genre>
+	</game>
+	<game>
+		<path>./King's Field II/King's Field II (USA).cue</path>
+		<name>King's Field</name>
+		<desc>Prepare yourself for an epic action-adventure never before imaginable. Only now, with the gaming power made possible by the PlayStation is a world as vast and detailed as King's Field a reality. This first-person game is completely rendered in beautiful 3D polygon graphics, with texture mapping and fully controllable 360° viewing.
+
+Imagine a universe where you can travel freely - being able to look up and down, climb ancient ruins, traverse across oceans, jump off ridges, and duel enemies - all in real time, non-linear play. This visual world will not only astound you, but will pull you right into its universe. You will embark on a journey to an island of evil-ridden dungeons, villages, and castles as you seek the Moonlight Sword, which had been stolen by a cult of insidious worshipers of evil.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/King's Field II (USA)-image.jpg</image>
+		<releasedate>19951231T000000</releasedate>
+		<developer>FromSoftware, Inc.</developer>
+		<publisher>ASCII Corporation</publisher>
+		<genre>Adventure, Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Kingsley's Adventure/Kingsley's Adventure (USA).cue</path>
+		<name>Kingsley's Adventure</name>
+		<desc>Would you rather watch an adventure or be in one? This is the story of Kingsley, fox club and unlikely hero on a quest to save the Fruit Kingdom from the evil Wizard, Bad Custard. This is a job worthy only of a True Knight. Are you ready for the adventure of a lifetime?</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Kingsley's Adventure (USA)-image.jpg</image>
+		<releasedate>19991007T000000</releasedate>
+		<developer>Psygnosis Limited</developer>
+		<publisher>Psygnosis Limited</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Klonoa - Door to Phantomile/Klonoa - Door to Phantomile (USA).cue</path>
+		<name>Klonoa: Door to Phantomile</name>
+		<desc>Explore a magical world of mystery and adventure. Join Klonoa on a fantastic journey in the land of Phantomile, where the mysterious crash of a flying ship starts an epic quest through colorful worlds of thrills and danger.
+
+You're never lost in this 3-D world. Klonoa's "Guided 3-D" construction gives players a vast 3-D world without the aimless and wandering feel of many other 3-D action games.
+
+Beautiful graphics and entertaining puzzles add a whole new level of fun &amp; challenge.
+
+Multiple, forked paths add extra replay value - just remember that shortcuts aren't always what they seem!</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Klonoa - Door to Phantomile (USA)-image.jpg</image>
+		<releasedate>19970310T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Legacy of Kain - Soul Reaver/Legacy of Kain - Soul Reaver (USA).cue</path>
+		<name>Legacy of Kain: Soul Reaver</name>
+		<desc>Soul Reaver is a third-person perspective action game with puzzle-solving and some platforming elements. The game follows Raziel on his quest to purge the land of vampires and take revenge on Kain and his brothers, leaders of the six clans. The player views the environments from behind Raziel's shoulder, moving him in any direction, climbing, attacking, jumping and using specific abilities. Raziel's can grip onto the edge of ledges and his torn wings allow him to glide gently downwards. He can also shift through the "material" world into the "spectral" realm at will, but must find specific locations in order to shift back. The two realms mirror one another, with distortions which give access to new areas and platforms. Existing in the material world drains Raziel's life energy at a constant rate.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Legacy of Kain - Soul Reaver (USA)-image.jpg</image>
+		<releasedate>19990816T000000</releasedate>
+		<developer>Crystal Dynamics, Inc.</developer>
+		<publisher>Eidos Interactive</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Legend of Legaia/Legend of Legaia (USA).cue</path>
+		<name>Legend of Legaia</name>
+		<desc>A legendary tale of betrayal and self-destruction. Abuse derived from the greediness of man. the powers of a magical creature betrayed. Will man realize his mistakes before irreparable damage is done? Armed witha magical sword and the will to durvive lead Vahn and his cohorts to the redemption of man. Pursue a quest to save the world and discover place where legends are born. New combat system bases on fight games. Discover special combinations for more effective attacks. Beautiful realistic graphics with ull polygons. 100s of 3D enemies that react with a full range of motion.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Legend of Legaia (USA)-image.png</image>
+		<releasedate>19990317T000000</releasedate>
+		<developer>Contrail</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Legend of Mana/Legend of Mana (USA).cue</path>
+		<name>Legend of Mana</name>
+		<desc>Create Your World
+In ancient times, the world was saved from destruction by sealing locations and events within magical artifacts. Now, you have the chance to recreate this world as you desire by discovering artifacts, placing them, and exploring the mysteries inside.
+
+-Construct a unique world map and story by carefully placing artifacts.
+-Explore areas in any order, encountering nearly 70 different gameplay scenarios.
+-Battle enemies in real-time with special attacks and customizable controls.
+-Control every aspect of your new world: raise faithful net monsters, create powerful golems, forge mighty weapons, and refine magical instruments.
+-Adventure with a friend by having them import their Legend of Mana character from a MEMORY CARD, or take control of an NPC .</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Legend of Mana (USA)-image.png</image>
+		<releasedate>20000607T000000</releasedate>
+		<developer>Squaresoft</developer>
+		<publisher>Squaresoft</publisher>
+		<genre>Action, Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Looney Tunes Racing/Looney Tunes Racing (USA) (En,Fr,Es).cue</path>
+		<name>Looney Tunes Racing</name>
+		<desc>Looney Tunes Racing is a kart-racing game for the PlayStation. There are some definite similarities between this title and Crash Team Racing, both in game play mechanics and depth. Completely immersed in the humor and soul of the Looney Tunes license, the player starts the game with only a handful of characters and levels available, but as the game proceeds features become unlocked including new characters, levels, and challenges.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Looney Tunes Racing (USA) (En,Fr,Es)-image.jpg</image>
+		<releasedate>20001113T000000</releasedate>
+		<developer>Circus Freak Studios</developer>
+		<publisher>Infogrames Entertainment</publisher>
+		<genre>Racing</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Mega Man 8/Mega Man 8 (USA).cue</path>
+		<name>Mega Man 8</name>
+		<desc>A gigantic space explosion sends two strange meteors crashing to Earth. The call goes out and Mega Man speeds to the site. There he sees his arch-rival, Dr. Wiley, fleeing the scene, clutching one of the mysterious metallic meteors. Now Mega Man must uncover the secret of the second meteor in a race to stay one step ahead of Dr. Wiley and his new deadly breed of super-powered robots.
+
+• Battle across 14 huge stages to face eight devious new enemies.
+• Multiple upgrades for Mega Man - customize to your specifications every game.
+• Intense Japanese anime intros, cut scenes and cinema screens.
+• Incredibly fluid animation and highly detailed backgrounds.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Mega Man 8 (USA)-image.jpg</image>
+		<releasedate>19961217T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Mega Man Legends/Mega Man Legends (USA).cue</path>
+		<name>Mega Man Legends</name>
+		<desc>THE BLUE BOMBER BLASTS INTO A WHOLE NEW DIMENSION
+
+Mega Man blasts his way into the third dimension in an amazing new adventure. Mega Man Legends combines the best of classic Mega Man action with enormous bosses, a riveting storyline and all the depth of the hottest RPG.
+
+Explore vast 3-D worlds in your quest to find the treasure of all treasures, the Mother Lode. You'll love the new 3-D graphics, deadly weapons and non-stop action... unless of course, you're a boss.
+
+* Awesome Weapons!
+* Diabolical Bosses!
+* Legendary Gameplay!
+* Non-Stop 3-D Action!</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Mega Man Legends (USA)-image.jpg</image>
+		<releasedate>19980831T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action, Adventure, Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Mega Man Legends 2/Mega Man Legends 2 (USA).cue</path>
+		<name>Mega Man Legends 2</name>
+		<desc>Mega Man, Roll, and all your favorites are back in this all new 3-D adventure!  Far away, in an isolated wasteland, a mysterious girl and an infamous treasure have been discovered.  It's the legendary "Sealed Key," rumored to unlock an even greater mystery known as the Great Legacy.  What power does the Great Legacy hold?  Now, a raced unfolds as Mega Man and his friends embark on a journey which will alter their destinies forever.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Mega Man Legends 2 (USA)-image.png</image>
+		<releasedate>20001024T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action, Platform</genre>
+	</game>
+	<game>
+		<path>./Mega Man X4/Mega Man X4 (USA).cue</path>
+		<name>Mega Man X4</name>
+		<desc>X-PLOSIVE GAMEPLAY.
+X-TREME GRAPHICS.
+MEGA MAN X4!
+
+Vibrant Animation • Relentless Enemies
+Unsurpassed Graphics • Hidden Secrets
+Mega Man X4 bombards the PlayStation game console and never lets up!
+
+Battle armies of Maverick Reploid Robots while mastering all-new strategic moves like the Air Hover and Zero's Saber Tactic system. Discover a myriad of power-ups, secret rooms, extra weapons and invincible vehicles to take on 8 all new X-Hunter Bosses. And for the first time, play as Mega Man X or battle with his mighty partner Zero in 2 separate adventures. Mega Man X4 - now you can be a hero, or a Zero!
+
+* Now, play as Mega Man X or Zero!
+* New X-Hunter levels with vivid color, brilliant detail, intricate passages, secret rooms and hard-to-reach items
+* Invincible vehicles like the Land Chaser superbike and other robot ride armors</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Mega Man X4 (USA)-image.jpg</image>
+		<releasedate>19970810T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Mega Man X5/Mega Man X5 (USA).cue</path>
+		<name>Mega Man X5</name>
+		<desc>The year is 21XX and the chaos of the Reploid Wars has passed. Lunar colonization is at its peak. The largest colony, Eurasia, is unexpectedly taken over by an unknown band of galactic terrorists. Its artificial gravity device has been hacked and Eurasia is now on a collision course with Earth. The only way to stop it is to deploy an ancient beam cannon, Codename: Enigma. Join Mega Man X and his pal, Zero as they race against time to collect the necessary parts to restart Enigma, prevent total annihilation and save life on Earth!</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Mega Man X5 (USA)-image.jpg</image>
+		<releasedate>20010131T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Metal Gear Solid/Metal Gear Solid (USA) (Disc 1) (v1.0).CD1.cue</path>
+		<name>Metal Gear Solid</name>
+		<desc>You are Snake, a government agent on a mission to regain control of a secret nuclear weapons base from terrorist hands. Lightly armed and facing an army of foes, Snake must avoid firefights in order to survive. If Snake can locate them he can utilize advanced hardware, ranging from silenced pistols to ground-to-air missiles. Enemies react to sight and sound - so stay quiet and stay in the shadows. State-of-the-art graphics: textures, transparencies, models and explosions. Taut, gripping story with multiple endings - a truly cinematic experience.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Metal Gear Solid (USA) (Disc 1) (v1.0).CD1-image.png</image>
+		<rating>0.8</rating>
+		<releasedate>19981021T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./Misadventures of Tron Bonne, The/Misadventures of Tron Bonne, The (USA).cue</path>
+		<name>The Misadventures of Tron Bonne</name>
+		<desc>Rather than focusing on the heroic protagonists of Mega Man Legends series, the game follows series anti-hero Tron Bonne, sister of the criminal Bonne family of air pirates. The Japanese counterpart included PocketStation support whereas the North American and European version did not. With a limited production run, the game is one of the rarest PlayStation games</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Misadventures of Tron Bonne, The (USA)-image.png</image>
+		<rating>0.9</rating>
+		<releasedate>20000430T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Monster Rancher/Monster Rancher (USA).cue</path>
+		<name>Monster Rancher</name>
+		<desc>One takes the role of a monster breeder whose goal is to raise monsters to fight in tournaments. The breeder must take it in hand to raise the monster throughout its life, training it, keeping it healthy, making an exercise schedule, and trying to maximize its abilities before it dies of old age or is retired. Monsters have good or bad morale depending on how they are raised; loyal monsters are more likely to perform critical hits, while disloyal monsters might refuse to obey commands or not fight at all. Retired monsters can be combined to create more powerful monsters.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Monster Rancher (USA)-image.jpg</image>
+		<releasedate>19971130T000000</releasedate>
+		<developer>Tecmo</developer>
+		<publisher>Tecmo</publisher>
+		<genre>Life Simulation</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Mortal Kombat 3/Mortal Kombat 3 (USA).cue</path>
+		<name>Mortal Kombat 3</name>
+		<desc>MORTAL KOMBAT 3 is the third installment in this immensely popular and intensely gory series. Shao Kahn has assumed control of Earth and the Outworld, and now both are plunged into darkness, overrun by his barbaric beasts. You must clash with evil to restore order and put Shao Kahn in his place. Are you ready to sacrifice your soul in battle? Go toe-to-toe with 15 ruthless pugilists, including new fighters like Nightwolf, the four-armed Sheeva, riot cop Stryker, and Shao Kahn's evil bride Sindel. Of course, you'll also find your old favorites like Jax, Sonya, and Liu Kang. All of the moves from the arcade version are here as well, and you can also take on a friend and find out who is the king of kombat.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Mortal Kombat 3 (USA)-image.jpg</image>
+		<releasedate>19951007T000000</releasedate>
+		<developer>Williams</developer>
+		<publisher>Sony</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Mortal Kombat 4/Mortal Kombat 4 (USA).cue</path>
+		<name>Mortal Kombat 4</name>
+		<desc>Similar to the other Mortal Kombat games. Using 3D characters in a 2D playfield, you have about 20 different fighters to choose from, and each has magical secrets and weapons.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Mortal Kombat 4 (USA)-image.jpg</image>
+		<releasedate>19980624T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway Games</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Mr. Driller/Mr. Driller (USA).cue</path>
+		<name>Mr. Driller</name>
+		<desc>Mr Driller is a real-time puzzle game that relies solely on quick-thinking and a bit of planning. Gameplay is a combination of Tetris and Boulder Dash: You have to drill down through multi-colored blocks to reach the bottom while avoiding the consequences of reckless drilling (blocks may fall on you and crush you).</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Mr. Driller (USA)-image.jpg</image>
+		<releasedate>20000701T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Puzzle, Strategy</genre>
+	</game>
+	<game>
+		<path>./Myst/Myst (USA).cue</path>
+		<name>Myst</name>
+		<desc>A book written by a potentially paranoid man named Atrus serves as a portal to an otherworldly place, the island of Myst, in this atmospheric adventure game by developer Cyan. Forgoing the character interaction and inventory-based puzzles found in earlier computer adventure games, Myst places you in a lonely, desolate environment with no obvious indication on where you should go or what you are supposed to do. By exploring the island, you will eventually stumble upon an assortment of puzzles in the form of intricate contraptions, whose secrets can only be unlocked after discovering evidence of their nature. As you progress in the game, you will find four other books written by Atrus that magically transport you to additional worlds, each offering more interconnected puzzles and clues to the storyline. Myst's look is noteworthy for featuring still images viewed from a first-person perspective, with interaction limited to manipulating a cursor over each static picture.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Myst (USA)-image.jpg</image>
+		<releasedate>19960930T000000</releasedate>
+		<developer>Cyan</developer>
+		<publisher>Psygnosis Limited</publisher>
+		<genre>Adventure</genre>
+	</game>
+	<game>
+		<path>./Nicktoons Racing/Nicktoons Racing (USA).cue</path>
+		<name>Nicktoons Racing</name>
+		<desc>Nicktoons Racing focuses on engaging players in go-kart racing on various Nicktoons-themed tracks, similar to the Mario Kart line of games. The game features a wide selection of playable characters from various Nicktoons, including characters from Rugrats, Aaahh!!! Real Monsters, The Wild Thornberrys, The Angry Beavers, CatDog, The Ren &amp; Stimpy Show, Hey Arnold! and SpongeBob SquarePants.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Nicktoons Racing (USA)-image.jpg</image>
+		<releasedate>20010101T000000</releasedate>
+		<developer>Software Creations</developer>
+		<publisher>Hasbro Interactive, Inc.</publisher>
+		<genre>Racing</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Oddworld - Abe's Exoddus/Oddworld - Abe's Exoddus (USA) (Disc 1).CD1.cue</path>
+		<name>Oddworld : Abe's Exoddus</name>
+		<desc>Those nasty Glukons are at it again, intent on oppressing the loveable Mudokons any way they can. Last time, the meanies were manufacturing Mudokon jerky. Now, they've officially taken genocide too far, by forcing blind Mudokons into slave labor to dig up the bones of their fellow deceased. It so happens, by the way, that Mudokon bones add just the right kick to a favorite Glukon recipe, Soulstorm Brew.
+ Who's gonna save the day? Our unlikely hero Abe, of course. You remember Abe: that blue-green, loincloth-wearing, six foot-tall Fraggle with chronic digestive problems? Yep, he would have been content to rest on his laurels after rescuing ninety-nine of his Mudokon buddies from extermination in Oddworld: Abe's Oddysee, but a group of disgruntled ghosts elected good ol' Abe to avenge their deaths.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Oddworld - Abe's Exoddus (USA) (Disc 1).CD1-image.png</image>
+		<rating>0.8</rating>
+		<releasedate>19981101T000000</releasedate>
+		<developer>Oddworld Inhabitants</developer>
+		<publisher>GT Interactive</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Oddworld - Abe's Exoddus/Oddworld - Abe's Exoddus (USA) (Disc 2).CD2.cue</path>
+		<name>Oddworld : Abe's Exoddus</name>
+		<desc>Those nasty Glukons are at it again, intent on oppressing the loveable Mudokons any way they can. Last time, the meanies were manufacturing Mudokon jerky. Now, they've officially taken genocide too far, by forcing blind Mudokons into slave labor to dig up the bones of their fellow deceased. It so happens, by the way, that Mudokon bones add just the right kick to a favorite Glukon recipe, Soulstorm Brew.
+ Who's gonna save the day? Our unlikely hero Abe, of course. You remember Abe: that blue-green, loincloth-wearing, six foot-tall Fraggle with chronic digestive problems? Yep, he would have been content to rest on his laurels after rescuing ninety-nine of his Mudokon buddies from extermination in Oddworld: Abe's Oddysee, but a group of disgruntled ghosts elected good ol' Abe to avenge their deaths.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Oddworld - Abe's Exoddus (USA) (Disc 2).CD2-image.png</image>
+		<rating>0.8</rating>
+		<releasedate>19981101T000000</releasedate>
+		<developer>Oddworld Inhabitants</developer>
+		<publisher>GT Interactive</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Oddworld - Abe's Oddysee/Oddworld - Abe's Oddysee (USA) (Rev 2).cue</path>
+		<name>Oddworld: Abe's Exoddus</name>
+		<desc>Oddworld: Abe's Exoddus is a 2D platform game very similar to its predecessor both visually and gameplay-wise. Like in the previous game, Abe has to outsmart his foes and avoid obstacles rather than confront them directly. The game is larger than its predecessor and is more oriented towards puzzle-solving, featuring more complex interaction with the Mudokons, who can now be angry, wired, depressed, sick, or blind. The first three problematic conditions can be removed with the appropriate "Gamespeak" command; sick Mudokons must be cured with a special item, while blind ones will follow Abe's voice and may fall to their deaths if Abe doesn't stop them in time.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Oddworld - Abe's Oddysee (USA) (Rev 2)-image.jpg</image>
+		<releasedate>19981031T000000</releasedate>
+		<developer>Oddworld Inhabitants</developer>
+		<publisher>GT Interactive Software Corp.</publisher>
+		<genre>Puzzle, Platform</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./PaRappa the Rapper/PaRappa the Rapper (USA).cue</path>
+		<name>PaRappa the Rapper</name>
+		<desc>The original music video game.
+
+Help Parappa rap with the best of the master rappers and straight into Sunny's heart.
+
+Guaranteed you'll be singin' and dancin' along with Parappa and his pals to the most fun music mixes.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/PaRappa the Rapper (USA)-image.jpg</image>
+		<releasedate>19971031T000000</releasedate>
+		<developer>NanaOn-Sha Co., Ltd.</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Music</genre>
+	</game>
+	<game>
+		<path>./Pitfall 3D - Beyond the Jungle/Pitfall 3D - Beyond the Jungle (USA).cue</path>
+		<name>Pitfall 3D: Beyond the Jungle</name>
+		<desc>Pitfall 3D is a 3D platformer in which players guide Pitfall Harry Jr. (the original Pitfall! hero's son, voiced by B-movie king Bruce Campbell) through a wide variety of settings, ranging from the South American jungle to the ruins of the Moku civilization that lie behind a dimensional rift.
+
+Some old obstacles and enemies appear, such as tar pits that can open up beneath Harry and swallow him whole, ever-present scorpions, and old favorites like rolling logs and handy vines, which can be found smattered around the jungle. But there are new dangers as well, including the sinister flying darters, and new wonders to behold, such as gravity-defying lucense.
+
+Harry Jr. gets by much the same way his father did -- he can dodge out of the way, jump over obstacles, and take a swing at attackers with his trusty pick-axe. The object is to guide Harry Jr. through 11 levels, trying to discover what happened to the Moku civilization, and finally into a confrontation with the mighty Scourge, who's holding this alternate dimension hostage. Oh, and Harry might want to grab some treasure along the way too -- just like dear old Dad.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Pitfall 3D - Beyond the Jungle (USA)-image.jpg</image>
+		<releasedate>19980228T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+	</game>
+	<game>
+		<path>./Pocket Fighter/Pocket Fighter (USA).cue</path>
+		<name>Pocket Fighter</name>
+		<desc>What happens when you take several signature Capcom fighters, squish them down into chibi (small or SD) versions of themselves, and give them a whole collection of wacky moves and over-the-top costumes? You get Pocket Fighter! Take on one of several pint-sized Capcom characters in this wacky, colorful fighting game.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Pocket Fighter (USA)-image.jpg</image>
+		<releasedate>19980611T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Powerslave/Powerslave (USA).cue</path>
+		<name>Powerslave</name>
+		<desc>An ancient evil force, neither of this time nor of this world, has remained buried since the Egyptians walked the earth. Now it has been exhumed. Of course, you, the hero, must find out what's going on in Egypt. Your helicopter crashes within this danger zone and you must survive on your own. Meet the Egyptian gods and follow their advice.
+
+Exhumed for the Playstation and Saturn consoles was released as Powerslave in the United States.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Powerslave (USA)-image.jpg</image>
+		<releasedate>19970228T000000</releasedate>
+		<developer>Lobotomy Software</developer>
+		<publisher>Playmates Interactive Entertainment, Inc.</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./Q-bert/Q-bert (USA).cue</path>
+		<name>Q*bert</name>
+		<desc>Q*bert is an isometric platform game with puzzle elements where the player controls the titular protagonist from a third-person perspective. Q*bert starts each game at the top of a pyramid of cubes, and moves by jumping diagonally from cube to cube. Landing on a cube causes it to change color, and changing every cube to the target color allows the player to progress to the next stage.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Q-bert (USA)-image.jpg</image>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Artech Studios</developer>
+		<publisher>Atari, Inc.</publisher>
+		<genre>Puzzle, Platform</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Quake II/Quake II (USA).cue</path>
+		<name>Quake II</name>
+		<desc>A sequel in name only, this follow up to id’s 1996 Quake, is a first-person shooter revolving around the Earth-Strogg war. The Strogg alien race threatens the Earth, but Earth has launched a counter-offensive, Operation Alien Overlord. Overlord takes the battle to the Strogg homeworld with the ultimate objective of securing their capital city and killing their ruler.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Quake II (USA)-image.jpg</image>
+		<releasedate>19990930T000000</releasedate>
+		<developer>id Software</developer>
+		<publisher>Activision</publisher>
+		<genre>Shooter</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./Rayman/Rayman (USA).cue</path>
+		<name>Rayman</name>
+		<desc>Captivating, mind-bending and addictive one trip and you're hooked!
+
+Enter the challenging world of Rayman and suddenly reality seems far too tame. Free your mind as Rayman takes you on an arduous adventure through a complex realm of psychedelic landscapes, absurd characters, formidable opponents, and uncharted levels of dementia. This mind-altering platform game features...
+
+* Menacing opponents that learn your playing style to defeat you.
+* Incredibly intense visuals with 65,000 colors and four independently scrolling backdrops.
+* 70 surrealistic levels.
+* Over 50 demented characters.
+* Exhilarating CD-quality sound effects and music.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Rayman (USA)-image.jpg</image>
+		<releasedate>19950909T000000</releasedate>
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft Entertainment</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Rayman 2 - The Great Escape/Rayman 2 - The Great Escape (USA) (En,Fr,Es).cue</path>
+		<name>Rayman 2: The Great Escape</name>
+		<desc>Rayman 2: The Great Escape is the sequel to Rayman, a 2D side-scrolling platform game. Unlike the previous game, Rayman 2 is entirely in free-roaming 3D environments, similar to Super Mario 64. Rayman has many unique abilities that can help him get around the world. In addition to being able to shoot his fists, he can use his hair to hover like a helicopter, and even glide on air currents in certain places. He can climb certain walls and ceilings and can even use his fists to swing from special purple Lums which are shaped like rings. Rayman also has many unique items at his disposal, such as powder kegs which can be carried or fly like jets, strange warheads with legs that he can ride and steer like bucking mules, and gigantic plums that can be thrown into the water to create new paths.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Rayman 2 - The Great Escape (USA) (En,Fr,Es)-image.jpg</image>
+		<releasedate>20000915T000000</releasedate>
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft Entertainment</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Resident Evil/Resident Evil (USA).cue</path>
+		<name>Biohazard</name>
+		<desc>Biohazard is a survival horror video game developed and released by Capcom originally for the PlayStation in 1996, and is the first game in the Biohazard series. The game's plot follows Chris Redfield and Jill Valentine, members of an elite task force known as S.T.A.R.S., as they investigate the outskirts of Raccoon City following the disappearance of their team members. They soon become trapped in a mansion infested with zombies and other monsters. The player, having selected to play as Chris or Jill at the start of the game, must explore the mansion to uncover its secrets.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Resident Evil (USA)-image.jpg</image>
+		<releasedate>19960322T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Horror</genre>
+	</game>
+	<game>
+		<path>./Resident Evil - Director's Cut/Resident Evil - Director's Cut - Dual Shock Ver. (USA).cue</path>
+		<name>Resident Evil : Director's Cut</name>
+		<desc> After receiving a distress call from the Bravo Team, an elite group from S.T.A.R.S (Special Tactics And Rescue Squad) flew into the desolate Raccoon City. Apparently, the team had uncovered something concerning the Umbrella corporation -- a biotech research company. But then, without warning, the Bravo Team vanished into thin air.
+ Upon landing in the small city, the members of S.T.A.R.S began to investigate. They heard some strange noises coming from the surrounding woods and realized the sounds were getting closer. Scared, they took off running and kept on until they came to a large, ominous mansion. Seeking safety they entered, locking the door behind them. Their adventure had just begun.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Resident Evil - Director's Cut - Dual Shock Ver. (USA)-image.png</image>
+		<rating>0.9</rating>
+		<releasedate>19970930T000000</releasedate>
+		<developer>Virgin</developer>
+		<publisher>Capcom</publisher>
+		<genre>Adventure / Survival Horror</genre>
+	</game>
+	<game>
+		<path>./Resident Evil 2/Resident Evil 2 (USA) (Disc 1).cue</path>
+		<name>Resident Evil 2</name>
+		<desc>If the Suspense Doesn't Kill You, Something Else Will
+
+Face your fears in the ultimate test for survival. Something is desperately wrong in Raccoon City. A muta-genic virus has broken loose and the entire town is infested. Blood-thirsty zombies, hideous mutations now overwhelm the community. When Leon and Claire arrive in town, their nightmare is just beginning...Now, you control their destiny.
+2 Separate Adventures. Play as Leon Kennedy or Claire Redfield in an all out struggle for survival
+Loaded with hidden items that contain vital information relating to the entire Resident Evil series
+Hidden game modes -- play the panic struck '4th Survivor' mode or as the hidden character, Tofu
+Special settings to adjust the intensity of the game according to players skill and experience</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Resident Evil 2 (USA) (Disc 1)-image.jpg</image>
+		<releasedate>19980121T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shooter, Horror</genre>
+	</game>
+	<game>
+		<path>./Resident Evil 2/Resident Evil 2 (USA) (Disc 2).cue</path>
+		<name>Resident Evil 2</name>
+		<desc>If the Suspense Doesn't Kill You, Something Else Will
+
+Face your fears in the ultimate test for survival. Something is desperately wrong in Raccoon City. A muta-genic virus has broken loose and the entire town is infested. Blood-thirsty zombies, hideous mutations now overwhelm the community. When Leon and Claire arrive in town, their nightmare is just beginning...Now, you control their destiny.
+2 Separate Adventures. Play as Leon Kennedy or Claire Redfield in an all out struggle for survival
+Loaded with hidden items that contain vital information relating to the entire Resident Evil series
+Hidden game modes -- play the panic struck '4th Survivor' mode or as the hidden character, Tofu
+Special settings to adjust the intensity of the game according to players skill and experience</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Resident Evil 2 (USA) (Disc 2)-image.jpg</image>
+		<releasedate>19980121T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shooter, Horror</genre>
+	</game>
+	<game>
+		<path>./Resident Evil 2 - Dual Shock Ver./Resident Evil 2 - Dual Shock Ver. (USA) (Disc 1) (Leon).CD1.cue</path>
+		<name>Resident Evil 2 (Leon Kennedy Disc)</name>
+		<desc>Resident Evil 2 takes place two months after the events of the first game and is set in Raccoon City, a Midwestern mountain community whose residents have been turned into zombies by the T-virus, a biological weapon developed by the pharmaceutical company Umbrella. In their escape from the city, the two protagonists Leon S. Kennedy and Claire Redfield encounter other survivors and are confronted by William Birkin, the mutated creator of the even more powerful G-virus.
+ Previously confined to an old mansion, the Umbrella corporation's legacy of fatal mutations has spilled over into nearby Raccoon City. The once peaceful town is now overrun with zombies and all manner of genetic mutations. New police recruit Leon Kennedy and Claire Redfield; the sister of STARS agent Chris Redfield, find themselves in the middle of an experiment gone horribly wrong. </desc>
+		<image>~/.emulationstation/downloaded_images/psx/Resident Evil 2 - Dual Shock Ver. (USA) (Disc 1) (Leon).CD1-image.png</image>
+		<rating>0.8</rating>
+		<releasedate>19980110T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Adventure</genre>
+	</game>
+	<game>
+		<path>./Resident Evil 2 - Dual Shock Ver./Resident Evil 2 - Dual Shock Ver. (USA) (Disc 2) (Claire).CD2.cue</path>
+		<name>Resident Evil 2 (Leon Kennedy Disc)</name>
+		<desc>Resident Evil 2 takes place two months after the events of the first game and is set in Raccoon City, a Midwestern mountain community whose residents have been turned into zombies by the T-virus, a biological weapon developed by the pharmaceutical company Umbrella. In their escape from the city, the two protagonists Leon S. Kennedy and Claire Redfield encounter other survivors and are confronted by William Birkin, the mutated creator of the even more powerful G-virus.
+ Previously confined to an old mansion, the Umbrella corporation's legacy of fatal mutations has spilled over into nearby Raccoon City. The once peaceful town is now overrun with zombies and all manner of genetic mutations. New police recruit Leon Kennedy and Claire Redfield; the sister of STARS agent Chris Redfield, find themselves in the middle of an experiment gone horribly wrong. </desc>
+		<image>~/.emulationstation/downloaded_images/psx/Resident Evil 2 - Dual Shock Ver. (USA) (Disc 2) (Claire).CD2-image.png</image>
+		<rating>0.8</rating>
+		<releasedate>19980110T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Adventure</genre>
+	</game>
+	<game>
+		<path>./Resident Evil 3 - Nemesis/Resident Evil 3 - Nemesis (USA).cue</path>
+		<name>Resident Evil 3: Nemesis</name>
+		<desc>Join Jill Valentine, the heroine and amazing survivor of the notorious disaster at the mansion, as her nightmare continues. After resigning from S.T.A.R.S. Jill now prepares to head out of Raccoon City...but it's not going to be easy. Caught in a town crawling with flesh eating zombies, more than ever she must rely on brute force and cunning to find a way to escape alive. This unique adventure intricately reveals more of Umbrella Corporation's nightmarish plot and picks up just hours before the events from Resident Evil 2.
+
+More zombies, more terror, and even more evil.
+More challenging enemies that come back to life at any time.
+Face off against the most terrifying mutations stalking the streets of Raccoon City.
+More detailed character actions: Try the dodge move to avoid an enemy's attack.
+Interact with the environment like never before: Use background objects defensively.
+A unique new drama which reveals more details of Umbrella Corporation's devious activities from the Resident Evil series.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Resident Evil 3 - Nemesis (USA)-image.jpg</image>
+		<releasedate>19990922T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Adventure, Shooter</genre>
+	</game>
+	<game>
+		<path>./Rhapsody - A Musical Adventure/Rhapsody - A Musical Adventure (USA).cue</path>
+		<name>Rhapsody: A Musical Adventure</name>
+		<desc>Follow the adventures of Cornet as she makes her way through Marl's Kingdom in search or her one true love. With the help of her trusty magical horn she enlists the help of many magical creatures along the way to battle the beautiful but evil Marjoly and her cohorts. Rhapsody is an epic RPG adventure that you'll never forget...
+
+Intuitive simulation-style battle system!
+
+Use magic spells such as the hilarious "Pancake Attack"!
+
+Wonderfully illustrated anime characters and backgrounds!</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Rhapsody - A Musical Adventure (USA)-image.png</image>
+		<releasedate>20000703T000000</releasedate>
+		<developer>Nippon Ichi Software Inc.</developer>
+		<publisher>Atlus Co., Ltd.</publisher>
+		<genre>Role-Playing, Strategy</genre>
+	</game>
+	<game>
+		<path>./Silent Hill/Silent Hill (USA).cue</path>
+		<name>Silent Hill</name>
+		<desc>Silent Hill is a 1999 survival horror video game for the PlayStation. The first in a series about a mysterious town of the same name, Silent Hill generated a direct sequel, three indirect sequels, a prequel and a film adaptation. The game was included in Sony's Greatest Hits and Platinum Range of budget titles as a result of strong sales. A reinterpretation of the game was developed for the Wii, PlayStation 2 and PlayStation Portable.
+The plot focuses on Harry Mason as he searches for his daughter, Cheryl, who has disappeared following a car accident which left Harry unconscious. He finds Silent Hill to be largely abandoned, shrouded in a thick fog, snowing out of season, filled with monsters and being over taken by a hellish otherworld. As Harry scours the town, he begins learning about the history of Silent Hill and stumbles upon a cult ritual undertaken to bring a god to Earth.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Silent Hill (USA)-image.jpg</image>
+		<releasedate>19990131T000000</releasedate>
+		<developer>Konami, Team Silent</developer>
+		<publisher>Konami Digital Entertainment, Inc.</publisher>
+		<genre>Action, Horror</genre>
+	</game>
+	<game>
+		<path>./SimCity 2000/SimCity 2000 (USA).cue</path>
+		<name>SimCity 2000</name>
+		<desc>SimCity 2000 is the successor to the city simulation game Sim City. You are once again the mayor, but this time you can fully customize the terrain before building your city. The graphics are isometric, whereas the original had graphics displayed in a top-down fashion.
+
+This title adds numerous features over the original such as the ability of building "light" zones, subways, hospitals, colleges, zoos, and arcos which are actually cities in cities. You can now give names to places, and your city is surrounded by neighboring towns with which you can make trade. Finally, instead of the poll in the first game you now have the option of reading several newspapers to get an idea of your progress.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/SimCity 2000 (USA)-image.jpg</image>
+		<releasedate>19960709T000000</releasedate>
+		<developer>Maxis Software</developer>
+		<publisher>Maxis Software</publisher>
+		<genre>Construction and Management Simulation</genre>
+	</game>
+	<game>
+		<path>./SimTheme Park/SimTheme Park (USA).cue</path>
+		<name>Sim Theme Park</name>
+		<desc>Sim Theme Park is the sequel to Theme Park and the second game in the series. It is a theme park management game where players build their own theme park with roller coasters, rides and food stalls. Each building can be customized for its appearance, prices and also the length of the ride. Roller coasters play an important role as the main attraction for visitors. Players can design a custom ride and then test it from a first-person view.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/SimTheme Park (USA)-image.jpg</image>
+		<releasedate>19991031T000000</releasedate>
+		<developer>Bullfrog Productions</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Construction and Management Simulation</genre>
+	</game>
+	<game>
+		<path>./South Park/South Park (USA).cue</path>
+		<name>South Park</name>
+		<desc>A comet is heading toward South Park, causing many of the enemies from early seasons of the shows (including cows, aliens, and clones) to rise up and attack. The player takes control of Kyle, Cartman, Kenny and Stan to fight through the town in a first-person perspective. Features new dialogue from the original voice actors on the show.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/South Park (USA)-image.jpg</image>
+		<releasedate>19990930T000000</releasedate>
+		<developer>Iguana Entertainment</developer>
+		<publisher>Acclaim Entertainment, Inc.</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./South Park - Chef's Luv Shack/South Park - Chef's Luv Shack (USA).cue</path>
+		<name>South Park: Chef's Luv Shack</name>
+		<desc>Chef hosts this Acclaim title, which mixes South Park trivia with mini games in the mold of Mario Party (Nintendo 64). The idea is you choose your favourite South Park kid (Kyle, Kenny, Stan or Cartman) and answer the questions based on episodes from the cartoon series. If you get it right, you then spin the wheel, and you either get the cash, lose it all, or play a mini game (either by yourself, against the AI, or against your friends if you're in multiplayer mode). The person who has the highest score (or the most correct answers) after a chosen amount of rounds wins.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/South Park - Chef's Luv Shack (USA)-image.jpg</image>
+		<releasedate>19991031T000000</releasedate>
+		<developer>Acclaim</developer>
+		<publisher>Acclaim Entertainment, Inc.</publisher>
+		<genre>Puzzle</genre>
+	</game>
+	<game>
+		<path>./South Park Rally/South Park Rally (USA).cue</path>
+		<name>South Park Rally</name>
+		<desc>Choose your character from the cast of the popular 'mature' cartoon South Park, and tear through the streets in this racing game. Your character's vehicle may be a little cart, trike, or box, for example. Weapons include rockets, Salty Balls, Cheesy Poofs, the beloved Cow and even an Anal probe. All of the voices are also included, making it feel more like the real cartoon than a rally game. You can also play an all-on-all 4 player mode.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/South Park Rally (USA)-image.jpg</image>
+		<releasedate>20000301T000000</releasedate>
+		<developer>Tantalus Media</developer>
+		<publisher>Acclaim Entertainment, Inc.</publisher>
+		<genre>Racing</genre>
+	</game>
+	<game>
+		<path>./Space Jam/Space Jam (USA).cue</path>
+		<name>Space Jam</name>
+		<desc>It's the ultimate pick-up game. Michael Jordan, Bugs Bunny, Porky Pig, Daffy Duck, and Lola Bunny vs. a mean team of outlandish alien Monstars! This is intergalactic hoops according to the Big Slam Theory! Extraterrestrial dunks! Anti-gravitational alley-oops! Stellar gameplay! And a bunch of mini-games overstuffed with wacky cartoon mayhem! Earth just wasn't big enough. SPACE JAM!
+
+-Take the tunes to the top!
+-Bugs knows his stuff!
+-MJ's signature slams and gravity-defying dunks!</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Space Jam (USA)-image.png</image>
+		<releasedate>19951130T000000</releasedate>
+		<developer>Sculptured Software</developer>
+		<publisher>Acclaim Entertainment, Inc.</publisher>
+		<genre>Action, Sports</genre>
+	</game>
+	<game>
+		<path>./Spyro - Year of the Dragon/Spyro - Year of the Dragon (USA) (Rev 1).cue</path>
+		<name>Spyro: Year of the Dragon</name>
+		<desc>Spyro: Year of the Dragon is the third installment in the Spyro series and the last Spyro game to be released for the PlayStation. The game was the last Spyro game Insomniac developed; their next title would be Ratchet &amp; Clank for the PlayStation 2. This is the only Spyro game in the PlayStation library to not get released in Japan.
+
+Named after the animal of the Chinese zodiac, which was the symbol at the time of the game's release, Year of the Dragon follows the titular purple character Spyro as he travels to the "Forgotten Worlds" after 150 magical dragon eggs are stolen from the land of the dragons by an evil sorceress. Players travel across thirty different worlds gathering gems and eggs. Year of the Dragon introduced new characters and minigames to the series, as well as offering improved graphics and music.
+
+Upon release, the game sold more than two million units in the United States,and received positive critical response. Reviewers noted the game built on the successful formula of its predecessors by adding more games and expansive environments. At Game Rankings, Year of the Dragon is one of the top twenty highest-rated PlayStation games of all time.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Spyro - Year of the Dragon (USA) (Rev 1)-image.jpg</image>
+		<releasedate>20001023T000000</releasedate>
+		<developer>Insomniac Games</developer>
+		<publisher>Sony</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Spyro the Dragon/Spyro the Dragon (USA).cue</path>
+		<name>Spyro the Dragon</name>
+		<desc>Spyro the Dragon is a platform game developed by Insomniac Games for the PlayStation. It stars the title character, a young purple dragon named Spyro and his dragonfly friend, Sparx, and is the first game in the Spyro the Dragon series. The first game was massively popular at its initial release and Spyro would later become one of the most recognizable, popular and respected gaming icons for the PlayStation gaming console. Spyro's best friend, Sparx the dragonfly, acts like the player's health meter and assists in gathering gems. The various dragons Spyro unfreezes along the way are also key characters in Spyro's progression through the game. Gnasty Gnorc is the main antagonist, who froze all the dragons of the land in crystal.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Spyro the Dragon (USA)-image.jpg</image>
+		<releasedate>19980910T000000</releasedate>
+		<developer>Insomniac Games</developer>
+		<publisher>Sony</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Star Ocean - The Second Story/Star Ocean - The Second Story (USA) (Disc 1).cue</path>
+		<name>Star Ocean: The Second Story</name>
+		<desc>The game gives the player the choice of playing as Rena or Claude, with the journey evolving and ending differently depending on the choices one makes.
+
+Star Ocean: The Second Story is a world of magic, science, space travel and deadly demons! Enter a world where love knows no bounds, the evil is neverending and good can overcome all if the heart is just and true. Featuring three battle modes, the ability to master skills to create items and an emotional level for each of the characters, Enix has pulled out all the stops in their latest (and first) title to be brought to the North American PlayStation.
+
+Star Ocean: The Second Story takes place twenty years after the original game, Star Ocean. Roughly the first half of the plot of the game takes place on the planet Expel, an underdeveloped planet on the verge of its industrial age. On Expel kings still rule over great kingdoms, swords and sorcery dominate the battlefield, and sailing ships are still made from wood. According to a Federation law, named the Undeveloped Planet Protection Treaty, a planet with such a level of civilization may not be directly contacted under any but the most dire circumstances—and even then, contact must be minimal and secretive. This law is reminiscent of Star Trek's Prime Directive.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Star Ocean - The Second Story (USA) (Disc 1)-image.jpg</image>
+		<releasedate>19990531T000000</releasedate>
+		<developer>tri-Ace</developer>
+		<publisher>Enix Corporation</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Star Ocean - The Second Story/Star Ocean - The Second Story (USA) (Disc 2).cue</path>
+		<name>Star Ocean: The Second Story</name>
+		<desc>The game gives the player the choice of playing as Rena or Claude, with the journey evolving and ending differently depending on the choices one makes.
+
+Star Ocean: The Second Story is a world of magic, science, space travel and deadly demons! Enter a world where love knows no bounds, the evil is neverending and good can overcome all if the heart is just and true. Featuring three battle modes, the ability to master skills to create items and an emotional level for each of the characters, Enix has pulled out all the stops in their latest (and first) title to be brought to the North American PlayStation.
+
+Star Ocean: The Second Story takes place twenty years after the original game, Star Ocean. Roughly the first half of the plot of the game takes place on the planet Expel, an underdeveloped planet on the verge of its industrial age. On Expel kings still rule over great kingdoms, swords and sorcery dominate the battlefield, and sailing ships are still made from wood. According to a Federation law, named the Undeveloped Planet Protection Treaty, a planet with such a level of civilization may not be directly contacted under any but the most dire circumstances—and even then, contact must be minimal and secretive. This law is reminiscent of Star Trek's Prime Directive.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Star Ocean - The Second Story (USA) (Disc 2)-image.jpg</image>
+		<releasedate>19990531T000000</releasedate>
+		<developer>tri-Ace</developer>
+		<publisher>Enix Corporation</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Street Fighter Alpha - Warriors' Dreams/Street Fighter Alpha - Warriors' Dreams (USA).cue</path>
+		<name>Street Fighter Alpha: Warriors' Dreams</name>
+		<desc>It's Street Fighter as you always remember it, with some new moves, characters and combo systems, as well as a more polished look and feel.
+
+The new moves available for each fighter, called Super moves, allow them to fire off very powerful moves. A bar at the bottom of the screen represents the power that you have to use for the moves. You start the first round on 0, and each attack that you make adds power to the bar. Once you reach level 3, you can unleash the special attacks, that can sometimes KO the opponant.
+
+The other major change over the Street Fighter 2 series are the Alpha counters. These can be used to counter an on-coming attack after blocking.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Street Fighter Alpha - Warriors' Dreams (USA)-image.jpg</image>
+		<releasedate>19951221T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fighting</genre>
+	</game>
+	<game>
+		<path>./Street Fighter Alpha 2/Street Fighter Alpha 2 (USA).cue</path>
+		<name>Street Fighter Alpha 2</name>
+		<desc>New characters in this version include Gen (a wise kung-fu master), Rolento (who you may remember from another Capcom classic, Final Fight) and Sakura, a young school girl who follows her hero Ryu so close, she has the same type of moves. Dhalsim and Zangief also return to the fight with some news moves.
+
+The other major difference is the loss of chain-combos and the gain of a custom combo system. Once you reach the required level (which is 1 at the least) you can execute a custom combo by combining any of the buttons (which there are 6 in total) or any of the special attacks (fireballs, etc.)</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Street Fighter Alpha 2 (USA)-image.jpg</image>
+		<releasedate>19960809T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Street Fighter EX2 Plus/Street Fighter EX2 Plus (USA).cue</path>
+		<name>Street Fighter EX2 Plus</name>
+		<desc>Conquering the World of 3-D Fighters!
+
+Capcom’s all-time, leading fighting flagship series once again goes 3-D with Street Fighter EX 2 Plus, the sequel to the top-selling Street Fighter EX Plus for the PlayStation game console. Loaded with new enhancements, modes of play and an expanded cast of characters, Street Fighter EX 2 Plus delivers amazing 3-D graphics, lightning fast animation and Capcom’s signature gameplay. Play one-on-one with a buddy or create your own unique Street Fighter team using up to five fighters. Once you’ve perfected your moves, edit your replay data to create and star in your own movie.
+
+• The improved sequel to the best-selling, Street Fighter EX Plus
+• 3-D fighting action with amazing 3-D graphics, lightning fast animation and Capcom signature game mechanics
+• Loaded with new play features like the Excel Move, Meteor Combo Super Attack, Guard Break and the Super Cancel
+• 23 selectable characters from the Street Fighter universe
+• 7 Modes of gameplay – Arcade Mode, Versus Mode, Practice Mode, Training Mode, Trial Mode, Director Mode and Bonus Mode
+• Featured in the Capcom Edge frequent buyers program</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Street Fighter EX2 Plus (USA)-image.jpg</image>
+		<releasedate>19991230T000000</releasedate>
+		<developer>Arika Co., Ltd.</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Strider 2/Strider 2 (USA).cue</path>
+		<name>Strider 2</name>
+		<desc>Strider 2 is a fast-paced, arcade-style action game. Unlike its predecessor, it features 2D animations placed on 3D backgrounds. There is a range of new moves including a double jump, backward somersault and dash, which allows him to perform longer jumps. He also has the ability to boost his weapon, the Cypher sword, enabling it to release homing plasma waves. There is also a Savage Slash attack, with random slashes.
+
+There are numerous bonuses that can be collected in the levels. These either boost Strider's vitality, increase the power of his sword or increase the player's game score. Another addition to the game is a Boss Gauge which lets the player know how much energy the mid- or end of level boss has left before it dies.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Strider 2 (USA)-image.jpg</image>
+		<releasedate>20000729T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Tekken/Tekken (USA).cue</path>
+		<name>Tekken</name>
+		<desc>Get ready for the ultimate brawl-for-all! Namco Limited introduces the 3D arcade smash hit Tekken for the PlayStation game console.
+
+Tekken brings together eight of the world's deadliest fighters for a winner takes all tournament. Unlike Street Fighter, Tekken exists in a 3D environment with 360 degree visuals. You'll fight each round against a different enemy skilled in various forms of martial arts. You must match their skills and expose the weakness of each opponent to defeath them and become the tournament champion.
+
+Rock to a techno soundtrack as you perform mind-melting special moves and bone-snapping throws throughout the world, including Italy, King Edward Island, Greece, and Fiji. String together special combo moves, and with no rules there is no shame in kicking your opponent when he's down.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Tekken (USA)-image.jpg</image>
+		<releasedate>19951001T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Tekken 2/Tekken 2 (USA) (Rev 1).cue</path>
+		<name>Tekken 2</name>
+		<desc>MORE THAN A SEQUEL. THE UNDISPUTED #1 FIGHTING GAME ON THE PLANET.
+
+23 OF THE GREATEST FIGHTERS ON EARTH.
+Includes new characters, new bosses, each with new ways to inflict multiple ten-hit combos.
+
+23 NEW STAGES.
+Mind blowing backgrounds with phenomenal light-sourcing. Jam to 23 new music tracks as you jam an opponents face in the ground.
+
+BRAND NEW 3D ANIMATIONS.
+Cinematics at their finest. All-new intro sequence plus animations for each character not found in the arcade version.
+
+THREE NEW FIGHTING MODES.
+Not available in the original: Survival Mode, Battle Mode &amp; Practice Mode.
+
+MORE MOVES AND MULTIPLE COMBOS.
+New attack and throw reversals plus new bone-snapping techniques.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Tekken 2 (USA) (Rev 1)-image.png</image>
+		<releasedate>19960827T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Tekken 3/Tekken 3 (USA).cue</path>
+		<name>Tekken 3</name>
+		<desc>The Fight of Your Life
+
+An ancient evil force has reawakened, attacking in secret and feeding on the souls of mighty warriors. To lure it out of hiding will take the greatest fighting contest the world has ever seen... Tekken 3. Some are fighting for revenge, some for honor. Ultimately, all are fighting for their lives and the fate of all mankind.
+
+Hidden Features
+Secret characters, secret game modes, and dramatic cinematic sequences for each character.
+
+New Fighting Styles
+Including the Brazilian art of the Capoeira fighting and two new styles of Kung Fu.
+
+New Characters
+Includes your favorite arcade characters: Eddy, Jin, Xiaoyu, Hwoarang, Julia, Law, Mokujin, Bryan, Ogre, and more, along with new characters created just for the PlayStation version.
+
+Faster Gameplay
+Instant bounce-back from falls, more escapes from tackles and stuns, plus all-new throws make gameplay faster then ever before.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Tekken 3 (USA)-image.jpg</image>
+		<releasedate>19970322T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Terry Pratchett's Discworld/Terry Pratchett's Discworld (USA).cue</path>
+		<name>Terry Pratchett's Discworld</name>
+		<desc>This game is based on the Discworld novel series created by Terry Pratchett. You play Rincewind, a wizard with of little courage or talent in the occult.
+ A dragon is ravaging Ankh-Morpork, the city Rincewind the wizard lives in. The Arch Chancellor sends him to slaigh the beast and you must help him! So you wake up and take your luggage with you (which thinks it's a dog) and search for anything you can use to kill that dragon.
+ Talk to the people of the Discworld (a flat world on which Ankh Morpork lies), though most are useless because they're all mad. And that's exactly the funny part of the game, conversations which lead to nowhere and objects you find on your quest must often be used on such strange things that it's not even logical anymore. This game is meant for gamers who love English humour and like playing an adventure.
+ Gameplay:
+ The game is one of the most illogical graphic adventures released on PSX: Most of the puzzles have no logic at all and can even be really frustrating.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Terry Pratchett's Discworld (USA)-image.png</image>
+		<rating>0.65</rating>
+		<releasedate>19951115T000000</releasedate>
+		<developer>Teeny Weeny Games</developer>
+		<publisher>Psygnosis</publisher>
+		<genre>Adventure</genre>
+	</game>
+	<game>
+		<path>./Thousand Arms/Thousand Arms (USA) (Disc 1).CD1.cue</path>
+		<name>Thousand Arms</name>
+		<desc>In the quiet country of Tradguld, there are many sleepy little towns. Langoud rests on the coast, Sharan is the floating city where most of the trade and business is done, and Myscatonia is clouded in mystery and wonder. Each city has nothing in common with the other except for the fact they share the same country. That is until the Dianova sets their sights on them. Dianova is a dark evil empire bent on conquering the world through swords and magic.
+ PLOT:
+ Meis Triumph lives in the nature-rich town of Kant deep within the countryside of Tradguld. He has no worries and lives with his loving family who happens to be powerful Spirit Blacksmiths. Then the Dianova brought their war-machine crashing down on his quiet life. Everyone was forced to flee in terror and Meis became separated from the family he loved. He fled to Boyzby where he vows to free his people from the terror and oppression of the Dianovan Empire and where he meets the beautiful Sodina. Now the adventure truly begins.
+ GAMEPLAY:
+ Thousand Arms by Atlus is an RPG with a faceted story and intricate gameplay. As in all RPGs, it has a turn-based combat system but only the character in the fist position may attack. The other two members of your party are used for defensive back-up.
+ You play as Meis Triumph, heir to the Triumphs, a family of Spirit Blacksmiths. You can add two other members to the war party. You must travel the world and talk to people in the cities and towns to get valuable allies and information that will aid you on your quest. Stop in the village shops to get new armor, weapons and other items to truly make your band of heroes unstoppable.
+ You also have to go on dates as all great heroes do. Rather than seeking love, these dates have another purpose. Keep your date happy and you can get special weapons, information and new abilities. So be sure to be a gentleman and always pay attention to what must be done in the mini-games to win her over!
+ As a Spirit Blacksmith you have the ability to make weapons better by increasing their attack and defensive power as well as adding new features and spells. Of course, along the way you must battle enemies, explore dungeons and perform mini-quests in order to achieve your ultimate goal: the destruction of the Dianovan Empire and the evil Mecha.
+ Are you hero enough to save your people? Are you suave enough to be a great date? Do you have the emotional and spiritual power to be a truly powerful Spirit Blacksmith? Pray you do; your entire race is depending on you.
+ CHARACTERS:
+ - Meis Triumph- (16-years-old) The heir to a family of Spirit Blacksmiths, Meis learned to be a womanizer from his father. Stubborn and lazy, Meis is forced to change his ways against his will, first when the Dark Acolytes force him to leave his comfortable home, and then when the spirits of the Ancient Blacksmiths give him the mission of finding the sacred flames. He is attracted to Sodina, but can't resist hitting on other beautiful women.
+ In addition to his ability to reforge weapons to increase their power and grant them magical spells or special attacks, Meis can obtain "Elemental Beasts" to use in combat, similar to the "summons" seen in the Final Fantasy games. His weapon is a sword.
+ - Sodina Dawnfried- (15-years-old) The younger sister of a great Spirit Blacksmith named Jyabil, Sodina is a beautiful, red-haired girl; however, she's also very brave. After her brother is killed by the Dark Acolytes, she decides to help Meis on his quest. She has feelings for Meis but finds herself often enraged by his lecherous behaviour. Her weapon of choice is a dagger.
+ - Muza Grifford- (21-years-old) A knight and an old friend of Meis, he's brave but not too clever, and tended to freeze when in the presence of pretty girls. He has a very large physique. He develops feelings for Wyna. His weapon is a claymore, a huge sword that normal people would have a difficult time wielding.
+ - Wyna Grapple- (17-years-old) The daughter of the King of the Pirates, Wyna is a boisterous girl who loves fighting; she joins the party just to go on adventures. She wears a bikini as well as an eyepatch, but just for effect, she's not missing any eyes. If you pay attention during dates, you'll see that Wyna's eyepatch changes eyes from time to time. At first she's attracted to Meis because of his strength, but later returns Muza's feelings. Wyna's weapon is a large battle hammer.
+ - Nelsha Stylus- (Appears to be 16-years-old) A unique girl whose personality changes when she puts on new outfits, due to the spirits that inhabit them. Nelsha is a shy, nerdy-looking girl who speaks of herself in the third person. She dreams of becoming a "Dress Master", a title given to the best clothes designers in the world (similar to Metalia's title of Jewel Master). Her weapon is a magic sewing needle.
+ In addition, Nelsha can change her costumes in combat, which changes her form completely and gives her different powers.
+ - Kyleen Nelphe- (16-years-old) A green-haired female thief who tries to use the party for her own purposes, but ends up befriending and joining them. Her personality is cynical and sarcastic. She seems attracted to Soushi. Her weapon is a rapier, a sword used for fencing.
+ - Soushi Maharoba- (18-years-old) A samurai with a lot of pride, who considers himself a ladykiller as well. His most notable feature is his pink kimono (a garment not usually worn by males). He and Meis can't stand each other at first but eventually come to respect each other. His weapon is a katana called Masamune (a popular name given to katanas in RPGs, named after the blacksmith from feudal Japan).</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Thousand Arms (USA) (Disc 1).CD1-image.png</image>
+		<rating>0.75</rating>
+		<releasedate>19991013T000000</releasedate>
+		<developer>Red Entertainment</developer>
+		<publisher>Atlus</publisher>
+		<genre>Simulation</genre>
+	</game>
+	<game>
+		<path>./Thousand Arms/Thousand Arms (USA) (Disc 2).CD2.cue</path>
+		<name>Thousand Arms</name>
+		<desc>In the quiet country of Tradguld, there are many sleepy little towns. Langoud rests on the coast, Sharan is the floating city where most of the trade and business is done, and Myscatonia is clouded in mystery and wonder. Each city has nothing in common with the other except for the fact they share the same country. That is until the Dianova sets their sights on them. Dianova is a dark evil empire bent on conquering the world through swords and magic.
+ PLOT:
+ Meis Triumph lives in the nature-rich town of Kant deep within the countryside of Tradguld. He has no worries and lives with his loving family who happens to be powerful Spirit Blacksmiths. Then the Dianova brought their war-machine crashing down on his quiet life. Everyone was forced to flee in terror and Meis became separated from the family he loved. He fled to Boyzby where he vows to free his people from the terror and oppression of the Dianovan Empire and where he meets the beautiful Sodina. Now the adventure truly begins.
+ GAMEPLAY:
+ Thousand Arms by Atlus is an RPG with a faceted story and intricate gameplay. As in all RPGs, it has a turn-based combat system but only the character in the fist position may attack. The other two members of your party are used for defensive back-up.
+ You play as Meis Triumph, heir to the Triumphs, a family of Spirit Blacksmiths. You can add two other members to the war party. You must travel the world and talk to people in the cities and towns to get valuable allies and information that will aid you on your quest. Stop in the village shops to get new armor, weapons and other items to truly make your band of heroes unstoppable.
+ You also have to go on dates as all great heroes do. Rather than seeking love, these dates have another purpose. Keep your date happy and you can get special weapons, information and new abilities. So be sure to be a gentleman and always pay attention to what must be done in the mini-games to win her over!
+ As a Spirit Blacksmith you have the ability to make weapons better by increasing their attack and defensive power as well as adding new features and spells. Of course, along the way you must battle enemies, explore dungeons and perform mini-quests in order to achieve your ultimate goal: the destruction of the Dianovan Empire and the evil Mecha.
+ Are you hero enough to save your people? Are you suave enough to be a great date? Do you have the emotional and spiritual power to be a truly powerful Spirit Blacksmith? Pray you do; your entire race is depending on you.
+ CHARACTERS:
+ - Meis Triumph- (16-years-old) The heir to a family of Spirit Blacksmiths, Meis learned to be a womanizer from his father. Stubborn and lazy, Meis is forced to change his ways against his will, first when the Dark Acolytes force him to leave his comfortable home, and then when the spirits of the Ancient Blacksmiths give him the mission of finding the sacred flames. He is attracted to Sodina, but can't resist hitting on other beautiful women.
+ In addition to his ability to reforge weapons to increase their power and grant them magical spells or special attacks, Meis can obtain "Elemental Beasts" to use in combat, similar to the "summons" seen in the Final Fantasy games. His weapon is a sword.
+ - Sodina Dawnfried- (15-years-old) The younger sister of a great Spirit Blacksmith named Jyabil, Sodina is a beautiful, red-haired girl; however, she's also very brave. After her brother is killed by the Dark Acolytes, she decides to help Meis on his quest. She has feelings for Meis but finds herself often enraged by his lecherous behaviour. Her weapon of choice is a dagger.
+ - Muza Grifford- (21-years-old) A knight and an old friend of Meis, he's brave but not too clever, and tended to freeze when in the presence of pretty girls. He has a very large physique. He develops feelings for Wyna. His weapon is a claymore, a huge sword that normal people would have a difficult time wielding.
+ - Wyna Grapple- (17-years-old) The daughter of the King of the Pirates, Wyna is a boisterous girl who loves fighting; she joins the party just to go on adventures. She wears a bikini as well as an eyepatch, but just for effect, she's not missing any eyes. If you pay attention during dates, you'll see that Wyna's eyepatch changes eyes from time to time. At first she's attracted to Meis because of his strength, but later returns Muza's feelings. Wyna's weapon is a large battle hammer.
+ - Nelsha Stylus- (Appears to be 16-years-old) A unique girl whose personality changes when she puts on new outfits, due to the spirits that inhabit them. Nelsha is a shy, nerdy-looking girl who speaks of herself in the third person. She dreams of becoming a "Dress Master", a title given to the best clothes designers in the world (similar to Metalia's title of Jewel Master). Her weapon is a magic sewing needle.
+ In addition, Nelsha can change her costumes in combat, which changes her form completely and gives her different powers.
+ - Kyleen Nelphe- (16-years-old) A green-haired female thief who tries to use the party for her own purposes, but ends up befriending and joining them. Her personality is cynical and sarcastic. She seems attracted to Soushi. Her weapon is a rapier, a sword used for fencing.
+ - Soushi Maharoba- (18-years-old) A samurai with a lot of pride, who considers himself a ladykiller as well. His most notable feature is his pink kimono (a garment not usually worn by males). He and Meis can't stand each other at first but eventually come to respect each other. His weapon is a katana called Masamune (a popular name given to katanas in RPGs, named after the blacksmith from feudal Japan).</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Thousand Arms (USA) (Disc 2).CD2-image.png</image>
+		<rating>0.75</rating>
+		<releasedate>19991013T000000</releasedate>
+		<developer>Red Entertainment</developer>
+		<publisher>Atlus</publisher>
+		<genre>Simulation</genre>
+	</game>
+	<game>
+		<path>./Tomb Raider/Tomb Raider (USA).cue</path>
+		<name>Tomb Raider</name>
+		<desc>In Tomb Raider, the player controls the female archaeologist Lara Croft, in search for the three mysterious Scion artefacts across the world. The game is presented in third person perspective. Lara is always visible and the camera follows the action from behind or over her shoulder. The world she inhabits is fully drawn in three dimensions and characterized by its cubic nature. Ledges, walls and ceilings mostly sit at 90 degrees to each other, but sometimes feature sloping planes.
+The object of Tomb Raider is to guide Lara through a series of tombs and other locations in search of treasures and artefacts. On the way, she must kill dangerous animals and other creatures, while collecting objects and solving puzzles to gain access to an ultimate prize, usually a powerful artefact. Gunplay is restricted to the killing of various animals that appear throughout each stage, although occasionally Lara may be faced with a human opponent. Instead the emphasis lies on solving puzzles and performing trick jumps to complete each level.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Tomb Raider (USA)-image.jpg</image>
+		<releasedate>19961114T000000</releasedate>
+		<developer>Core Design Ltd.</developer>
+		<publisher>Eidos Interactive</publisher>
+		<genre>Action, Adventure</genre>
+	</game>
+	<game>
+		<path>./Tony Hawk's Pro Skater/Tony Hawk's Pro Skater (USA).cue</path>
+		<name>Tony Hawk's Pro Skater</name>
+		<desc>Go Big, Go Pro! Skate as legendary Tony Hawk, or as one of nine top pros. Work your way up the ranks by landing suicidal tricks in brutal competitions to become the highest ranked skate champ! Great features such as: Signature Pro Moves, fully skateable worlds, head-to-head competition, and Instant Replay Mode.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Tony Hawk's Pro Skater (USA)-image.jpg</image>
+		<releasedate>19990831T000000</releasedate>
+		<developer>Neversoft Entertainment</developer>
+		<publisher>Activision</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Tony Hawk's Pro Skater 2/Tony Hawk's Pro Skater 2 (USA).cue</path>
+		<name>Tony Hawk's Pro Skater 2</name>
+		<desc>Tony Hawk's Pro Skater 2 features the series' trademark open-ended gameplay, in which the player (playing as a professional skateboarder) completes a number of tasks which result in cash rewards. With money gained, the player can then purchase skill improvements and better skateboards. THPS2 was also the first game in the series to introduce the manual, a skateboarding trick where the performer balances on two wheels. This enables players to string together trick combos. The game also introduced the Noseslide, Tailslide, Bluntslide, Nosebluntside, Feeble, and Overcrook grinds. It was also the first of the Pro Skater games to feature Create-a-Skater and Park Editor features, now staples in the series.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Tony Hawk's Pro Skater 2 (USA)-image.jpg</image>
+		<releasedate>20000920T000000</releasedate>
+		<developer>Neversoft Entertainment</developer>
+		<publisher>Activision</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Tony Hawk's Pro Skater 4/Tony Hawk's Pro Skater 4 (USA).cue</path>
+		<name>Tony Hawk's Pro Skater 4</name>
+		<desc>The fourth game in Activision and Neversoft's seminal skateboarding series is designed to bring additions and refinements to the already polished gameplay that's made Tony Hawk's Pro Skater one of the most important video game franchises of its time. Many of these improvements are in line with advances made in earlier THPS sequels, while others may come as a surprise to longtime fans of the series.
+
+Environments are designed to seem even larger and more interactive in Tony Hawk's Pro Skater 4, with less worry over time limits and more emphasis on exploration. The game also adds new tricks to the pro skaters' repertoires, allowing huge, point-packed combos. The "spine transfer" challenges skaters to zip up one side of a double ramp and down the other. Players will trick off of moving cars and other interactive elements of the game's diverse levels with new finesse.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Tony Hawk's Pro Skater 4 (USA)-image.jpg</image>
+		<releasedate>20021023T000000</releasedate>
+		<developer>Vicarious Visions</developer>
+		<publisher>Activision</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Twisted Metal - Small Brawl/Twisted Metal - Small Brawl (USA).cue</path>
+		<name>Twisted Metal: Small Brawl</name>
+		<desc>Twisted Metal: Small Brawl is a vehicular combat game in which the player takes control of one of twelve unique remote control vehicles. While in control of a vehicle, the player can accelerate, steer, brake, reverse, activate the turbo, turn tightly, toggle between and activate weapons using the game controller's d-pad, analog sticks and buttons.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Twisted Metal - Small Brawl (USA)-image.jpg</image>
+		<releasedate>20011126T000000</releasedate>
+		<developer>Incog Inc. Entertainment</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Racing, Fighting</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./Wu-Tang - Shaolin Style/Wu-Tang - Shaolin Style (USA).cue</path>
+		<name>Wu-Tang: Shaolin Style</name>
+		<desc>Master the art of Wu-Tang
+
+Battle in up to four-player martial arts brawls. Master the attacks and weapons of each of nine Wu-Tang. Collect 30 chambers and eliminate your opponent in over 50 masterful cinematic fatality sequences.
+
+Featuring RZA, Method Man, Raekwon, GZA, Ol' Dirty BAstard, Masta Killa, U-God, Inspectah Deck, Ghostface Killah</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Wu-Tang - Shaolin Style (USA)-image.jpg</image>
+		<releasedate>19991031T000000</releasedate>
+		<developer>Paradox Development</developer>
+		<publisher>Activision</publisher>
+		<genre>Fighting</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./Metal Slug X/Metal Slug X (USA).cue</path>
+		<name>Metal Slug X</name>
+		<desc>Metal Slug X is an enhanced version of Metal Slug 2: Super Vehicle - 001/II. The main differences to the original release include:
+Additional weapons: Stones, Iron Lizard, Enemy Chaser, Super Grenade, and Drop Shot.
+Additional power-ups, items, and prisoners in most of the levels.
+Additional times of the day: stages can take place at twilight, sunset, or dusk.
+Some of the locations and vehicles in the game have been altered.
+Increased enemy count. Some of the enemies' placement has been changed.
+Many weapons have a stronger explosive force. Explosions yield more unexpected results.
+The soundtrack has been re-mixed.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Metal Slug X (USA)-image.jpg</image>
+		<releasedate>20010414T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Action, Shooter</genre>
+		<players>2</players>
+		<playcount>2</playcount>
+		<lastplayed>20210316T022909</lastplayed>
+	</game>
+	<game>
+		<path>./Tony Hawk's Pro Skater 3/Tony Hawk's Pro Skater 3 (USA).cue</path>
+		<name>Tony Hawk's Pro Skater 3</name>
+		<desc>With this release of Tony Hawk Pro Skater 3, one of the most universally popular and financially successful game franchises in recent memory returns home to roost on the original PlayStation console that launched the peerless extreme sports series in the autumn of 1999. Though this third version of the title is being released on half a dozen platforms and considerable effort has been invested in assuring that the PS2, Xbox, and GameCube versions of the live up to their "next-generation" technological potential, Neversoft and Activision endeavored to bless this PS version with all of the third edition's key innovations while retaining and reinforcing the engaging, accessible gameplay which is the true crux of the series' success.
+
+While it can't pump out the same amount of eye-candy as its counterparts on the 128-bit generation systems, this PlayStation release of THPS3 incorporates several of the new features designed to propel the series' popularity on other platforms. New landing tricks allow players to string together greater combinations, especially when moving from the ramps to the street. Environments are designed to test old and new skills alike. Loyal PS gamers should be pleased that all the important new levels, tricks, and combinations developed for the third edition of Tony Hawk Pro Skater are duly represented in this version of the game.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Tony Hawk's Pro Skater 3 (USA)-image.jpg</image>
+		<releasedate>20011030T000000</releasedate>
+		<developer>Shaba Games LLC</developer>
+		<publisher>Activision</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20210405T193404</lastplayed>
+	</game>
+	<game>
+		<path>./Mega Man X6/Mega Man X6 (USA) (Rev 1).cue</path>
+		<name>Mega Man X6</name>
+		<desc>Mission Critical... Zero is Missing... Search and Rescue!
+
+It's been three weeks since Earth's near collision with the space colony Eurasia. The disaster was averted by Zero's heroics. Now, on a bruised and battered planet, tales of rampaging reploids are surfacing. It's up to Mega Man X to investigate these mysteries but it's not going to be easy. Mega Man X must battle through a maze of levels and rescue reploids along the way. Return to battle again and again with the new Nightmare System, which randomizes level maps, enemies, and endings based on how you play the game. Mega Man X is back and now it's personal!
+
+* The next action packed-adventure in the Mega Man X legacy – help find Zero!
+* Collect stronger powerups by rescuing as many reploids as you can
+* Mega Man X now access Zero's sword as a new weapon
+* New Nightmare System – randomizes level maps, enemies and endings based on how you play the game</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Mega Man X6 (USA) (Rev 1)-image.jpg</image>
+		<releasedate>20011204T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action, Platform</genre>
+		<playcount>1</playcount>
+		<lastplayed>20210414T170806</lastplayed>
+	</game>
+	<game>
+		<path>./Crash Bandicoot 3 - Warped/Crash Bandicoot 3 - Warped (USA).cue</path>
+		<name>Crash Bandicoot 3: Warped</name>
+		<desc>After defeating Dr. Neo Cortex, Crash and his sister, Coco, take a well-deserved vacation. However, their friend, Aku Aku, has a bad feeling, and as usual, he is right. Aku's evil twin, Uka Uka, was the person behind all of Dr. Cortex's schemes. Now Uka and Cortex have hatched a plot to gain control of the powerful crystals they desire. The have hired Dr. N. Tropy to create a time machine, which will allow Uka and Cortex to go back and take the crystals without interference. Take control of Crash and Coco as they travel through 30 levels across five time periods in an effort to stop Uka and Cortex. Use a motorcycle, plane, bazooka, and a baby T-rex to help Crash survive, or destroy the bad guys by using new moves like the super belly flop or the double jump. Will Crash and Coco be able to save the world? Play CRASH BANDICOOT: Warped and find out.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Crash Bandicoot 3 - Warped (USA)-image.jpg</image>
+		<releasedate>19981031T000000</releasedate>
+		<developer>Naughty Dog Software</developer>
+		<publisher>Sony</publisher>
+		<genre>Adventure, Platform</genre>
+		<playcount>1</playcount>
+		<lastplayed>20210420T153158</lastplayed>
+	</game>
+	<game>
+		<path>./Gex/Gex (USA) (Rev 1).cue</path>
+		<name>Gex</name>
+		<desc>Enter your television to defeat the evil Rez by collecting remotes to open worlds inside your tv. You are a gecko with all the usual platform hero skills such as jump, fire and close range attack, but also suction cups to help you scale walls, a tongue to pick up those tricky to get power-ups and plenty of wise-cracks to keep you amused. Use them all to make your way through TV land searching for the remotes, collecting pickups, power-ups and killing TVs.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Gex (USA) (Rev 1)-image.jpg</image>
+		<releasedate>19951201T000000</releasedate>
+		<developer>Crystal Dynamics, Inc.</developer>
+		<publisher>Eidos Interactive</publisher>
+		<genre>Platform</genre>
+		<playcount>1</playcount>
+		<lastplayed>20210422T231328</lastplayed>
+	</game>
+	<game>
+		<path>./Gex 3 - Deep Cover Gecko/Gex 3 - Deep Cover Gecko (USA).cue</path>
+		<name>Gex 3: Deep Cover Gecko</name>
+		<desc>When Gex is watching TV one day, he discovers that Rez has kidnapped Agent Xtra (the agent from Gex: Enter the Gecko's backstory), head of the TV Terrorist Defense Unit, to get to him. He teleports to the batcave-like lair he has in the Media Dimension, and begins another adventure. Each level parodies a certain aspect of television culture (here the levels exist as stand-alone channels). Gex enters each level through a television set. He must collect remote controls to advance to the next level in order to complete his mission and rescue Xtra.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Gex 3 - Deep Cover Gecko (USA)-image.jpg</image>
+		<releasedate>19990301T000000</releasedate>
+		<developer>Crystal Dynamics, Inc.</developer>
+		<publisher>Eidos Interactive</publisher>
+		<genre>Platform</genre>
+		<playcount>1</playcount>
+		<lastplayed>20210422T233418</lastplayed>
+	</game>
+	<game>
+		<path>./Metal Gear Solid/Metal Gear Solid (USA) (Disc 2) (v1.0).CD2.cue</path>
+		<name>Metal Gear Solid</name>
+		<desc>You are Snake, a government agent on a mission to regain control of a secret nuclear weapons base from terrorist hands. Lightly armed and facing an army of foes, Snake must avoid firefights in order to survive. If Snake can locate them he can utilize advanced hardware, ranging from silenced pistols to ground-to-air missiles. Enemies react to sight and sound - so stay quiet and stay in the shadows. State-of-the-art graphics: textures, transparencies, models and explosions. Taut, gripping story with multiple endings - a truly cinematic experience.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Metal Gear Solid (USA) (Disc 2) (v1.0).CD2-image.png</image>
+		<rating>0.8</rating>
+		<releasedate>19981021T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shooter</genre>
+		<playcount>1</playcount>
+		<lastplayed>20210502T214239</lastplayed>
+	</game>
+	<game>
+		<path>./Strider/Strider (USA).cue</path>
+		<name>Strider</name>
+		<desc>A PlayStation version of Strider was produced by Capcom, which was first released in 2000 as a second disc which came packaged with the PlayStation version of Strider 2. The North American release has the Strider and Strider 2 game code pressed onto the wrong disc (so to play Strider you actually need to insert the Strider 2 disc).</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Strider (USA)-image.jpg</image>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action, Platform</genre>
+		<playcount>1</playcount>
+		<lastplayed>20210502T214544</lastplayed>
+	</game>
+	<game>
+		<path>./Street Fighter Alpha 3/Street Fighter Alpha 3 (USA).cue</path>
+		<name>Street Fighter Alpha 3</name>
+		<desc>Street Fighter Alpha 3...Scores a Triple K.O.
+
+The perfect version of the arcade blockbuster!
+New world tour mode and other enhancements!
+3 fighting styles for every character!</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Street Fighter Alpha 3 (USA)-image.jpg</image>
+		<releasedate>19990430T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<playcount>2</playcount>
+		<lastplayed>20210309T150819</lastplayed>
+	</game>
+	<game>
+		<path>./Castlevania - Symphony of the Night/Castlevania - Symphony of the Night (USA).cue</path>
+		<name>Castlevania: Symphony of the Night</name>
+		<desc>Five years ago, Richter Belmont, the latest in the Belmont lineage and the one destined to be a Vampire Hunter, defeated Dracula in a brutal battle which nearly cost him the love of his life, Annette, and her sister, Maria. Now, Richter has suddenly vanished, CastleVania has mysteriously reappeared, and Maria, now a young woman, sets off to find Richter. Alucard, the son of Dracula, is awakened from his eternal slumber after this large shift in power, and enters into Castlevania to find some answers and perhaps destroy the castle once again.
+
+Symphony of the Night is a direct sequel to Dracula X: Rondo of Blood. The game is set in a castle which you can explore freely with many different paths, although often items in certain areas need to be found that will allow passage to others. The action-based gameplay incorporates now strong RPG elements. The hero receives experience points for defeating enemies, gains levels and becomes more powerful. There is also money to be found in the game, and various accessories to buy. In a separate screen, players need to equip attack weapons, shields and other items. Magic plays an important role, as well as secondary weapons and a large amount of "special moves" that are executed similar to advanced one-on-one fighting games.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Castlevania - Symphony of the Night (USA)-image.jpg</image>
+		<releasedate>19970320T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action, Adventure</genre>
+		<favorite>true</favorite>
+		<playcount>5</playcount>
+		<lastplayed>20210930T005745</lastplayed>
+	</game>
+	<game>
+		<path>./Chocobo Racing/Chocobo Racing (USA).cue</path>
+		<name>Chocobo Racing</name>
+		<desc>The Chocobo has appeared in every Final Fantasy game since Final Fantasy IV as a large yellow bird that you can ride to other destinations or use during fights. With Chocobo Racing, you can race a Chocobo along with a range of different characters both from the Final Fantasy world including Cloud and Cid from Final Fantasy VII and created just for the game through many different fantasy worlds at high speed, using a selection of weapons to aid you. The game supports 1 and 2 player racing</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Chocobo Racing (USA)-image.jpg</image>
+		<releasedate>19990318T000000</releasedate>
+		<developer>Squaresoft</developer>
+		<publisher>Squaresoft</publisher>
+		<genre>Racing</genre>
+		<players>2</players>
+		<playcount>2</playcount>
+		<lastplayed>20210930T005704</lastplayed>
+	</game>
+	<game>
+		<path>./CTR - Crash Team Racing/CTR - Crash Team Racing (USA).cue</path>
+		<name>Crash Team Racing</name>
+		<desc>The main antagonist of the story, Nitros Oxide, is the self-proclaimed fastest racer in the galaxy who threatens to turn Earth into a concrete parking lot. Preceding Oxide are four boss characters: Ripper Roo, a deranged straitjacket-wearing kangaroo; Papu Papu, the morbidly obese leader of the island's native tribe; Komodo Joe, a Komodo dragon with a speech sound disorder; and Pinstripe Potoroo, a greedy pinstripe-clad potoroo. The four boss characters, along with an imperfect and morally ambiguous clone of Crash Bandicoot named Fake Crash, become accessible as playable characters if the Adventure Mode is fully completed.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/CTR - Crash Team Racing (USA)-image.jpg</image>
+		<releasedate>19990930T000000</releasedate>
+		<developer>Naughty Dog Software</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Racing</genre>
+		<players>4</players>
+		<playcount>3</playcount>
+		<lastplayed>20210930T005736</lastplayed>
+	</game>
+	<game>
+		<path>./Darkstalkers - The Night Warriors/Darkstalkers - The Night Warriors (USA).cue</path>
+		<name>Darkstalkers: The Night Warriors</name>
+		<desc>Darkstalkers: The Night Warriors is a 2D one-on-one fighting game. Select one of the ten available fighters and two unlockable boss characters, each based on a classic monster (vampire, werewolf, golem, zombie, succubus, mummy, catwoman, oni, merman, sasquatch, robot, alien.) and fight it out in various horror-themed locations. Gameplay is mostly concentrated on special moves and combos.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Darkstalkers - The Night Warriors (USA)-image.jpg</image>
+		<releasedate>19960320T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20210930T005726</lastplayed>
+	</game>
+	<game>
+		<path>./Ape Escape/Ape Escape (USA).cue</path>
+		<name>Ape Escape</name>
+		<desc>Ape Escape is arguably one of PlayStation's most original platform titles. The game exclusively used Sony's Dual Shock controller and required the player to use both analog sticks to control the game's hero. Ape Escape is the story of a band of rogue monkeys that escape from the amusement park and mistakenly break into a genius professor's laboratory. They find the inventions called the Peak Point Helmets and instantly become intelligent, with a particularly ingenious simian named Specter running the others. In a theme reminiscent of Planet of the Apes, these little creeps plan on changing history so that apes rule the world and humankind becomes the special attraction at amusement parks. The premise was damn cool...and more importantly, it had monkeys!</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Ape Escape (USA)-image.jpg</image>
+		<releasedate>19990618T000000</releasedate>
+		<developer>Sony Japan Studio</developer>
+		<publisher>Sony</publisher>
+		<genre>Platform</genre>
+		<playcount>1</playcount>
+		<lastplayed>20211222T005305</lastplayed>
+	</game>
+	<game>
+		<path>./Breath of Fire III/Breath of Fire III (USA).cue</path>
+		<name>Breath of Fire III</name>
+		<desc>A MYSTERIOUS POWER...AN UNLIKELY HERO...A CLASSIC ADVENTURE...
+
+The lone survivor of a legendary dragon clan, a rebellious youth embarks on a great journey. One of discovery... and danger. The classic role-playing game now returns to continue the epic tales of Ryu and the dragon people. An inner power of uncertain origin matures Ryu into a warrior who ponders his purpose as he embarks on a mystical journey. What lies ahead is shrouded in mystery... yet strangely familiar.
+
+DRAGON GENE SPLICING
+LEGENDARY ROLEPLAYING
+AN EPIC 3-D ENVIRONMENT
+LEARN OR STEAL ADVANCE SKILLS AND TECHNIQUES
+POWERFUL MAGIC
+
+NOW YOU POSSESS THE POWER TO CONTROL RYU'S DESTINY.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Breath of Fire III (USA)-image.jpg</image>
+		<releasedate>19970911T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Role-Playing</genre>
+		<playcount>1</playcount>
+		<lastplayed>20211222T005317</lastplayed>
+	</game>
+</gameList>

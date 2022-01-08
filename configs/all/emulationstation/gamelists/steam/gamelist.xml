@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Animal Crossing.sh</path>
+		<name>Animal Crossing</name>
+		<playcount>1</playcount>
+		<lastplayed>20201029T171834</lastplayed>
+	</game>
+	<game>
+		<path>./Minecraft.sh</path>
+		<name>Minecraft</name>
+		<playcount>3</playcount>
+		<lastplayed>20201031T224507</lastplayed>
+	</game>
+	<game>
+		<path>./Mario Kart Wii.sh</path>
+		<name>Mario Kart Wii</name>
+		<playcount>1</playcount>
+		<lastplayed>20201229T222543</lastplayed>
+	</game>
+	<game>
+		<path>./FEZ.sh</path>
+		<name>FEZ</name>
+		<playcount>3</playcount>
+		<lastplayed>20210218T135126</lastplayed>
+	</game>
+	<game>
+		<path>./Undertale.sh</path>
+		<name>Undertale</name>
+		<playcount>4</playcount>
+		<lastplayed>20210108T143953</lastplayed>
+	</game>
+	<game>
+		<path>./Fallout 76.sh</path>
+		<name>Fallout 76</name>
+		<playcount>1</playcount>
+		<lastplayed>20210322T220619</lastplayed>
+	</game>
+	<game>
+		<path>./Metroid Prime.sh</path>
+		<name>Metroid Prime</name>
+		<playcount>6</playcount>
+		<lastplayed>20210418T150523</lastplayed>
+	</game>
+</gameList>
