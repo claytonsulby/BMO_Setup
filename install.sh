@@ -1,7 +1,7 @@
 #!/bin/bash
 
-if [ "$EUID" -ne 0 ]
-  then echo "Please run as root (sudo)"
+if [[ "$EUID" -ne 0 ]] ; then
+  echo "Please run as root (sudo)"
   exit 1
 fi
 
@@ -26,4 +26,3 @@ chmod +x install.sh
 # Move pulled files to correct locations
 echo "Moving files to correct locations"
 rsync -auv ./configs/ /opt/retropie/configs/
-rsync -auv
