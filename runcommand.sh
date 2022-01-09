@@ -1257,27 +1257,7 @@ function show_launch() {
 }
 
 function show_video() {
-    local videos=()
-
-    videos+=(
-        "$HOME/RetroPie/videos/bmo"
-    )
-
-    local video
-    local path
-    local ext
-    for path in "${videos[@]}"; do
-        for ext in mp4 mov; do
-            if [[ -f "$path.$ext" ]]; then
-                video="$path.$ext"
-                break 2
-            fi
-        done
-    done
-
-    omxplayer -o alsa $video > /dev/null 2>&1
-
-    #omxplayer -o alsa $(find $HOME/RetroPie/videos/bmo | shuf -n 1) > /dev/null 2>&1
+    omxplayer -o alsa $(find $HOME/RetroPie/videos/bmo | shuf -n 1) > /dev/null 2>&1
 }
 
 function check_menu() {
