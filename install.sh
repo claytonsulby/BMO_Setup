@@ -26,3 +26,6 @@ chmod +x install.sh
 # Move pulled files to correct locations
 echo "Moving files to correct locations"
 rsync -auv ./configs/ /opt/retropie/configs/
+rsync -auv ./bin/ ~/bin/
+rsync -auv ./runcommand.sh /opt/retropie/supplementary/runcommand/runcommand.sh
+rsync -auv ./retropiemenu ~/RetroPie/retropiemenu
