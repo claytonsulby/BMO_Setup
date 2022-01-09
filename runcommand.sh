@@ -1259,11 +1259,9 @@ function show_launch() {
 function show_video() {
     local videos=()
 
-    if [[ true ]]; then
-        videos+=(
-            "$HOME/RetroPie/videos/bmo/*"
-        )
-    fi
+    videos+=(
+        "$HOME/RetroPie/videos/bmo"
+    )
 
     local video
     local path
@@ -1271,7 +1269,7 @@ function show_video() {
     for path in "${videos[@]}"; do
         for ext in mp4 mov; do
             if [[ -f "$path.$ext" ]]; then
-                image="$path.$ext"
+                video="$path.$ext"
                 break 2
             fi
         done
