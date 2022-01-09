@@ -80,7 +80,6 @@
 ROOTDIR="/opt/retropie"
 CONFIGDIR="$ROOTDIR/configs"
 LOG="/dev/shm/runcommand.log"
-HOME="~/pi/RetroPie"
 
 RUNCOMMAND_CONF="$CONFIGDIR/all/runcommand.cfg"
 VIDEO_CONF="$CONFIGDIR/all/videomodes.cfg"
@@ -1259,7 +1258,7 @@ function show_launch() {
 }
 
 function show_video() {
-    omxplayer -o alsa $(find ~/RetroPie/videos/bmo | shuf -n 1) > /dev/null 2>&1
+    omxplayer -o alsa $(find $HOME/RetroPie/videos/bmo | shuf -n 1) > /dev/null 2>&1
 }
 
 function check_menu() {
