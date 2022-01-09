@@ -1,11 +1,13 @@
 #!/bin/bash
 
-if [[ "$EUID" -ne 0 ]] ; then
+if [ "$EUID" -ne 0 ]
+  then
   echo "Please run as root (sudo)"
   exit 1
 fi
 
-if [[ $1 != "" ]] ; then
+if [ $1 != "" ]
+  then
   BRANCH=$1
 else
   BRANCH="master"
@@ -28,4 +30,4 @@ echo "Moving files to correct locations"
 rsync -auv ./configs/ /opt/retropie/configs/
 rsync -auv ./bin/ ~/bin/
 rsync -auv ./runcommand.sh /opt/retropie/supplementary/runcommand/runcommand.sh
-rsync -auv ./retropiemenu ~/RetroPie/retropiemenu
+rsync -auv ./retropiemenu ~/RetroPie/retropiemenu/
