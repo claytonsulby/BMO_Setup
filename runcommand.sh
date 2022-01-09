@@ -87,7 +87,6 @@ EMU_CONF="$CONFIGDIR/all/emulators.cfg"
 BACKENDS_CONF="$CONFIGDIR/all/backends.cfg"
 RETRONETPLAY_CONF="$CONFIGDIR/all/retronetplay.cfg"
 JOY2KEY="$ROOTDIR/admin/joy2key/joy2key"
-RUNVIDEOS="$HOME/runvideos"
 
 # modesetting tools
 TVSERVICE="/opt/vc/bin/tvservice"
@@ -1258,7 +1257,29 @@ function show_launch() {
 }
 
 function show_video() {
-    omxplayer -o alsa $(find $HOME/RetroPie/videos/bmo | shuf -n 1) > /dev/null 2>&1
+    local videos=()
+
+    if [[ true ]]; then
+        videos+=(
+            "$HOME/RetroPie/videos/bmo/*"
+        )
+    fi
+
+    local video
+    local path
+    local ext
+    for path in "${videos[@]}"; do
+        for ext in mp4 mov; do
+            if [[ -f "$path.$ext" ]]; then
+                image="$path.$ext"
+                break 2
+            fi
+        done
+    done
+
+    omxplayer -o alsa $video > /dev/null 2>&1
+
+    #omxplayer -o alsa $(find $HOME/RetroPie/videos/bmo | shuf -n 1) > /dev/null 2>&1
 }
 
 function check_menu() {
