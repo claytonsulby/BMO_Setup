@@ -25,4 +25,5 @@ chmod +x install.sh
 
 # Move pulled files to correct locations
 echo "Moving files to correct locations"
-#cp -auv 
+rsync -auv ./configs/ /opt/retropie/configs/
+rsync -auv
