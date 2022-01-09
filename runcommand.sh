@@ -80,6 +80,7 @@
 ROOTDIR="/opt/retropie"
 CONFIGDIR="$ROOTDIR/configs"
 LOG="/dev/shm/runcommand.log"
+HOME="~/pi/RetroPie"
 
 RUNCOMMAND_CONF="$CONFIGDIR/all/runcommand.cfg"
 VIDEO_CONF="$CONFIGDIR/all/videomodes.cfg"
@@ -87,6 +88,7 @@ EMU_CONF="$CONFIGDIR/all/emulators.cfg"
 BACKENDS_CONF="$CONFIGDIR/all/backends.cfg"
 RETRONETPLAY_CONF="$CONFIGDIR/all/retronetplay.cfg"
 JOY2KEY="$ROOTDIR/admin/joy2key/joy2key"
+RUNVIDEOS="$HOME/runvideos"
 
 # modesetting tools
 TVSERVICE="/opt/vc/bin/tvservice"
@@ -1256,6 +1258,10 @@ function show_launch() {
     fi
 }
 
+function show_video() {
+    omxplayer -o alsa $(find ~/RetroPie/videos/bmo | shuf -n 1) > /dev/null 2>&1
+}
+
 function check_menu() {
     local dont_launch=0
     # check for key pressed to enter configuration
@@ -1334,6 +1340,7 @@ function runcommand() {
 
     start_joy2key
     show_launch
+    show_video
 
     if [[ "$DISABLE_MENU" -ne 1 ]]; then
         if ! check_menu; then
