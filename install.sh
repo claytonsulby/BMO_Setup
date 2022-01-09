@@ -1,13 +1,11 @@
 #!/bin/bash
 
-if [ "$EUID" -ne 0 ]
-  then
+if [[ "$EUID" -ne 0 ]] ; then
   echo "Please run as root (sudo)"
   exit 1
 fi
 
-if [ $1 != "" ]
-  then
+if [[ $1 -ne "" ]] ; then
   BRANCH=$1
 else
   BRANCH="master"
