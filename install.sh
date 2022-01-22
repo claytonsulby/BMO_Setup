@@ -29,3 +29,4 @@ rsync -auv ./configs/ /opt/retropie/configs/
 rsync -auv ./bin/ ~/bin/
 rsync -auv ./runcommand.sh /opt/retropie/supplementary/runcommand/runcommand.sh
 rsync -auv ./retropiemenu ~/RetroPie/retropiemenu/
+rsync -auv ./asplashscreen.sh /opt/retropie/supplementary/splashscreen/asplashscreen.sh
