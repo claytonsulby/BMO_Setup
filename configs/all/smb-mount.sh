@@ -1,7 +1,7 @@
 #!/bin/bash
 
 username="clay"
-password="Cl@yt0n98\!"
+password="Cl@yt0n98!"
 hostname="192.168.1.53"
 
 echo "Mounting: ${username}@${hostname}"
