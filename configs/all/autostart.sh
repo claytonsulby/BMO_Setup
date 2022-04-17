@@ -21,8 +21,13 @@
 # This file exists in '/opt/retropie/configs/all/autostart.sh'
 
 # Mount SMB for remote roms
-echo "Mounting SMB"
-sudo sh ./smb-mount.sh
+username="clay"
+password="Cl@yt0n98!"
+hostname="192.168.1.53"
+
+echo "Mounting: ${username}@${hostname}"
+sudo mount -t cifs -o username=${username},password=${password},nounix,noserverino //${hostname}/Games/roms /home/pi/RetroPie/roms
+sudo mount -t cifs -o username=${username},password=${password},nounix,noserverino //${hostname}/Games/saves /home/pi/RetroPie/saves
 
 # Restart to hdmi on boot to fix any changes to file
 sudo /usr/bin/python /home/pi/Circuit-Shield/settings/reboot_to_hdmi.py --check
