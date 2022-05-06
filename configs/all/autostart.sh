@@ -27,7 +27,7 @@ hostname="192.168.1.53"
 
 echo "Mounting: ${username}@${hostname}"
 sudo mount -t cifs -o username=${username},password=${password},nounix,noserverino //${hostname}/Games/roms /home/pi/RetroPie/roms
-sudo mount -t cifs -o username=${username},password=${password},nounix,noserverino //${hostname}/Games/saves /home/pi/RetroPie/saves
+sudo mount -t cifs -o username=${username},password=${password},nounix,noserverino //${hostname}/Games/saves /home/pi/RetroPie/smb-saves
 
 # Restart to hdmi on boot to fix any changes to file
 sudo /usr/bin/python /home/pi/Circuit-Shield/settings/reboot_to_hdmi.py --check
