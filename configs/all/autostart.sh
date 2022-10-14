@@ -23,7 +23,7 @@
 # Mount SMB for remote roms
 username="clay"
 password="Cl@yt0n98!"
-hostname="192.168.1.53"
+hostname="192.168.1.24"
 
 echo "Mounting: ${username}@${hostname}"
 sudo mount -t cifs -o username=${username},password=${password},nounix,noserverino //${hostname}/Games/roms /home/pi/RetroPie/roms
